@@ -1,4 +1,4 @@
 @ECHO OFF
 
-IF NOT EXIST build MKDIR build
-tar.exe -cvaf "build/rpg-server.zip" "pack.mcmeta" "data"
+IF NOT EXIST dist MKDIR dist
+tar.exe -cvaf "dist/rpg-server.zip" "pack.mcmeta" "data"
