@@ -1,0 +1,17 @@
+{
+  "name": "Example Skill",
+  "icon": {
+    "id": "minecraft:potato"
+  },
+  "description": "skillet",
+  "levels": [
+    {
+      "cost": 2,
+      "attributes": {
+        "minecraft:generic.reach_distance": {"amount": 1, "operation": "add_value"},
+        "minecraft:generic.jump_height": {"amount": 0.05, "operation": "add_multiplied_base"}
+      }
+    },
+    3
+  ]
+}

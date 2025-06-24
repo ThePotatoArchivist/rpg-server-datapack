@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "rpgserver:example_skill": 1
+  },
+  "items": {
+    "entries": [
+      "minecraft:stone",
+      "#minecraft:buttons"
+    ],
+    "message": "haha"
+  },
+  "item_name": "Funny Item"
+}

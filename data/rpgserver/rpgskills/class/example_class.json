@@ -1,0 +1,10 @@
+{
+  "name": "Example",
+  "icon": {
+    "id": "minecraft:stone"
+  },
+  "description": "Stone",
+  "starting_levels": {
+    "rpgserver:example_skill": 1
+  }
+}
