@@ -1,17 +1,19 @@
 {
   "name": "Example Skill",
-  "icon": {
-    "id": "minecraft:potato"
-  },
+  "icon": "minecraft:potato",
   "description": "skillet",
   "levels": [
     {
-      "cost": 2,
       "attributes": {
         "minecraft:generic.armor": 1,
         "minecraft:generic.attack_speed": {"amount": 0.05, "operation": "add_multiplied_base"}
       }
     },
-    3
+    {},
+    {
+      "jobs": [
+        "rpgserver:example_job"
+      ]
+    }
   ]
 }
