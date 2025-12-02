@@ -1,6 +1,6 @@
 {
   "requirements": {
-    "rpgserver:1_vitality": 1
+    "rpgserver:vitality": 1
   },
   "items": {
     "entries": [

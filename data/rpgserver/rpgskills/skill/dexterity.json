@@ -1,9 +1,9 @@
 {
-    "name": "Vitality",
-    "icon": "minecraft:apple",
-    "description": "big macho",
-    "levels": [
-        {
+    "name": "Dexterity",
+    "icon": "minecraft:bow",
+    "description": "pew pew",
+    "levels": {
+        "1": {
             "attributes": {
                 "minecraft:generic.armor": 1,
                 "minecraft:generic.attack_speed": {
@@ -15,10 +15,6 @@
 
 
 
-        {},
-        
-        
-        
-        {}
-    ]
+        "3": {}
+    }
 }

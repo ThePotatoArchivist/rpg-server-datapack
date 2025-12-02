@@ -1,9 +1,9 @@
 {
-    "name": "Affinity",
-    "icon": "minecraft:campfire",
-    "description": "twees and animwals",
-    "levels": [
-        {
+    "name": "Ingenuity",
+    "icon": "minecraft:waxed_copper_block",
+    "description": "ebidebeda pe ibedibedi bai do",
+    "levels": {
+        "1": {
             "attributes": {
                 "minecraft:generic.armor": 1,
                 "minecraft:generic.attack_speed": {
@@ -15,10 +15,6 @@
 
 
 
-        {},
-        
-        
-        
-        {}
-    ]
+        "3": {}
+    }
 }

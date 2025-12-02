@@ -1,9 +1,9 @@
 {
-    "name": "Strength",
-    "icon": "minecraft:mace",
-    "description": "WE GON RISE UP",
-    "levels": [
-        {
+    "name": "Craft",
+    "icon": "minecraft:crafting_table",
+    "description": "clink clank clink",
+    "levels": {
+        "1": {
             "attributes": {
                 "minecraft:generic.armor": 1,
                 "minecraft:generic.attack_speed": {
@@ -15,10 +15,6 @@
 
 
 
-        {},
-        
-        
-        
-        {}
-    ]
+        "3": {}
+    }
 }
