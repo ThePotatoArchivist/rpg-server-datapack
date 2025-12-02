@@ -1,0 +1,24 @@
+{
+    "name": "Vitality",
+    "icon": "minecraft:potato",
+    "description": "I almost broke evertang",
+    "levels": [
+        {
+            "attributes": {
+                "minecraft:generic.armor": 1,
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.05,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+
+
+
+        {},
+        
+        
+        
+        {}
+    ]
+}

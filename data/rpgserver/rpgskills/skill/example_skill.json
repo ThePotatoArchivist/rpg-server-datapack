@@ -9,9 +9,15 @@
         "minecraft:generic.attack_speed": {"amount": 0.05, "operation": "add_multiplied_base"}
       }
     },
+
+
+
     {
 
     },
+
+
+    
     {
       "jobs": [
         "rpgserver:example_job"
