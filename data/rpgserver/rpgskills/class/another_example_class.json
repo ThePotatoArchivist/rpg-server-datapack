@@ -1,0 +1,8 @@
+{
+  "name": "Example 3",
+  "icon": "minecraft:lead",
+  "description": "wow",
+  "starting_levels": {
+    "rpgserver:example_skill": 2
+  }
+}
