@@ -1,7 +1,7 @@
 {
   "name": "Pioneer",
   "icon": "minecraft:spyglass",
-  "description": "Pioneers brim with Vitality and can endure even the harshest journies!",
+  "description": "Pioneers brim with Vitality and can endure even the harshest journeys!",
   "starting_levels": {
     "rpgserver:1_vitality": 3
   }
