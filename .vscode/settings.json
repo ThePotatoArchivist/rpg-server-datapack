@@ -23,7 +23,7 @@
             "fileMatch": [
                 "/data/*/rpgskills/lockgroup/*.json"
             ],
-            "url": "https://raw.githubusercontent.com/ThePotatoArchivist/RPGSkills/refs/heads/main/assets/schemas/lockgroup.json"
+            "url": "https://raw.githubusercontent.com/ThePotatoArchivist/RPGSkills/refs/heads/main/assets/schemas/lock_group.json"
         }
     ]
 }
