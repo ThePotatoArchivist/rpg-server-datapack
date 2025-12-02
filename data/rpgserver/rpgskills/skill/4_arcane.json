@@ -1,0 +1,24 @@
+{
+    "name": "Arcane",
+    "icon": "minecraft:bow",
+    "description": "pew pew",
+    "levels": [
+        {
+            "attributes": {
+                "minecraft:generic.armor": 1,
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.05,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+
+
+
+        {},
+        
+        
+        
+        {}
+    ]
+}

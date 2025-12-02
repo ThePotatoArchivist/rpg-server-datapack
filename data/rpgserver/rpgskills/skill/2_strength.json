@@ -1,7 +1,7 @@
 {
-    "name": "Vitality",
-    "icon": "minecraft:potato",
-    "description": "I almost broke evertang",
+    "name": "Strength",
+    "icon": "minecraft:mace",
+    "description": "WE GON RISE UP",
     "levels": [
         {
             "attributes": {

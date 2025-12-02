@@ -3,6 +3,6 @@
   "icon": "minecraft:spyglass",
   "description": "Pioneers brim with Vitality and can endure even the harshest journies!",
   "starting_levels": {
-    "rpgserver:vitality": 3
+    "rpgserver:1_vitality": 3
   }
 }
