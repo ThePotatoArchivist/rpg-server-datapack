@@ -1,7 +1,7 @@
 {
     "name": "Arcane",
-    "icon": "minecraft:bow",
-    "description": "pew pew",
+    "icon": "minecraft:enchanted_book",
+    "description": "fireball.",
     "levels": [
         {
             "attributes": {
