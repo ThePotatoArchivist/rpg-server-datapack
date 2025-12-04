@@ -10,11 +10,16 @@
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+
+            "jobs":
+                [
+                    "rpgserver:kill_zombie",
+                    "rpgserver:kill_undead",
+                    "rpgserver:kill_mobs_while_poisoned",
+                    "rpgserver:breed_farm_animals"
+                ]
         },
-
-
-
-        "3": {}
+        "30": {}
     }
 }

@@ -1,0 +1,41 @@
+{
+  "name": "Kill undead",
+  "description": "",
+  "cooldown_ticks": 300,
+  "reward_points": 300,
+  "tasks": {
+    "killed_zombies": {
+      "description": "Kill zombies",
+      "count": 5,
+      "trigger": "minecraft:player_killed_entity",
+       "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "#minecraft:zombies"
+            }
+          }
+        ]
+      }
+    },
+
+    "killed_skeletons": {
+      "description": "Kill skeletons",
+      "count": 5,
+      "trigger": "minecraft:player_killed_entity",
+       "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "#minecraft:skeletons"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
