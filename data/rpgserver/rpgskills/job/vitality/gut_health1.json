@@ -1,0 +1,50 @@
+{
+  "name": "Gut health 1",
+  "description": "Have a hearty meal",
+  "cooldown_ticks": 300,
+  "reward_points": 300,
+  "tasks": {
+    "milk": {
+      "description": "Drink milk",
+      "count": 2,
+      "trigger": "minecraft:consume_item",
+       "conditions": {
+        "item": {
+          "items": [
+            "minecraft:milk_bucket"
+          ]
+        }
+
+      }
+    },
+
+    "stew": {
+      "description": "Eat stew",
+      "count": 2,
+      "trigger": "minecraft:consume_item",
+       "conditions": {
+        "item": {
+          "items": [
+            "minecraft:rabbit_stew",
+            "minecraft:mushroom_stew"
+          ]
+        }
+
+      }
+    },
+
+    "bread": {
+      "description": "Eat bread",
+      "count": 2,
+      "trigger": "minecraft:consume_item",
+       "conditions": {
+        "item": {
+          "items": [
+            "minecraft:bread"
+          ]
+        }
+
+      }
+    }
+  }
+}

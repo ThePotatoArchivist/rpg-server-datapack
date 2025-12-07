@@ -11,15 +11,24 @@
                     "operation": "add_multiplied_base"
                 }
             },
-
-            "jobs":
-                [
-                    "rpgserver:kill_zombie",
-                    "rpgserver:kill_undead",
-                    "rpgserver:kill_mobs_while_poisoned",
-                    "rpgserver:breed_farm_animals"
-                ]
+            "jobs": [
+                "rpgserver:vitality/gut_health1"
+            ]
         },
+
+        "10": {
+            "jobs": [
+                "rpgserver:vitality/endurance1"
+            ]
+        },
+
+        "15": {
+            "jobs": [
+                "rpgserver:vitality/fortitude1"
+            ]
+        },
+
+
         "30": {}
     }
 }

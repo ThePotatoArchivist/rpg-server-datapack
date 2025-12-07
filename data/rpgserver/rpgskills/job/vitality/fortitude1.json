@@ -1,0 +1,21 @@
+{
+  "name": "Fortitude 1",
+  "description": "Fight enemies with minor debuffs",
+  "cooldown_ticks": 300,
+  "reward_points": 300,
+  "tasks": {
+    "killed_zombies": {
+      "description": "Kill enemies whilst poisoned",
+      "count": 30,
+      "trigger": "minecraft:player_killed_entity",
+       "conditions": {
+        "player": {
+          "effects": {
+            "minecraft:poison": {}
+          }
+        }
+
+      }
+    }
+  }
+}
