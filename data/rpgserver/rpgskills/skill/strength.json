@@ -12,9 +12,16 @@
                 }
             }
         },
-
-
-
+        "5": {
+            "jobs": [
+                "rpgserver:strength/bravery1"
+            ]
+        },
+        "10": {
+            "jobs": [
+                "rpgserver:strength/bravery2"
+            ]
+        },
         "30": {}
     }
 }
