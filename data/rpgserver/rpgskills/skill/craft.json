@@ -1,6 +1,6 @@
 {
     "name": "Craft",
-    "icon": "minecraft:crafting_table",
+    "icon": "another_furniture:furniture_hammer",
     "description": "clink clank clink",
     "levels": {
         "1": {
@@ -12,8 +12,12 @@
                 }
             }
         },
-
-
+        "5": {
+            "jobs": [
+                "rpgserver:craft/smith_tools",
+                "rpgserver:craft/craft_blocks"
+            ]
+        },
 
         "30": {}
     }

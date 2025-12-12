@@ -1,6 +1,6 @@
 {
     "name": "Arcane",
-    "icon": "minecraft:enchanted_book",
+    "icon": "chipped:alchemy_book",
     "description": "fireball.",
     "levels": {
         "1": {
@@ -12,9 +12,11 @@
                 }
             }
         },
-
-        
-        
+        "5": {
+            "jobs": [
+                "rpgserver:arcane/food_chain"
+            ]
+        },
         "30": {}
     }
 }
