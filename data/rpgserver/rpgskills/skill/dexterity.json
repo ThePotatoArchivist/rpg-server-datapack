@@ -1,7 +1,6 @@
 {
     "name": "Dexterity",
     "icon": "rogues:iron_dagger",
-    "description": "pew pew",
     "levels": {
         "1": {
             "attributes": {

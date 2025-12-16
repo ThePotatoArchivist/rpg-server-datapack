@@ -1,7 +1,6 @@
 {
     "name": "Arcane",
     "icon": "chipped:alchemy_book",
-    "description": "fireball.",
     "levels": {
         "1": {
             "attributes": {

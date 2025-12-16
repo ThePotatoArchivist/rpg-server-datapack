@@ -1,7 +1,6 @@
 {
     "name": "Affinity",
     "icon": "herbalbrews:tea_blossom",
-    "description": "twees and animwals",
     "levels": {
         "1": {
             "attributes": {
@@ -13,8 +12,11 @@
             }
         },
 
-
-
+        "5": {
+            "jobs": [
+                "rpgserver:affinity/breed_farm_animals"
+            ]
+        },
         "30": {}
     }
 }

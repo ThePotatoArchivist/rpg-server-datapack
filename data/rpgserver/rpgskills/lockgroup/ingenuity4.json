@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 4
+  },
+  "items": {
+    "entries": [
+      "minecraft:repeater",
+      "minecraft:tripwire_hook"
+    ]
+  }
+}

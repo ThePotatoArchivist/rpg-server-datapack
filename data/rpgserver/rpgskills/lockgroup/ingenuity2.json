@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 2
+  },
+  "items": {
+    "entries": [
+      "minecraft:redstone",
+      "minecraft:lever"
+    ]
+  }
+}

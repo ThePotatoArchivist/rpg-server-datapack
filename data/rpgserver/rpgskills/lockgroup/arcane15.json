@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 15
+  },
+  "items": {
+    "entries": [
+      "minecraft:beacon"
+    ]
+  }
+}

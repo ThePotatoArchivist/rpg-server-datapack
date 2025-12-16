@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 4
+  },
+  "items": {
+    "entries": [
+      "minecraft:soul_campfire"
+    ]
+  }
+}

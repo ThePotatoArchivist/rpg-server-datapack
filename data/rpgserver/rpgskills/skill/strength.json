@@ -1,7 +1,6 @@
 {
     "name": "Strength",
     "icon": "rogues:iron_double_axe",
-    "description": "WE GON RISE UP",
     "levels": {
         "1": {
             "attributes": {

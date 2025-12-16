@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 1
+  },
+  "items": {
+    "entries": [
+      "#minecraft:wooden_buttons",
+      "#minecraft:wooden_pressure_plates"
+    ]
+  }
+}

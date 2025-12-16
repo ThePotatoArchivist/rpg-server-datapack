@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:craft": 5
+  },
+  "items": {
+    "entries": [
+      "minecraft:cauldron",
+      "minecraft:smithing_table"
+    ]
+  }
+}

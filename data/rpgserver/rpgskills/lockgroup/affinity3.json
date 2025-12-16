@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 3
+  },
+  "items": {
+    "entries": [
+      "minecraft:smoker"
+    ]
+  }
+}

@@ -1,7 +1,6 @@
 {
     "name": "Vitality",
     "icon": "paladins:crusader_armor_chest",
-    "description": "big macho",
     "levels": {
         "1": {
             "attributes": {
@@ -12,8 +11,7 @@
                 }
             },
             "jobs": [
-                "rpgserver:vitality/gut_health1",
-                "rpgserver:vitality/mining1"
+                "rpgserver:vitality/gut_health1"
             ]
         },
 

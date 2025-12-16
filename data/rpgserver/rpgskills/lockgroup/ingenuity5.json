@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 5
+  },
+  "items": {
+    "entries": [
+      "minecraft:daylight_detector",
+      "minecraft:chiseled_bookshelf",
+      "minecraft:hopper"
+    ]
+  }
+}

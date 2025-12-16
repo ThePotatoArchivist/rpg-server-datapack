@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:craft": 4
+  },
+  "items": {
+    "entries": [
+      "minecraft:grindstone"
+    ]
+  }
+}

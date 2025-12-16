@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 8
+  },
+  "items": {
+    "entries": [
+      "minecraft:comparator"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:craft": 10
+  },
+  "items": {
+    "entries": [
+      "#minecraft:anvil"
+    ]
+  }
+}

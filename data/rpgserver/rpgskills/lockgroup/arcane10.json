@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 10
+  },
+  "items": {
+    "entries": [
+      "minecraft:enchanting_table",
+      "minecraft:ender_chest",
+      "minecraft:brewing_stand",
+      "minecraft:respawn_anchor"
+    ]
+  }
+}
