@@ -1,0 +1,22 @@
+{
+  "requirements": {
+    "rpgserver:craft": 4
+  },
+  "blocks": {
+    "entries": [
+      "minecraft:grindstone"
+    ]
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:chain",
+      "minecraft:item_frame",
+      "minecraft:tinted_glass",
+      "minecraft:chest",
+      "#minecraft:trapdoors",
+      "#c:fences",
+      "#c:fence_gates"
+    ]
+  }
+}

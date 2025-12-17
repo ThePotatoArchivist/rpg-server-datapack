@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 1,
+    "rpgserver:craft": 2
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:soul_lantern"
+    ]
+  }
+}

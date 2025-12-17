@@ -1,0 +1,22 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 10
+  },
+  "items": {
+    "entries": [
+      "minecraft:observer",
+      "minecraft:dropper",
+      "minecraft:dispenser",
+      "minecraft:sticky_piston",
+      "minecraft:crafter"
+    ]
+  },
+
+  "blocks": {
+    "entries": [
+      "minecraft:dropper",
+      "minecraft:dispenser",
+      "minecraft:crafter"
+    ]
+  }
+}

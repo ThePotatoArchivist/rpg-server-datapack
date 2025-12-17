@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 3
+  },
+  "recipes": {
+    "entries": [
+      "#minecraft:hanging_signs",
+      "minecraft:stonecutter",
+      "minecraft:bell"
+    ]
+  }
+}

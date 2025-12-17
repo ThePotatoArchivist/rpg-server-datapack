@@ -1,0 +1,14 @@
+{
+  "requirements": {
+    "rpgserver:craft": 5,
+    "rpgserver:ingenuity": 1
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:activator_rail",
+      "minecraft:powered_rail",
+      "minecraft:detector_rail"
+    ]
+  }
+}

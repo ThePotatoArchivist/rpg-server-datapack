@@ -1,6 +1,6 @@
 {
     "name": "Craft",
-    "icon": "another_furniture:furniture_hammer",
+    "icon": "bobsmobgear:smithing_hammer",
     "levels": {
         "1": {
             "attributes": {

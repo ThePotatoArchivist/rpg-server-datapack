@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 5,
+    "rpgserver:craft": 10
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:bookshelf"
+    ]
+  }
+}

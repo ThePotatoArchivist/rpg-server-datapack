@@ -1,0 +1,19 @@
+{
+  "requirements": {
+    "rpgserver:craft": 5
+  },
+  "blocks": {
+    "entries": [
+      "minecraft:cauldron",
+      "minecraft:smithing_table"
+    ]
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:rail",
+      "minecraft:iron_trapdoor",
+      "minecraft:iron_door"
+    ]
+  }
+}

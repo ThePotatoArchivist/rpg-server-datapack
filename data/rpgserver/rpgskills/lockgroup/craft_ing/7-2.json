@@ -1,0 +1,15 @@
+{
+  "requirements": {
+    "rpgserver:craft": 7,
+    "rpgserver:ingenuity": 2
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:tnt_minecart",
+      "minecraft:hopper_minecart",
+      "minecraft:chest_minecart",
+      "minecraft:furnace_minecart"
+    ]
+  }
+}

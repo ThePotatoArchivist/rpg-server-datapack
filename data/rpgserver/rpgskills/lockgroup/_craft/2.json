@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:craft": 2
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:crafting_table",
+      "minecraft:ladder",
+      "minecraft:scaffolding",
+      "minecraft:barrel",
+      "#minecraft:signs",
+      "#minecraft:wooden_doors",
+      "#minecraft:banners"
+    ]
+  }
+}

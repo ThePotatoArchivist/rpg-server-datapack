@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 3,
+    "rpgserver:ingenuity": 2
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:daylight_detector",
+      "minecraft:lightning_rod"
+    ]
+  }
+}

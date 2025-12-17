@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 2,
+    "rpgserver:craft": 5
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:glowstone"
+    ]
+  }
+}

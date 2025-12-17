@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 5
+  },
+  "blocks": {
+    "entries": [
+      "minecraft:composter"
+    ]
+  }
+}

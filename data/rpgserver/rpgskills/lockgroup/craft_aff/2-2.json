@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "rpgserver:craft": 2,
+    "rpgserver:affinity": 2
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:cartography_table",
+      "minecraft:furnace",
+      "minecraft:loom"
+    ]
+  }
+}

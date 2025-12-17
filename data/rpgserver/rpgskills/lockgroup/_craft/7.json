@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:craft": 7
+  },
+  "blocks": {
+    "entries": [
+      "minecraft:blast_furnace"
+    ]
+  }
+}

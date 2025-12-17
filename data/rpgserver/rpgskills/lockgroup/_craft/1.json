@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:craft": 1
+  },
+  "blocks": {
+    "entries": [
+      "minecraft:crafting_table"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:craft": 10
+  },
+  "blocks": {
+    "entries": [
+      "#minecraft:anvil"
+    ]
+  },
+
+  "recipes": {
+    "entries": [
+      "#minecraft:anvil"
+    ]
+  }
+}

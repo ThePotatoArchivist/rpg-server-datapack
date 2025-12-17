@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 10
+  },
+  "blocks": {
+    "entries": [
+      "minecraft:beehive"
+    ]
+  },
+
+  "items": {
+    "entries": [
+      "minecraft:beehive"
+    ]
+  }
+}

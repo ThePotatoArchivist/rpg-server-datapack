@@ -1,0 +1,22 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 5
+  },
+  "items": {
+    "entries": [
+      "minecraft:magma_block",
+      "minecraft:soul_sand"
+    ]
+  },
+  "blocks": {
+    "entries": [
+      "#c:shulker_boxes",
+      "minecraft:lodestone"
+    ]
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:respawn_anchor"
+    ]
+  }
+}

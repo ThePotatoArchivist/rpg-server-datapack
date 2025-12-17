@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:craft": 4,
+    "rpgserver:affinity": 1
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:composter"
+    ]
+  }
+}

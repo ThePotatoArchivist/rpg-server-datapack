@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 1,
+    "rpgserver:ingenuity": 2
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:redstone_torch"
+    ]
+  }
+}

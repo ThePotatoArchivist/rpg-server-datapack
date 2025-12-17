@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 1,
+    "rpgserver:craft": 1
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:fletching_table"
+    ]
+  }
+}

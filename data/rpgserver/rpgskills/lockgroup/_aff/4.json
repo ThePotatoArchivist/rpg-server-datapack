@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 4
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:campfire"
+    ]
+  }
+}

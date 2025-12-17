@@ -1,0 +1,17 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 4,
+    "rpgserver:affinity": 4
+  },
+  "items": {
+    "entries": [
+      "minecraft:soul_campfire"
+    ]
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:soul_campfire"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 20
+  },
+  "items": {
+    "entries": [
+      "minecraft:end_crystal"
+    ]
+  }
+}

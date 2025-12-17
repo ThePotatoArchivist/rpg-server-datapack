@@ -1,0 +1,36 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 7
+  },
+  "items": {
+    "entries": [
+      "minecraft:hopper_minecart",
+      "minecraft:furnace_minecart",
+      "minecraft:chest_minecart",
+      "minecraft:tnt_minecart"
+    ]
+  },
+  
+  "blocks": {
+    "entries": [
+      "minecraft:smithing_table"
+    ]
+  },
+
+  "recipe": {
+    "entries": [
+      "minecraft:smithing_table",
+      "minecraft:cauldron",
+      "minecraft:armor_stand"
+    ]
+  },
+  
+  "entities": {
+    "entries": [
+      "minecraft:hopper_minecart",
+      "minecraft:furnace_minecart",
+      "minecraft:chest_minecart",
+      "minecraft:tnt_minecart"
+    ]
+  }
+}

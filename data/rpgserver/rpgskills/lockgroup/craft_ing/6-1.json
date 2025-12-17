@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:craft": 6,
+    "rpgserver:ingenuity": 1
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:chiseled_bookshelf",
+      "minecraft:lectern",
+      "minecraft:redstone_lamp",
+      "minecraft:sea_lantern",
+      "#rpgserver:copper_bulbs"
+    ]
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "name": "Example",
-  "icon": "minecraft:stone",
-  "description": "Stone",
-  "starting_levels": {
-    "rpgserver:vitality": 1
-  }
-}

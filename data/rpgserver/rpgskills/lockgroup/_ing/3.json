@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 3
+  },
+
+  "items": {
+    "entries": [
+      "minecraft:redstone_torch"
+    ]
+  }
+}

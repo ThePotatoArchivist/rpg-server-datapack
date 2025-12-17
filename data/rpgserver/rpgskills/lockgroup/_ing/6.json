@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 6
+  },
+  "blocks": {
+    "entries": [
+      "minecraft:note_block"
+    ]
+  }
+}

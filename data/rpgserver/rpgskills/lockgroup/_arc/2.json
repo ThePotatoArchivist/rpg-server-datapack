@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 2
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:soul_torch"
+    ]
+  }
+}
