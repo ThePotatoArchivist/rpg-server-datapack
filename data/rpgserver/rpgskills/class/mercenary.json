@@ -1,8 +1,10 @@
 {
   "name": "Mercenary",
-  "icon": "minecraft:stone",
-  "description": "Stone",
+  "icon": "minecraft:bow",
+  "description": "Swiftly slicing and shooting from afar. Rangers are skilled fighters that rely on their dexterity to overpower foes!",
   "starting_levels": {
-    "rpgserver:vitality": 1
+    "rpgserver:vitality": 2,
+    "rpgserver:dexterity": 3,
+    "rpgserver:craft": 2
   }
 }

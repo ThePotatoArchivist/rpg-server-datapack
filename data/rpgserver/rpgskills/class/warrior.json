@@ -1,8 +1,10 @@
 {
   "name": "Warrior",
-  "icon": "minecraft:stone",
-  "description": "Stone",
+  "icon": "minecraft:iron_sword",
+  "description": "Swinging heavy weapons with ease. Warriors are fearsome fighters that rely on their raw strength to win fights!",
   "starting_levels": {
-    "rpgserver:vitality": 1
+    "rpgserver:vitality": 3,
+    "rpgserver:strength": 3,
+    "rpgserver:dexterity": 1
   }
 }

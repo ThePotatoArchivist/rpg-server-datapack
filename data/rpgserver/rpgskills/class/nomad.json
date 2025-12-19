@@ -1,0 +1,10 @@
+{
+  "name": "Nomad",
+  "icon": "minecraft:campfire",
+  "description": "A glistening blast shines through. Wizards are users of arcana that can be used in many magical ways!",
+  "starting_levels": {
+    "rpgserver:vitality": 2,
+    "rpgserver:craft": 1,
+    "rpgserver:affinity": 4
+  }
+}

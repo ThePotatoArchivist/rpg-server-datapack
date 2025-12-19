@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 13,
+      "rpgserver:strength": 8
+    },
+    {
+      "rpgserver:vitality": 13,
+      "rpgserver:dexterity": 8
+    }
+  ],
+  "items": {
+    "entries": [
+      "minecraft:netherite_axe",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_shovel"
+    ]
+  }
+}

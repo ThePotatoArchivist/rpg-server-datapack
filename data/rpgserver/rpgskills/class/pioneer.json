@@ -1,8 +1,10 @@
 {
   "name": "Pioneer",
   "icon": "minecraft:spyglass",
-  "description": "Pioneers brim with Vitality and can endure even the harshest journeys!",
+  "description": "Marching through the wild with a resilient mind and heart. Pioneers are full of vitality and keep pushing through for progress!",
   "starting_levels": {
-    "rpgserver:vitality": 3
+    "rpgserver:vitality": 4,
+    "rpgserver:craft": 2,
+    "rpgserver:affinity": 1
   }
 }

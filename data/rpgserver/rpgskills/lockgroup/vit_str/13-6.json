@@ -1,0 +1,20 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 13,
+      "rpgserver:strength": 6
+    },
+    {
+      "rpgserver:vitality": 13,
+      "rpgserver:dexterity": 6
+    }
+  ],
+  "items": {
+    "entries": [
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 9
+  },
+  "items": {
+    "entries": [
+      "minecraft:iron_axe",
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe"
+    ]
+  }
+}

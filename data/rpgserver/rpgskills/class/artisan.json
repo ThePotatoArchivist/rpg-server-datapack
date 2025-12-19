@@ -1,0 +1,10 @@
+{
+  "name": "Artisan",
+  "icon": "minecraft:crafting_table",
+  "description": "With patience honing their creations. Artisans use their artisanship to create many crafts and gear from scratch!",
+  "starting_levels": {
+    "rpgserver:vitality": 2,
+    "rpgserver:craft": 4,
+    "rpgserver:affinity": 1
+  }
+}
