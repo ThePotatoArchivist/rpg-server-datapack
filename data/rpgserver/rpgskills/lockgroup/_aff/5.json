@@ -4,7 +4,8 @@
   },
   "blocks": {
     "entries": [
-      "minecraft:composter"
+      "minecraft:composter",
+      "chipped:botanist_workbench"
     ]
   },
 

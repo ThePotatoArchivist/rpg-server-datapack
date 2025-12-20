@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 5,
+    "rpgserver:affinity": 5
+  },
+  "items": {
+    "entries": [
+      "#immersive_melodies:instruments"
+    ]
+  }
+}

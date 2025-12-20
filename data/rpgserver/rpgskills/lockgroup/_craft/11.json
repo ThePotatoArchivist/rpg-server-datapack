@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "rpgserver:craft": 11
+  },
+
+  "recipes": {
+    "entries": [
+      "immersive_melodies:ender_bass",
+      "immersive_melodies:handpan",
+      "immersive_melodies:vielle"
+    ]
+  }
+}

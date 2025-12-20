@@ -4,7 +4,8 @@
   },
   "blocks": {
     "entries": [
-      "minecraft:blast_furnace"
+      "minecraft:blast_furnace",
+      "chipped:mason_table"
     ]
   }
 }

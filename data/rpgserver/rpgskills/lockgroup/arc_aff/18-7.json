@@ -1,0 +1,23 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 18,
+    "rpgserver:affinity": 7
+  },
+
+  "recipes": {
+    "entries": [
+      "wizards:arcane_robe_head",
+      "wizards:arcane_robe_chest",
+      "wizards:arcane_robe_legs",
+      "wizards:arcane_robe_feet",
+      "wizards:fire_robe_head",
+      "wizards:fire_robe_chest",
+      "wizards:fire_robe_legs",
+      "wizards:fire_robe_feet",
+      "wizards:frost_robe_head",
+      "wizards:frost_robe_chest",
+      "wizards:frost_robe_legs",
+      "wizards:frost_robe_feet"
+    ]
+  }
+}

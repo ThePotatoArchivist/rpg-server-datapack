@@ -12,7 +12,8 @@
 
   "blocks": {
     "entries": [
-      "minecraft:daylight_detector"
+      "minecraft:daylight_detector",
+      "chipped:tinkering_table"
     ]
   }
 }

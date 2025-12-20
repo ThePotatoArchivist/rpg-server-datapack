@@ -1,11 +1,11 @@
 {
   "requirements": {
-    "rpgserver:craft": 4,
-    "rpgserver:affinity": 4
+    "rpgserver:craft": 5,
+    "rpgserver:affinity": 5
   },
-  "blocks": {
+  "items": {
     "entries": [
-      "chipped:glassblower"
+      "chipped:needles"
     ]
   },
   "recipes": {

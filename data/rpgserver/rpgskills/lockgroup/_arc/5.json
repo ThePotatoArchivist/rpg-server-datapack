@@ -6,12 +6,14 @@
     "entries": [
       "minecraft:magma_block",
       "minecraft:soul_sand"
+      
     ]
   },
   "blocks": {
     "entries": [
       "#c:shulker_boxes",
-      "minecraft:lodestone"
+      "minecraft:lodestone",
+      "chipped:alchemy_bench"
     ]
   },
   "recipes": {

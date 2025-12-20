@@ -1,0 +1,14 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 25,
+    "rpgserver:craft": 10
+  },
+ 
+  "recipes": {
+    "entries": [
+      "wizards:staff_netherite_fire",
+      "wizards:staff_netherite_arcane",
+      "wizards:staff_netherite_frost"
+    ]
+  }
+}

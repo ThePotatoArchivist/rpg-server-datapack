@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 12,
+    "rpgserver:craft": 5
+  },
+ 
+  "recipes": {
+    "entries": [
+      "wizards:staff_wizard"
+    ]
+  }
+}

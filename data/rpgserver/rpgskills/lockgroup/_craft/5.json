@@ -5,7 +5,8 @@
   "blocks": {
     "entries": [
       "minecraft:cauldron",
-      "minecraft:smithing_table"
+      "minecraft:smithing_table",
+      "chipped:carpenters_table"
     ]
   },
 
@@ -13,7 +14,20 @@
     "entries": [
       "minecraft:rail",
       "minecraft:iron_trapdoor",
-      "minecraft:iron_door"
+      "minecraft:iron_door",
+
+      "#another_furniture:chairs",
+      "#another_furniture:shelves",
+      "#another_furniture:tables",
+      "#another_furniture:stools",
+      "#another_furniture:shutters",
+      "#another_furniture:flower_boxes",
+      "#another_furniture:curtains",
+      "#another_furniture:benches",
+      "#another_furniture:drawers",
+      "#another_furniture:lamps",
+      "#another_furniture:sofas",
+      "#another_furniture:tall_stools"
     ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 4
+  },
+
+  "items": {
+    "entries": [
+      "wizards:wand_novice"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "rpgserver:craft": 12
+  },
+
+  "recipes": {
+    "entries": [
+      "immersive_melodies:trumpet",
+      "immersive_melodies:piano",
+      "immersive_melodies:bagpipe"
+    ]
+  }
+}

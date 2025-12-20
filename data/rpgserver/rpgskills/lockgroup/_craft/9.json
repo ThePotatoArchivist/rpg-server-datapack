@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:craft": 9
+  },
+  "items": {
+    "entries": [
+      "chipped:chisel"
+    ]
+  },
+  "recipes": {
+    "entries": [
+      "immersive_melodies:lute",
+      "immersive_melodies:didgeridoo"
+    ]
+  }
+}

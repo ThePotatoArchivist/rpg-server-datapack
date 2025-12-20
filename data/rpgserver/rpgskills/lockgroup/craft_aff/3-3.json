@@ -3,6 +3,11 @@
     "rpgserver:craft": 3,
     "rpgserver:affinity": 3
   },
+  "blocks": {
+    "entries": [
+      "chipped:loom_table"
+    ]
+  },
   "recipes": {
     "entries": [
       "minecraft:beehive",
