@@ -1,0 +1,17 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 9,
+    "rpgserver:affinity": 1
+  },
+
+  "recipes": {
+    "entries": [
+      "wizards:wizard_robe_head",
+      "wizards:wizard_robe_chest",
+      "wizards:wizard_robe_legs",
+      "wizards:wizard_robe_feet",
+
+      "cold_sweat:soulspring_lamp"
+    ]
+  }
+}

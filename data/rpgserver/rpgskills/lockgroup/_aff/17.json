@@ -1,0 +1,19 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 17
+  },
+  "blocks": {
+    "entries": [
+      "cold_sweat:icebox",
+      "cold_sweat:hearth_bottom",
+      "cold_sweat:hearth_top"
+    ]
+  },
+
+  "items": {
+    "entries": [
+      "cold_sweat:icebox",
+      "cold_sweat:hearth"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 10,
+    "rpgserver:affinity": 16
+  },
+  "items": {
+    "entries": [
+      "cold_sweat:chameleon_helmet",
+      "cold_sweat:chameleon_chestplate",
+      "cold_sweat:chameleon_leggings",
+      "cold_sweat:chameleon_boots"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 7
+  },
+  "items": {
+    "entries": [
+      "minecraft:golden_axe",
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "#rpgserver:moderate_alcoholic_brews"
+    ]
+  }
+}

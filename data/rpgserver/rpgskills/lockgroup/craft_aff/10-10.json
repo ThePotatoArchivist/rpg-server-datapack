@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:craft": 10,
+    "rpgserver:affinity": 10
+  },
+  "recipes": {
+    "entries": [
+      "cold_sweat:hoglin_helmet",
+      "cold_sweat:hoglin_chestplate",
+      "cold_sweat:hoglin_leggings",
+      "cold_sweat:hoglin_boots",
+
+      "cold_sweat:sewing_table"
+    ]
+  }
+}

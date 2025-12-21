@@ -5,12 +5,21 @@
   },
   "items": {
     "entries": [
-      "chipped:needles"
+      "chipped:needles",
+      "cold_sweat:insulated_minecart"
     ]
   },
+
   "recipes": {
     "entries": [
-      "#minecraft:chest_boats"
+      "#minecraft:chest_boats",
+      "cold_sweat:minecart_insulation",
+      "cold_sweat:insulated_minecart",
+
+      "cold_sweat:goat_fur_helmet",
+      "cold_sweat:goat_fur_chestplate",
+      "cold_sweat:goat_fur_leggings",
+      "cold_sweat:goat_fur_boots"
     ]
   }
 }

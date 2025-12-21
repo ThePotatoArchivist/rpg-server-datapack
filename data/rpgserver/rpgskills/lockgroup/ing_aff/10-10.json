@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 10,
+    "rpgserver:affinity": 10
+  },
+  "blocks": {
+    "entries": [
+      "cold_sweat:thermolith"
+    ]
+  }
+}

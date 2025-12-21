@@ -1,0 +1,17 @@
+{
+  "requirements": {
+    "rpgserver:craft": 15,
+    "rpgserver:affinity": 10
+  },
+
+  "recipes": {
+    "entries": [
+      "cold_sweat:chameleon_helmet",
+      "cold_sweat:chameleon_chestplate",
+      "cold_sweat:chameleon_leggings",
+      "cold_sweat:chameleon_boots",
+
+      "cold_sweat:hearth"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 10
+  },
+  "items": {
+    "entries": [
+      "#rpgserver:rich_alcoholic_brews"
+    ]
+  }
+}

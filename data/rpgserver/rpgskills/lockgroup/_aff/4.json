@@ -5,7 +5,8 @@
 
   "recipes": {
     "entries": [
-      "minecraft:campfire"
+      "minecraft:campfire",
+      "cold_sweat:waterskin"
     ]
   }
 }

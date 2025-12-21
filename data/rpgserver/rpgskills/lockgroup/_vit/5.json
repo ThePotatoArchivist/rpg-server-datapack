@@ -6,7 +6,8 @@
     "entries": [
       "minecraft:stone_axe",
       "minecraft:stone_shovel",
-      "minecraft:stone_pickaxe"
+      "minecraft:stone_pickaxe",
+      "#rpgserver:mild_alcoholic_brews"
     ]
   }
 }

@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 16
+  },
+  "blocks": {
+    "entries": [
+      "brewinandchewin:keg"
+    ]
+  },
+
+  "items": {
+    "entries": [
+      "brewinandchewin:keg"
+    ]
+  }
+}
