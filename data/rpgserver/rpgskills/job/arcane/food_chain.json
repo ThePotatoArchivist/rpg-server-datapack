@@ -1,6 +1,5 @@
 {
     "name": "Food Chain 1",
-    "description": "Have a hearty meal",
     "cooldown_ticks": 300,
     "reward_points": 300,
     "tasks": {

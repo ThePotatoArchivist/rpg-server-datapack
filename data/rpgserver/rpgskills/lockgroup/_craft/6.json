@@ -8,13 +8,26 @@
     ]
   },
 
+  "items": {
+    "entries": [
+      "downtoearth:stone_smithing_hammer"
+    ]
+  },
+
   "recipes": {
     "entries": [
-      "rogues:iron_dagger",
+      "#rpgserver:clay_molds",
+      "downtoearth:stone_smithing_hammer",
+      "minecraft:stone_sword",
+      "minecraft:stone_axe",
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_shovel",
+      "minecraft:stone_hoe",
       "minecraft:grindstone",
       "rogues:stone_double_axe",
       "paladins:stone_claymore",
-      "paladins:stone_great_hammer"
+      "paladins:stone_great_hammer",
+      "rogues:iron_dagger"
     ]
   }
 }

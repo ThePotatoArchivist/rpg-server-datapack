@@ -4,16 +4,33 @@
     "levels": {
         "1": {
             "attributes": {
-                "minecraft:generic.armor": 1,
                 "minecraft:generic.attack_speed": {
-                    "amount": 0.05,
+                    "amount": 0.005,
                     "operation": "add_multiplied_base"
                 }
             }
         },
-
-
-
+        "2": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.005,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "3": {
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish1"
+            ]
+        },
+        "10": {
+            "attributes": {
+                "minecraft:generic.luck": {
+                    "amount": 0.5,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
         "30": {}
     }
 }

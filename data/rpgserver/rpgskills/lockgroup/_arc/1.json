@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 1
+  },
+  "recipes": {
+    "entries": [
+      "#wizards:wizard_runes"
+    ]
+  }
+}

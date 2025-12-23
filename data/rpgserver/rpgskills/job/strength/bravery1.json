@@ -1,12 +1,11 @@
 {
   "name": "Bravery 1",
-  "description": "",
   "cooldown_ticks": 300,
-  "reward_points": 200,
+  "reward_points": 7,
   "tasks": {
     "killed": {
-      "description": "Kill zombies",
-      "count": 10,
+      "description": "Kill night mobs",
+      "count": 15,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -14,7 +13,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "#minecraft:zombies"
+              "type": "#true_ending:all_night_mobs"
             }
           }
         ]

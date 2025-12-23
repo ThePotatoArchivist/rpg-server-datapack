@@ -1,8 +1,7 @@
 {
-    "name": "Smith Tools 1",
-    "description": "Have a hearty meal",
+    "name": "Stone Age",
     "cooldown_ticks": 300,
-    "reward_points": 300,
+    "reward_points": 35,
     "tasks": {
         "stone_pick": {
             "description": "Craft stone pickaxes",

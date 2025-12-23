@@ -1,6 +1,5 @@
 {
     "name": "Breed Farm Animals",
-    "description": "",
     "cooldown_ticks": 300,
     "reward_points": 300,
     "tasks": {

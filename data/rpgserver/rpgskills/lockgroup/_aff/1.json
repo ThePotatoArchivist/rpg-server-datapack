@@ -7,5 +7,10 @@
       "minecraft:campfire",
       "minecraft:soul_campfire"
     ]
+  },
+  "recipes": {
+    "entries": [
+      "thirst:clay_bowl"
+    ]
   }
 }

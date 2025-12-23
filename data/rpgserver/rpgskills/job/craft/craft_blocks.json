@@ -1,15 +1,16 @@
 {
-    "name": "Craft blocks 1",
-    "description": "Have a hearty meal",
-    "cooldown_ticks": 300,
-    "reward_points": 300,
+    "name": "Lumberjack",
+    "cooldown_ticks": 0,
+    "reward_points": 5,
     "tasks": {
-        "": {
-            "description": "Craft diamond bordered glass",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
+        "planks": {
+            "description": "Craft wooden planks",
+            "count": 200,
+            "trigger": "rpgskills:craft_item",
             "conditions": {
-                "recipe_id": "chipped:oak_diamond_bordered_glass"
+                "item": {
+                    "items": "#minecraft:planks"
+                }
             }
         }
     }

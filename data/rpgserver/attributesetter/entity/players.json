@@ -2,7 +2,7 @@
     "minecraft:player": [
       {
         "attribute": "minecraft:generic.max_health",
-        "value": 6,
+        "value": 4,
         "operation": "BASE"
       }
     ]

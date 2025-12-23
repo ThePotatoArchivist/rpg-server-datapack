@@ -2,22 +2,16 @@
     "name": "Craft",
     "icon": "bobsmobgear:smithing_hammer",
     "levels": {
-        "1": {
-            "attributes": {
-                "minecraft:generic.armor": 1,
-                "minecraft:generic.attack_speed": {
-                    "amount": 0.05,
-                    "operation": "add_multiplied_base"
-                }
-            }
-        },
-        "5": {
+        "4": {
             "jobs": [
-                "rpgserver:craft/smith_tools",
                 "rpgserver:craft/craft_blocks"
             ]
         },
-
+        "6": {
+            "jobs": [
+                "rpgserver:craft/stone_age"
+            ]
+        },
         "30": {}
     }
 }
