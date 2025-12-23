@@ -13,6 +13,7 @@
   "recipes": {
     "entries": [
       "#minecraft:chest_boats",
+      "archers:small_quiver",
       "cold_sweat:minecart_insulation",
       "cold_sweat:insulated_minecart",
 

@@ -2,11 +2,6 @@
   "requirements": {
     "rpgserver:craft": 4
   },
-  "blocks": {
-    "entries": [
-      "minecraft:grindstone"
-    ]
-  },
 
   "recipes": {
     "entries": [

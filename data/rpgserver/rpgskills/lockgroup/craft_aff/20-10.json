@@ -1,0 +1,15 @@
+{
+  "requirements": {
+    "rpgserver:craft": 20,
+    "rpgserver:affinity": 10
+  },
+
+  "recipes": {
+    "entries": [
+      "archers:ranger_armor_head",
+      "archers:ranger_armor_chest",
+      "archers:ranger_armor_legs",
+      "archers:ranger_armor_feet"
+    ]
+  }
+}

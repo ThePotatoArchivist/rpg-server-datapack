@@ -1,10 +1,8 @@
 {
   "requirements": {
-    "rpgserver:arcane": 27,
-    "rpgserver:craft": 12
+    "rpgserver:arcane": 30
   },
-
-  "recipes": {
+  "items": {
     "entries": [
       "wizards:netherite_arcane_robe_head",
       "wizards:netherite_arcane_robe_chest",

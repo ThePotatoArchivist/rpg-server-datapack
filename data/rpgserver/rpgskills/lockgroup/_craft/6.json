@@ -10,7 +10,11 @@
 
   "recipes": {
     "entries": [
-      "minecraft:grindstone"
+      "rogues:iron_dagger",
+      "minecraft:grindstone",
+      "rogues:stone_double_axe",
+      "paladins:stone_claymore",
+      "paladins:stone_great_hammer"
     ]
   }
 }

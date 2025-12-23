@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:craft": 11,
+    "rpgserver:affinity": 11
+  },
+  "recipes": {
+    "entries": [
+      "archers:large_quiver"
+    ]
+  }
+}

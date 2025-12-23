@@ -1,0 +1,14 @@
+{
+  "requirements": {
+    "rpgserver:craft": 12
+  },
+
+  "recipes": {
+    "entries": [
+      "rogues:diamond_dagger",
+      "immersive_melodies:trumpet",
+      "immersive_melodies:piano",
+      "immersive_melodies:bagpipe"
+    ]
+  }
+}

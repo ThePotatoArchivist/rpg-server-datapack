@@ -1,15 +1,12 @@
 {
-  "requirements": [
-    {
-      "rpgserver:dexterity": 17
-    },
-    {
-      "rpgserver:strength": 17
-    }
-  ],
+  "requirements": {
+    "rpgserver:dexterity": 17
+  },
   "items": {
     "entries": [
-      "rogues:netherite_dagger"
+      "rogues:diamond_sickle",
+      "archers:diamond_spear",
+      "archers:netherite_shortbow"
     ]
   }
 }

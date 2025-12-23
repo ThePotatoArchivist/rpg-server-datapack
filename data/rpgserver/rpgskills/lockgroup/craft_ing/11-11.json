@@ -1,8 +1,10 @@
 {
   "requirements": {
-    "rpgserver:dexterity": 13
+    "rpgserver:craft": 11,
+    "rpgserver:ingenuity": 11
   },
-  "items": {
+
+  "recipes": {
     "entries": [
       "archers:rapid_crossbow"
     ]

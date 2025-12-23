@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 4
+    },
+    {
+      "rpgserver:affinity": 4
+    }
+  ],
+
+  "recipes": {
+    "entries": [
+      "minecraft:arrow"
+    ]
+  }
+}

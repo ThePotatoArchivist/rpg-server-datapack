@@ -1,6 +1,6 @@
 {
   "requirements": {
-    "rpgserver:strength": 5
+    "rpgserver:strength": 9
   },
   "items": {
     "entries": [

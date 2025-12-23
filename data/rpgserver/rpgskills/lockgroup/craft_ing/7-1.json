@@ -1,6 +1,6 @@
 {
   "requirements": {
-    "rpgserver:craft": 6,
+    "rpgserver:craft": 7,
     "rpgserver:ingenuity": 1
   },
 

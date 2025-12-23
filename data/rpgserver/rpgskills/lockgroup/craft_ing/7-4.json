@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 7,
+    "rpgserver:ingenuity": 4
+  },
+
+  "recipes": {
+    "entries": [
+      "archers:auto_fire_hook"
+    ]
+  }
+}

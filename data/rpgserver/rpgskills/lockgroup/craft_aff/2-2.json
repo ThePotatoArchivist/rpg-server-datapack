@@ -6,7 +6,6 @@
   "recipes": {
     "entries": [
       "minecraft:cartography_table",
-      "minecraft:furnace",
       "minecraft:loom"
     ]
   }

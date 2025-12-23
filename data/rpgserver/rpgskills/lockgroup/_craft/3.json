@@ -4,6 +4,12 @@
   },
   "recipes": {
     "entries": [
+      "minecraft:bow",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_hoe",
+      "archers:flint_spear",
       "#minecraft:hanging_signs",
       "minecraft:stonecutter",
       "minecraft:bell"

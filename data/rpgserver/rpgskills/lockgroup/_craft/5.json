@@ -12,6 +12,9 @@
 
   "recipes": {
     "entries": [
+      "minecraft:wooden_sword",
+      "archers:composite_longbow",
+      "paladins:wooden_great_hammer",
       "minecraft:rail",
       "minecraft:iron_trapdoor",
       "minecraft:iron_door",

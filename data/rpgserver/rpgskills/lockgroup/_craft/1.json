@@ -6,5 +6,11 @@
     "entries": [
       "minecraft:crafting_table"
     ]
+  },
+
+  "recipes": {
+    "entries": [
+      "rogues:flint_dagger"
+    ]
   }
 }

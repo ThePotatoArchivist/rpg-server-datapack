@@ -1,0 +1,23 @@
+{
+  "requirements": {
+    "rpgserver:craft": 25
+  },
+  "recipes": {
+    "entries": [
+      "archers:netherite_spear",
+      "archers:netherite_shortbow",
+      "archers:netherite_longbow",
+      "archers:netherite_rapid_crossbow",
+      "archers:netherite_heavy_crossbow",
+
+      "paladins:netherite_kite_shield",
+      "paladins:netherite_claymore",
+      "paladins:netherite_mace",
+      "paladins:netherite_great_hammer",
+      
+      "rogues:netherite_double_axe",
+      "rogues:netherite_sickle",
+      "rogues:netherite_glaive"
+    ]
+  }
+}

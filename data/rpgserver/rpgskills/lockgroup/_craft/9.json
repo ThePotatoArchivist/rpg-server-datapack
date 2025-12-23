@@ -9,6 +9,14 @@
   },
   "recipes": {
     "entries": [
+      "archers:iron_spear",
+      "paladins:iron_kite_shield",
+      "paladins:iron_claymore",
+      "paladins:iron_mace",
+      "paladins:iron_great_hammer",
+      "rogues:iron_double_axe",
+      "rogues:iron_sickle",
+      "rogues:iron_glaive",
       "immersive_melodies:lute",
       "immersive_melodies:didgeridoo"
     ]

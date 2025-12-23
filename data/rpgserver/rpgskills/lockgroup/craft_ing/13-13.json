@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 13,
+    "rpgserver:ingenuity": 13
+  },
+
+  "recipes": {
+    "entries": [
+      "archers:heavy_crossbow"
+    ]
+  }
+}

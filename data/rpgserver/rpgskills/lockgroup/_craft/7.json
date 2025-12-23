@@ -5,6 +5,15 @@
 
   "recipes": {
     "entries": [
+      "archers:golden_spear",
+      "paladins:golden_kite_shield",
+      "paladins:golden_claymore",
+      "paladins:golden_mace",
+      "paladins:golden_great_hammer",
+      "rogues:golden_double_axe",
+      "rogues:golden_sickle",
+      "rogues:golden_glaive",
+      "rogues:golden_dagger",
       "minecraft:smithing_table",
       "minecraft:cauldron",
       "minecraft:armor_stand"
