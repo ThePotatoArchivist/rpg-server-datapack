@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:strength": 4,
+    "rpgserver:dexterity": 1
+  },
+  "items": {
+    "entries": [
+      "paladins:stone_claymore"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:strength": 5,
+    "rpgserver:dexterity": 2
+  },
+  "items": {
+    "entries": [
+      "paladins:golden_mace",
+      "rogues:golden_glaive"
+    ]
+  }
+}

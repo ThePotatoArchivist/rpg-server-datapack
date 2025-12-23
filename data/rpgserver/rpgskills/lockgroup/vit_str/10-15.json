@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 10,
+      "rpgserver:strength": 15
+    }
+  ],
+  "items": {
+    "entries": [
+      "rogues:berserker_armor_head",
+      "rogues:berserker_armor_chest",
+      "rogues:berserker_armor_legs",
+      "rogues:berserker_armor_feet"
+    ]
+  }
+}

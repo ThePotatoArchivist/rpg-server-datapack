@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 24
+  },
+  "items": {
+    "entries": [
+      "archers:netherite_rapid_crossbow"
+    ]
+  }
+}

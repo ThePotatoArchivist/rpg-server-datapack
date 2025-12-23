@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 6,
+    "rpgserver:arcane": 6
+  },
+  "items": {
+    "entries": [
+      "paladins:holy_staff"
+    ]
+  }
+}

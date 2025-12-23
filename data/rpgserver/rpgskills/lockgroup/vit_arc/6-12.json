@@ -1,0 +1,14 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 6,
+    "rpgserver:arcane": 12
+  },
+  "items": {
+    "entries": [
+      "paladins:prior_robe_head",
+      "paladins:prior_robe_chest",
+      "paladins:prior_robe_legs",
+      "paladins:prior_robe_feet"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 15,
+      "rpgserver:dexterity": 20
+    }
+  ],
+  "items": {
+    "entries": [
+      "archers:netherite_heavy_crossbow"
+    ]
+  }
+}

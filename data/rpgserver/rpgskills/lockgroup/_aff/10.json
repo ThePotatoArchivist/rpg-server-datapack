@@ -4,13 +4,18 @@
   },
   "blocks": {
     "entries": [
-      "minecraft:beehive"
+      "minecraft:beehive",
+      "brewinandchewin:keg"
     ]
   },
 
   "items": {
     "entries": [
-      "minecraft:beehive"
+      "minecraft:beehive",
+      "cold_sweat:boiler",
+      "brewinandchewin:keg",
+      "brewinandchewin:heating_cask",
+      "brewinandchewin:ice_crate"
     ]
   }
 }

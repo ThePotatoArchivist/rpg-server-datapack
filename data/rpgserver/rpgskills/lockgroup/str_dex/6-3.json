@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:strength": 6,
+    "rpgserver:dexterity": 3
+  },
+  "items": {
+    "entries": [
+      "rogues:iron_glaive"
+    ]
+  }
+}

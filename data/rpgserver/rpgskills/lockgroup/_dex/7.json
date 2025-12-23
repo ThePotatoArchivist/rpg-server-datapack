@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 7
+  },
+  "items": {
+    "entries": [
+      "rogues:golden_sickle",
+      "archers:golden_spear"
+    ]
+  }
+}

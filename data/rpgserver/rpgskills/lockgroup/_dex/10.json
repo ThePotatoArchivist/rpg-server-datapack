@@ -1,0 +1,14 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 10
+  },
+  "items": {
+    "entries": [
+      "archers:mechanic_shortbow",
+      "rogues:rogue_armor_head",
+      "rogues:rogue_armor_chest",
+      "rogues:rogue_armor_legs",
+      "rogues:rogue_armor_feet"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 6,
+      "rpgserver:dexterity": 9
+    }
+  ],
+  "items": {
+    "entries": [
+      "archers:medium_quiver",
+      "archers:royal_longbow"
+    ]
+  }
+}

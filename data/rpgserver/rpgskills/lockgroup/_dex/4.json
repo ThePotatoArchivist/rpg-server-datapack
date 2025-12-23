@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:dexterity": 4
+    },
+    {
+      "rpgserver:strength": 4
+    }
+  ],
+  "items": {
+    "entries": [
+      "rogues:golden_dagger"
+    ]
+  }
+}

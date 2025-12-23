@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 9,
+      "rpgserver:strength": 15
+    }
+  ],
+  "items": {
+    "entries": [
+      "paladins:diamond_kite_shield"
+    ]
+  }
+}

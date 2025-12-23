@@ -1,0 +1,20 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 10,
+      "rpgserver:dexterity": 17
+    },
+    {
+      "rpgserver:vitality": 10,
+      "rpgserver:dexterity": 17
+    }
+  ],
+  "items": {
+    "entries": [
+      "archers:ranger_armor_head",
+      "archers:ranger_armor_chest",
+      "archers:ranger_armor_legs",
+      "archers:ranger_armor_feet"
+    ]
+  }
+}

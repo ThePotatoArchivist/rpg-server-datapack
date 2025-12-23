@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 4,
+      "rpgserver:dexterity": 6
+    }
+  ],
+  "items": {
+    "entries": [
+      "archers:small_quiver"
+    ]
+  }
+}

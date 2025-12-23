@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 10,
+    "rpgserver:affinity": 15
+  },
+
+  "recipes": {
+    "entries": [
+      "travelersbackpack:standard"
+    ]
+  }
+}

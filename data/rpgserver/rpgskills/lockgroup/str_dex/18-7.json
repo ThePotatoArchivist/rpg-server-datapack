@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:strength": 18,
+    "rpgserver:dexterity": 7
+  },
+  "items": {
+    "entries": [
+      "paladins:netherite_mace"
+    ]
+  }
+}

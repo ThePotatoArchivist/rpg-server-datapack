@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:strength": 16,
+    "rpgserver:dexterity": 9
+  },
+  "items": {
+    "entries": [
+      "rogues:netherite_glaive"
+    ]
+  }
+}

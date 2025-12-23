@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:strength": 5
+  },
+  "items": {
+    "entries": [
+      "rogues:iron_double_axe"
+    ]
+  }
+}

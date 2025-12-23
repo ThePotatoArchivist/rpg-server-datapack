@@ -4,6 +4,7 @@
   },
   "recipes": {
     "entries": [
+      "#choppersdelight:cutting_boards",
       "minecraft:crafting_table",
       "minecraft:ladder",
       "minecraft:scaffolding",

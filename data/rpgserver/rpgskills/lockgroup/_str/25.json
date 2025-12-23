@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:strength": 25
+  },
+  "items": {
+    "entries": [
+      "rogues:netherite_double_axe"
+    ]
+  }
+}

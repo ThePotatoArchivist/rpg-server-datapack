@@ -1,11 +1,11 @@
 {
   "requirements": {
+    "rpgserver:strength": 12,
     "rpgserver:dexterity": 5
   },
   "items": {
     "entries": [
-      "archers:flint_spear",
-      "archers:composite_longbow"
+      "rogues:diamond_glaive"
     ]
   }
 }

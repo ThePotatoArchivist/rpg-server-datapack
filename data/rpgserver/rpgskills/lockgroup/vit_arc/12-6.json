@@ -1,0 +1,14 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 12,
+    "rpgserver:arcane": 6
+  },
+  "items": {
+    "entries": [
+      "paladins:crusader_armor_head",
+      "paladins:crusader_armor_chest",
+      "paladins:crusader_armor_legs",
+      "paladins:crusader_armor_feet"
+    ]
+  }
+}

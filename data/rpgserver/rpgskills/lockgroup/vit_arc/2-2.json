@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 2,
+    "rpgserver:arcane": 2
+  },
+  "items": {
+    "entries": [
+      "paladins:acolyte_wand"
+    ]
+  }
+}

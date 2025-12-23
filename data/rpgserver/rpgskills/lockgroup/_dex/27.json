@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 27
+  },
+  "items": {
+    "entries": [
+      "minecraft:elytra"
+    ]
+  }
+}

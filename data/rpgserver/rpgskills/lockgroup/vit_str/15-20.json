@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 15,
+      "rpgserver:strength": 20
+    }
+  ],
+  "items": {
+    "entries": [
+      "paladins:netherite_kite_shield"
+    ]
+  }
+}

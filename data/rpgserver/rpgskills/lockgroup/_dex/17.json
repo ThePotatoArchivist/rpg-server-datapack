@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:dexterity": 17
+    },
+    {
+      "rpgserver:strength": 17
+    }
+  ],
+  "items": {
+    "entries": [
+      "rogues:netherite_dagger"
+    ]
+  }
+}

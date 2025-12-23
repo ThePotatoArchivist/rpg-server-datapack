@@ -4,7 +4,10 @@
   },
   "items": {
     "entries": [
-      "minecraft:end_crystal"
+      "minecraft:end_crystal",
+      "wizards:wand_netherite_fire",
+      "wizards:wand_netherite_arcane",
+      "wizards:wand_netherite_frost"
     ]
   }
 }

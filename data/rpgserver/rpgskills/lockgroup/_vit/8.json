@@ -6,8 +6,7 @@
     "entries": [
       "minecraft:golden_axe",
       "minecraft:golden_shovel",
-      "minecraft:golden_pickaxe",
-      "#rpgserver:moderate_alcoholic_brews"
+      "minecraft:golden_pickaxe"
     ]
   }
 }

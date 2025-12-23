@@ -1,0 +1,15 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 8
+  },
+  "blocks": {
+    "entries": [
+      "#choppersdelight:cutting_boards"
+    ]
+  },
+  "items": {
+    "entries": [
+      "#choppersdelight:cutting_boards"
+    ]
+  }
+}

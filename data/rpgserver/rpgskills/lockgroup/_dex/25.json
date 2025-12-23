@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 25
+  },
+  "items": {
+    "entries": [
+      "rogues:netherite_sickle",
+      "archers:netherite_spear"
+    ]
+  }
+}

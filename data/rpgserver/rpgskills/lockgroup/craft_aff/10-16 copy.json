@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 10,
+    "rpgserver:affinity": 16
+  },
+
+  "recipes": {
+    "entries": [
+      "travelersbackpack:blank_upgrade"
+    ]
+  }
+}
