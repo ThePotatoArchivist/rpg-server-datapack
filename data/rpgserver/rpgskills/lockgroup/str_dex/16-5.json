@@ -1,7 +1,7 @@
 {
   "requirements": {
-    "rpgserver:strength": 14,
-    "rpgserver:dexterity": 3
+    "rpgserver:strength": 16,
+    "rpgserver:dexterity": 5
   },
   "items": {
     "entries": [

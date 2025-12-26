@@ -1,11 +1,11 @@
 {
     "name": "Food Chain 1",
     "cooldown_ticks": 300,
-    "reward_points": 300,
+    "reward_points": 5,
     "tasks": {
         "milk": {
             "description": "Eat monster food",
-            "count": 2,
+            "count": 10,
             "trigger": "minecraft:consume_item",
             "conditions": {
                 "item": {

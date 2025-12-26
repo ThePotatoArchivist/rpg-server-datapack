@@ -1,10 +1,10 @@
 {
-  "name": "Smiting",
+  "name": "Defusing",
   "cooldown_ticks": 300,
   "reward_points": 7,
   "tasks": {
     "killed": {
-      "description": "Kill zombies",
+      "description": "Kill creepers",
       "count": 15,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
@@ -13,7 +13,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "#minecraft:zombies"
+              "type": "#rpgserver:creepers"
             }
           }
         ]

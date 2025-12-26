@@ -9,14 +9,17 @@
   },
   "recipes": {
     "entries": [
-      "archers:iron_spear",
-      "paladins:iron_kite_shield",
-      "paladins:iron_claymore",
-      "paladins:iron_mace",
-      "paladins:iron_great_hammer",
-      "rogues:iron_double_axe",
-      "rogues:iron_sickle",
-      "rogues:iron_glaive",
+      "downtoearth:bronze_shovel",
+      "downtoearth:bronze_pickaxe",
+      "downtoearth:bronze_hoe",
+      "downtoearth:bronze_axe",
+      "downtoearth:bronze_sword",
+
+      "downtoearth:bronze_helmet",
+      "downtoearth:bronze_chestplate",
+      "downtoearth:bronze_leggings",
+      "downtoearth:bronze_boots",
+      
       "immersive_melodies:lute",
       "immersive_melodies:didgeridoo"
     ]

@@ -2,12 +2,12 @@
   "requirements": [
     {
       "rpgserver:vitality": 10,
-      "rpgserver:dexterity": 15
+      "rpgserver:dexterity": 17
     }
   ],
   "items": {
     "entries": [
-      "archers:large_quiver"
+      "minecraft:trident"
     ]
   }
 }

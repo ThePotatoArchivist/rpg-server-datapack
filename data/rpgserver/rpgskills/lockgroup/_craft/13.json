@@ -1,10 +1,30 @@
 {
   "requirements": {
-    "rpgserver:craft": 12
+    "rpgserver:craft": 13
   },
 
   "recipes": {
     "entries": [
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_hoe",
+      "minecraft:iron_axe",
+      "minecraft:iron_sword",
+
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      
+      "archers:iron_spear",
+      "paladins:iron_kite_shield",
+      "paladins:iron_claymore",
+      "paladins:iron_mace",
+      "paladins:iron_great_hammer",
+      "rogues:iron_double_axe",
+      "rogues:iron_sickle",
+      "rogues:iron_glaive",
+
       "rogues:diamond_dagger",
       "immersive_melodies:trumpet",
       "immersive_melodies:piano",

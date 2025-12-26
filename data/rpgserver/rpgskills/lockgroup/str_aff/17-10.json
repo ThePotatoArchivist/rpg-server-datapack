@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:strength": 17,
+    "rpgserver:affinity": 10
+  },
+  "items": {
+    "entries": [
+      "benssharks:shark_tooth_club"
+    ]
+  }
+}

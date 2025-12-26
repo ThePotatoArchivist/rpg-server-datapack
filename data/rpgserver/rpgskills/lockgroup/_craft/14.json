@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 14
+  },
+
+  "recipes": {
+    "entries": [
+      "brewinandchewin:keg",
+      "#minecraft:anvil"
+    ]
+  }
+}

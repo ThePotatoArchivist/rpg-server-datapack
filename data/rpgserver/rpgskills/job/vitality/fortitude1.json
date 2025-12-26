@@ -1,8 +1,7 @@
 {
   "name": "Fortitude 1",
-  "description": "Fight enemies with minor debuffs",
-  "cooldown_ticks": 300,
-  "reward_points": 300,
+  "cooldown_ticks": 3600,
+  "reward_points": 10,
   "tasks": {
     "killed_zombies": {
       "description": "Kill enemies whilst poisoned",

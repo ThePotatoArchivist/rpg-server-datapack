@@ -1,0 +1,19 @@
+{
+  "requirements": {
+    "rpgserver:craft": 6,
+    "rpgserver:affinity": 8
+  },
+  "recipes": {
+    "entries": [
+      "cold_sweat:hoglin_helmet",
+      "cold_sweat:hoglin_chestplate",
+      "cold_sweat:hoglin_leggings",
+      "cold_sweat:hoglin_boots",
+      
+      "archers:archer_armor_head",
+      "archers:archer_armor_chest",
+      "archers:archer_armor_legs",
+      "archers:archer_armor_feet"
+    ]
+  }
+}

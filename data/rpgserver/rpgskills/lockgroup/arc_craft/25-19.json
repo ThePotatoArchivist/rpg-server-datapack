@@ -1,7 +1,7 @@
 {
   "requirements": {
-    "rpgserver:arcane": 27,
-    "rpgserver:craft": 12
+    "rpgserver:arcane": 25,
+    "rpgserver:craft": 19
   },
 
   "recipes": {

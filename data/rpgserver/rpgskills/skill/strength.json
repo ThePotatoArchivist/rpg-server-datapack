@@ -28,7 +28,13 @@
         },
         "4": {
             "jobs": [
-                "rpgserver:strength/bravery1"
+                "rpgserver:strength/bravery1",
+                "rpgserver:strength/bravery3"
+            ]
+        },
+        "6": {
+            "jobs": [
+                "rpgserver:strength/bravery2"
             ]
         },
         "30": {}

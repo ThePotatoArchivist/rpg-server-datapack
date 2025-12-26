@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "rpgserver:ender_pearls"
+    },
+    {
+      "tag": "rpgserver:flame_charges"
+    }
+  ],
+  "result": {
+    "id": "minecraft:ender_eye"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:strength": 6,
+    "rpgserver:dexterity": 7
+  },
+  "items": {
+    "entries": [
+      "minecraft:iron_sword"
+    ]
+  }
+}

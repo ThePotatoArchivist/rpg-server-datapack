@@ -2,7 +2,7 @@
   "requirements": [
     {
       "rpgserver:vitality": 15,
-      "rpgserver:dexterity": 20
+      "rpgserver:dexterity": 25
     }
   ],
   "items": {

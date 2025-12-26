@@ -1,0 +1,51 @@
+{
+    "name": "Stone Age",
+    "cooldown_ticks": 300,
+    "reward_points": 35,
+    "tasks": {
+        "stone_pick": {
+            "description": "Craft stone pickaxes",
+            "count": 4,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecraft:stone_pickaxe"
+            }
+        },
+
+        "stone_hoe": {
+            "description": "Craft stone hoes",
+            "count": 4,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecraft:stone_hoe"
+            }
+        },
+
+        "stone_axe": {
+            "description": "Craft stone axes",
+            "count": 4,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecraft:stone_axe"
+            }
+        },
+
+        "stone_sword": {
+            "description": "Craft stone swords",
+            "count": 4,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecraft:stone_sword"
+            }
+        },
+
+        "stone_shovel": {
+            "description": "Craft stone shovels",
+            "count": 4,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecraft:stone_shovel"
+            }
+        }
+    }
+}

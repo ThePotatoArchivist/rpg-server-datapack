@@ -1,12 +1,12 @@
 {
   "requirements": {
     "rpgserver:craft": 10,
-    "rpgserver:affinity": 16
+    "rpgserver:affinity": 21
   },
 
   "recipes": {
     "entries": [
-      "travelersbackpack:blank_upgrade"
+      "benssharks:spetum"
     ]
   }
 }

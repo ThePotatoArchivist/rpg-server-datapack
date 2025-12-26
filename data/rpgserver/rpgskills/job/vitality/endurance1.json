@@ -1,8 +1,7 @@
 {
     "name": "Endurance 1",
-    "description": "Withstand minor pain",
     "cooldown_ticks": 10,
-    "reward_points": 300,
+    "reward_points": 10,
     "tasks": {
         "burning": {
             "description": "Endure fire",

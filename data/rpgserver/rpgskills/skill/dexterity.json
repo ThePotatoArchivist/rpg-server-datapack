@@ -23,6 +23,12 @@
                 "rpgserver:dexterity/hunt_fish1"
             ]
         },
+
+        "6": {
+            "jobs": [
+                "rpgserver:dexterity/archery1"
+            ]
+        },
         "10": {
             "attributes": {
                 "minecraft:generic.luck": {

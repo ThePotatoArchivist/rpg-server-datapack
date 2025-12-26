@@ -5,10 +5,8 @@
   },
   "recipes": {
     "entries": [
-      "cold_sweat:hoglin_helmet",
-      "cold_sweat:hoglin_chestplate",
-      "cold_sweat:hoglin_leggings",
-      "cold_sweat:hoglin_boots",
+      "travelersbackpack:standard",
+      "travelersbackpack:blank_upgrade",
 
       "cold_sweat:sewing_table"
     ]

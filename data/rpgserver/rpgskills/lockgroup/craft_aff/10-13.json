@@ -1,12 +1,12 @@
 {
   "requirements": {
     "rpgserver:craft": 10,
-    "rpgserver:affinity": 15
+    "rpgserver:affinity": 13
   },
 
   "recipes": {
-    "entries": [
-      "travelersbackpack:standard"
+    "entries": [      
+      "cold_sweat:hearth"
     ]
   }
 }

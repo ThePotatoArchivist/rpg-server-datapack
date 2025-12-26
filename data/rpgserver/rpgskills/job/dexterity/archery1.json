@@ -1,0 +1,22 @@
+{
+  "name": "Archery 1",
+  "cooldown_ticks": 3600,
+  "reward_points": 15,
+  "tasks": {
+    "salmon": {
+      "description": "Kill mobs with arrows",
+      "count": 30,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "#incendium:mobs_no_player"
+        },
+        "killing_blow": {
+          "direct_entity": {
+            "type": "minecraft:arrow"
+          }
+        }
+      }
+    }
+  }
+}

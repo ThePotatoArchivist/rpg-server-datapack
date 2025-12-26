@@ -4,13 +4,13 @@
   },
   "blocks": {
     "entries": [
-      "#minecraft:anvil"
+      "downtoearth:stone_anvil"
     ]
   },
 
   "recipes": {
     "entries": [
-      "#minecraft:anvil"
+      "downtoearth:stone_anvil"
     ]
   }
 }
