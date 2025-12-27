@@ -27,7 +27,10 @@
                     "amount": 0.1,
                     "operation": "add_value"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:affinity/proteins1"
+            ]
         },
         "7": {
             "attributes": {
@@ -71,7 +74,11 @@
                     "amount": 0.15,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:affinity/american_dream1",
+                "rpgserver:affinity/pan-cakes"
+            ]
         },
         "20": {
             "attributes": {

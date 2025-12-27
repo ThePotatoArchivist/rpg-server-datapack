@@ -1,7 +1,7 @@
 {
     "name": "Food Chain 1",
     "cooldown_ticks": 300,
-    "reward_points": 5,
+    "reward_points": 7,
     "tasks": {
         "milk": {
             "description": "Eat monster food",

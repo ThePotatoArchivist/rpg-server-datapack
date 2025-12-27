@@ -1,0 +1,17 @@
+{
+    "name": "Proteins 1",
+    "cooldown_ticks": 3600,
+    "reward_points": 7,
+    "tasks": {
+        "cook_meat": {
+            "description": "Cook meat in a furnace or smoker",
+            "count": 10,
+            "trigger": "rpgskills:craft_item",
+            "conditions": {
+                "item": {
+                    "items": "#rpgserver:cooked_meats"
+                }
+            }
+        }
+    }
+}

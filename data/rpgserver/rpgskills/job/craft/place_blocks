@@ -2,7 +2,7 @@
     "name": "Construction 1",
     "description": "Have a hearty meal",
     "cooldown_ticks": 300,
-    "reward_points": 300,
+    "reward_points": 7,
     "tasks": {
         "": {
             "description": "Place blocks",

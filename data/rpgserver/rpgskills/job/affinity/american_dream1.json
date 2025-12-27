@@ -1,0 +1,39 @@
+{
+    "name": "American Dream 1",
+    "cooldown_ticks": 3600,
+    "reward_points": 7,
+    "tasks": {
+        "cook_meat": {
+            "description": "Cook meat in a furnace or smoker",
+            "count": 10,
+            "trigger": "rpgskills:craft_item",
+            "conditions": {
+                "item": {
+                    "items": "#c:foods/cooked_meat"
+                }
+            }
+        },
+
+        "fried_food": {
+            "description": "Cook fried food in a furnace or smoker",
+            "count": 10,
+            "trigger": "rpgskills:craft_item",
+            "conditions": {
+                "item": {
+                    "items": "#rpgserver:deep_fried_food"
+                }
+            }
+        },
+
+        "pancakes": {
+            "description": "Make pancakes",
+            "count": 10,
+            "trigger": "rpgskills:craft_item",
+            "conditions": {
+                "item": {
+                    "items": "#rpgserver:pancakes"
+                }
+            }
+        }
+    }
+}

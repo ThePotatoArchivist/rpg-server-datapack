@@ -86,10 +86,7 @@
                     "amount": 0.025,
                     "operation": "add_multiplied_total"
                 }
-            },
-            "jobs": [
-                "rpgserver:dexterity/hunt_fish2"
-            ]
+            }
         },
         "9": {
             "attributes": {
@@ -112,11 +109,12 @@
                 "ranged_weapon:damage": {
                     "amount": 0.025,
                     "operation": "add_multiplied_total"
+                },
+                "ranged_weapon:velocity": {
+                    "amount": 0.075,
+                    "operation": "add_multiplied_total"
                 }
-            },
-            "jobs": [
-                "rpgserver:dexterity/hunt_fish3"
-            ]
+            }
         },
         "11": {
             "attributes": {
@@ -175,11 +173,12 @@
                 "minecraft:generic.fall_damage_multiplier": {
                     "amount": -0.05,
                     "operation": "add_multiplied_base"
+                },
+               "ranged_weapon:velocity": {
+                     "amount": 0.075,
+                    "operation": "add_multiplied_total"
                 }
-            },
-            "jobs": [
-                "rpgserver:dexterity/hunt_fish4"
-            ]
+            }
         },
         "16": {
             "attributes": {
@@ -207,10 +206,7 @@
                     "amount": 0.025,
                     "operation": "add_multiplied_total"
                 }
-            },
-            "jobs": [
-                "rpgserver:dexterity/hunt_fish5"
-            ]
+            }
         },
         "18": {
             "attributes": {
@@ -364,6 +360,10 @@
                 },
                 "ranged_weapon:damage": {
                     "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                },
+                "ranged_weapon:velocity": {
+                     "amount": 0.075,
                     "operation": "add_multiplied_total"
                 }
             }

@@ -4,7 +4,7 @@
     "reward_points": 7,
     "tasks": {
         "drink_water": {
-            "description": "Drink Acceptable Water",
+            "description": "Drink Water",
             "count": 4,
             "trigger": "minecraft:consume_item",
             "conditions": {
@@ -29,12 +29,24 @@
         },
         "make_clay_bowl": {
             "description": "Make a Clay Bowl",
-            "count": 1,
+            "count": 3,
             "trigger": "rpgskills:craft_item",
             "conditions": {
                 "item": {
                     "items": [
                         "thirst:clay_bowl"
+                    ]
+                }
+            }
+        },
+        "cook_bowl": {
+            "description": "Make a Clay Bowl",
+            "count": 3,
+            "trigger": "rpgskills:craft_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "thirst:terracotta_water_bowl"
                     ]
                 }
             }

@@ -1,7 +1,7 @@
 {
     "name": "Lumberjack",
     "cooldown_ticks": 0,
-    "reward_points": 5,
+    "reward_points": 7,
     "tasks": {
         "planks": {
             "description": "Craft wooden planks",

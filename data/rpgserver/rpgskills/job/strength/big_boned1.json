@@ -1,0 +1,17 @@
+{
+  "name": "Big Boned 1",
+  "cooldown_ticks": 300,
+  "reward_points": 7,
+  "tasks": {
+    "killed": {
+      "description": "Eat cooked meats",
+      "count": 15,
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgserver:cooked_meats"
+        }
+      }
+    }
+  }
+}

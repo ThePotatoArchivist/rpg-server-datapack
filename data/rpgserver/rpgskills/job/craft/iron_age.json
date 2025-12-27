@@ -1,7 +1,7 @@
 {
     "name": "Stone Age",
     "cooldown_ticks": 300,
-    "reward_points": 35,
+    "reward_points": 7,
     "tasks": {
         "stone_pick": {
             "description": "Craft stone pickaxes",
