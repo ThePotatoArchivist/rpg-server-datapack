@@ -1,0 +1,27 @@
+{
+  "name": "Slay Magicals 2",
+  "cooldown_ticks": 1200,
+  "reward_points": 7,
+  "tasks": {
+    "pheonix": {
+      "description": "Slay a Woodland Witch Doctor",
+      "count": 1,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "luminous_beasts:woodland_witch_doctor"
+        }
+      }
+    },
+    "furnace": {
+      "description": "Slay a Basalt Piglin Executioner",
+      "count": 1,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "luminous_beasts:basalt_executioner"
+        }
+      }
+    }
+  }
+}

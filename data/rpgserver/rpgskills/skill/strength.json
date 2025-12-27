@@ -34,8 +34,7 @@
                 }
             },
             "jobs": [
-                "rpgserver:strength/bravery1",
-                "rpgserver:strength/bravery3"
+                "rpgserver:strength/bravery1"
             ]
         },
         "5": {
@@ -157,7 +156,10 @@
                     "amount": 0.007,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:strength/monarchs1"
+            ]
         },
         "15": {
             "attributes": {
@@ -173,7 +175,10 @@
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:strength/beasts1"
+            ]
         },
         "16": {
             "attributes": {
@@ -237,7 +242,10 @@
                     "amount": 0.15,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:strength/beasts2"
+            ]
         },
         "21": {
             "attributes": {
@@ -249,7 +257,10 @@
                     "amount": 0.15,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:strength/monarchs2"
+            ]
         },
         "22": {
             "attributes": {

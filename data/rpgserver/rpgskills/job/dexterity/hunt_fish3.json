@@ -1,0 +1,17 @@
+{
+  "name": "Big Catch",
+  "cooldown_ticks": 1200,
+  "reward_points": 7,
+  "tasks": {
+    "salmon": {
+      "description": "Hunt big sharks",
+      "count": 15,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "#minecraft:aquatic"
+        }
+      }
+    }
+  }
+}

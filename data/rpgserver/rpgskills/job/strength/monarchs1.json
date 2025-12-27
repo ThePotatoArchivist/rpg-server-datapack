@@ -1,0 +1,27 @@
+{
+  "name": "Slay Monarchs 1",
+  "cooldown_ticks": 1200,
+  "reward_points": 7,
+  "tasks": {
+    "ent": {
+      "description": "Slay a Mummy King",
+      "count": 1,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "luminous_beasts:mummy"
+        }
+      }
+    },
+    "yeti": {
+      "description": "Slay a Hermit King",
+      "count": 1,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "luminous_beasts:hermit_king"
+        }
+      }
+    }
+  }
+}

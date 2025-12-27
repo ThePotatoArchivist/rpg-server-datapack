@@ -1,0 +1,37 @@
+{
+  "name": "Bottom Feeder",
+  "cooldown_ticks": 1200,
+  "reward_points": 7,
+  "tasks": {
+    "krill": {
+      "description": "Hunt Krill",
+      "count": 15,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "benssharks:krill"
+        }
+      }
+    },
+    "sea_bunny": {
+      "description": "Hunt Sea Bunnies",
+      "count": 15,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "crittersandcompanions:sea_bunny"
+        }
+      }
+    },
+    "octopus": {
+      "description": "Hunt Dumbo Octopi",
+      "count": 15,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "crittersandcompanions:dumbo_octopus"
+        }
+      }
+    }
+  }
+}

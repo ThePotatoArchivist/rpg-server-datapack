@@ -7,6 +7,26 @@
                 "rpgserver:arcane/fire_bending"
             ]
         },
+        "14": {
+            "jobs": [
+                "rpgserver:arcane/magicals1"
+            ]
+        },
+        "15": {
+            "jobs": [
+                "rpgserver:arcane/mythicals1"
+            ]
+        },
+        "20": {
+            "jobs": [
+                "rpgserver:arcane/mythicals2"
+            ]
+        },
+        "21": {
+            "jobs": [
+                "rpgserver:arcane/magicals2"
+            ]
+        },
         "30": {}
     }
 }

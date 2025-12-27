@@ -1,0 +1,37 @@
+{
+  "name": "Slay Monarchs 2",
+  "cooldown_ticks": 1200,
+  "reward_points": 7,
+  "tasks": {
+    "ent": {
+      "description": "Slay a Red Mummy King",
+      "count": 1,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "luminous_beasts:red_mummy"
+        }
+      }
+    },
+    "hermit": {
+      "description": "Slay a Golden Hermit King",
+      "count": 1,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "luminous_beasts:golden_hermit_king"
+        }
+      }
+    },
+    "mushlin": {
+      "description": "Slay a Warped Mushlin King",
+      "count": 1,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "luminous_beasts:warped_mushlin_king"
+        }
+      }
+    }
+  }
+}

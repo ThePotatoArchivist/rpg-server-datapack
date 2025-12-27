@@ -61,7 +61,8 @@
                 }
             },
             "jobs": [
-                "rpgserver:dexterity/archery1"
+                "rpgserver:dexterity/archery1",
+                "rpgserver:dexterity/hunt_fish2"
             ]
         },
         "7": {
@@ -150,7 +151,10 @@
                     "amount": 0.0125,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish3"
+            ]
         },
         "14": {
             "attributes": {
@@ -174,11 +178,14 @@
                     "amount": -0.05,
                     "operation": "add_multiplied_base"
                 },
-               "ranged_weapon:velocity": {
-                     "amount": 0.075,
+                "ranged_weapon:velocity": {
+                    "amount": 0.075,
                     "operation": "add_multiplied_total"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:dexterity/leviathans1"
+            ]
         },
         "16": {
             "attributes": {
@@ -206,7 +213,10 @@
                     "amount": 0.025,
                     "operation": "add_multiplied_total"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish4"
+            ]
         },
         "18": {
             "attributes": {
@@ -238,7 +248,10 @@
                     "amount": 0.025,
                     "operation": "add_multiplied_total"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish5"
+            ]
         },
         "20": {
             "attributes": {
@@ -262,7 +275,10 @@
                     "amount": 0.025,
                     "operation": "add_multiplied_total"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:dexterity/leviathans2"
+            ]
         },
         "21": {
             "attributes": {
@@ -363,7 +379,7 @@
                     "operation": "add_multiplied_total"
                 },
                 "ranged_weapon:velocity": {
-                     "amount": 0.075,
+                    "amount": 0.075,
                     "operation": "add_multiplied_total"
                 }
             }
