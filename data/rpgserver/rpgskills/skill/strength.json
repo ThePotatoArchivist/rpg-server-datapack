@@ -27,16 +27,343 @@
             }
         },
         "4": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.005,
+                    "operation": "add_multiplied_base"
+                }
+            },
             "jobs": [
                 "rpgserver:strength/bravery1",
                 "rpgserver:strength/bravery3"
             ]
         },
+        "5": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.015,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
         "6": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                }
+            },
             "jobs": [
                 "rpgserver:strength/bravery2"
             ]
         },
-        "30": {}
+        "7": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "8": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "9": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "10": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 1,
+                    "operation": "add_value"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "11": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "12": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "13": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "14": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "15": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.015,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.05,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "16": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "17": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.015,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.05,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "18": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.015,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "19": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.01,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.25,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.05,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "20": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "21": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "22": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "23": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "24": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "25": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.10,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "26": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.10,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "27": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.10,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "28": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.10,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "29": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.007,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.10,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "30": {
+            "attributes": {
+                "minecraft:generic.attack_damage": {
+                    "amount": 0.25,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_knockback": {
+                    "amount": 0.25,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:player.block_break_speed": {
+                    "amount": 0.20,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        }
     }
 }

@@ -5,12 +5,43 @@
         "1": {
             "attributes": {
                 "minecraft:generic.attack_speed": {
-                    "amount": 0.005,
+                    "amount": 0.0095,
                     "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
                 }
             }
         },
         "2": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "3": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                }
+            },
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish1"
+            ]
+        },
+        "4": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "5": {
             "attributes": {
                 "minecraft:generic.attack_speed": {
                     "amount": 0.005,
@@ -18,25 +49,412 @@
                 }
             }
         },
-        "3": {
-            "jobs": [
-                "rpgserver:dexterity/hunt_fish1"
-            ]
-        },
-
         "6": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 2,
+                    "operation": "add_value"
+                }
+            },
             "jobs": [
                 "rpgserver:dexterity/archery1"
             ]
         },
-        "10": {
+        "7": {
             "attributes": {
-                "minecraft:generic.luck": {
-                    "amount": 0.5,
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "8": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            },
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish2"
+            ]
+        },
+        "9": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
                     "operation": "add_multiplied_base"
                 }
             }
         },
-        "30": {}
+        "10": {
+            "attributes": {
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            },
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish3"
+            ]
+        },
+        "11": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "12": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "13": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "14": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "15": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                }
+            },
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish4"
+            ]
+        },
+        "16": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "17": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            },
+            "jobs": [
+                "rpgserver:dexterity/hunt_fish5"
+            ]
+        },
+        "18": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "19": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "20": {
+            "attributes": {
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.25,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "21": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "22": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "23": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "24": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "25": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.25,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "26": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "27": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "28": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "29": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "30": {
+            "attributes": {
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        }
     }
 }

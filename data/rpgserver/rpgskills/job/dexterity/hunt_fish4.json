@@ -1,0 +1,17 @@
+{
+  "name": "Ancient Predator",
+  "cooldown_ticks": 1200,
+  "reward_points": 35,
+  "tasks": {
+    "megaladon": {
+      "description": "Slay a Megaladon",
+      "count": 1,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "benssharks:megalodon"
+        }
+      }
+    }
+  }
+}

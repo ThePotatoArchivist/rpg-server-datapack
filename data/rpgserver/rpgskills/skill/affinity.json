@@ -2,11 +2,84 @@
     "name": "Affinity",
     "icon": "herbalbrews:tea_blossom",
     "levels": {
-
         "4": {
+            "attributes": {
+                "minecraft:generic.movement_efficiency": {
+                    "amount": 0.1,
+                    "operation": "add_value"
+                }
+            },
             "jobs": [
                 "rpgserver:affinity/survival_standards"
             ]
+        },
+        "5": {
+            "attributes": {
+                "minecraft:generic.movement_efficiency": {
+                    "amount": 0.1,
+                    "operation": "add_value"
+                }
+            }
+        },
+        "6": {
+            "attributes": {
+                "minecraft:generic.movement_efficiency": {
+                    "amount": 0.1,
+                    "operation": "add_value"
+                }
+            }
+        },
+        "7": {
+            "attributes": {
+                "minecraft:generic.movement_efficiency": {
+                    "amount": 0.1,
+                    "operation": "add_value"
+                }
+            }
+        },
+        "8": {
+            "attributes": {
+                "minecraft:generic.movement_efficiency": {
+                    "amount": 0.1,
+                    "operation": "add_value"
+                }
+            }
+        },
+        "9": {
+            "attributes": {
+                "minecraft:generic.movement_efficiency": {
+                    "amount": 0.1,
+                    "operation": "add_value"
+                }
+            }
+        },
+        "10": {
+            "attributes": {
+                "minecraft:generic.movement_efficiency": {
+                    "amount": 0.1,
+                    "operation": "add_value"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "15": {
+            "attributes": {
+                "neoforge:swim_speed": {
+                    "amount": 0.15,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "20": {
+            "attributes": {
+                "neoforge:swim_speed": {
+                    "amount": 0.25,
+                    "operation": "add_multiplied_base"
+                }
+            }
         },
         "30": {}
     }
