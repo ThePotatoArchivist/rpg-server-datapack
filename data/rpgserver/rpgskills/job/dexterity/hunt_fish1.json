@@ -1,6 +1,6 @@
 {
   "name": "Marine Hunting 1",
-  "cooldown_ticks": 1200,
+  "cooldown_ticks": 3600,
   "reward_points": 7,
   "tasks": {
     "salmon": {

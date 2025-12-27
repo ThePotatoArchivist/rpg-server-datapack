@@ -1,7 +1,7 @@
 {
     "name": "Endurance 1",
-    "cooldown_ticks": 10,
-    "reward_points": 10,
+    "cooldown_ticks": 3600,
+    "reward_points": 7,
     "tasks": {
         "burning": {
             "description": "Endure fire",

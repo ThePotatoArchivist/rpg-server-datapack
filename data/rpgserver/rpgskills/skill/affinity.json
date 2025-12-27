@@ -2,6 +2,11 @@
     "name": "Affinity",
     "icon": "herbalbrews:tea_blossom",
     "levels": {
+        "1": {
+            "jobs": [
+                "rpgserver:affinity/wheat"
+            ]
+        },
         "4": {
             "attributes": {
                 "minecraft:generic.movement_efficiency": {

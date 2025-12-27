@@ -1,7 +1,7 @@
 {
   "name": "Gut health 1",
-  "cooldown_ticks": 300,
-  "reward_points": 15,
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
   "tasks": {
     "milk": {
       "description": "Drink milk",
