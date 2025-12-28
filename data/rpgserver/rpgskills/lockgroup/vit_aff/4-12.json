@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 4,
+    "rpgserver:affinity": 12
+  },
+  "items": {
+    "entries": [
+      "minecraft:iron_hoe"
+    ]
+  }
+}

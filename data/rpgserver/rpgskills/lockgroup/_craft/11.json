@@ -5,6 +5,11 @@
 
   "recipes": {
     "entries": [
+      "downtoearth:bronze_helmet",
+      "downtoearth:bronze_chestplate",
+      "downtoearth:bronze_leggings",
+      "downtoearth:bronze_boots",
+      
       "immersive_melodies:ender_bass",
       "immersive_melodies:handpan",
       "immersive_melodies:vielle"

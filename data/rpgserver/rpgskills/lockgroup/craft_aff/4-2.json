@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:craft": 4,
+    "rpgserver:affinity": 2
+  },
+  "recipes": {
+    "entries": [
+      "#rpgserver:plows"
+    ]
+  }
+}

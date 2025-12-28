@@ -1,0 +1,79 @@
+{
+    "name": "Steel Age",
+    "cooldown_ticks": 3600,
+    "reward_points": 7,
+    "tasks": {
+        "steel_pick": {
+            "description": "Craft Steel Pickaxes",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_pickaxe"
+            }
+        },
+        "steel_hoe": {
+            "description": "Craft Steel Hoes",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_hoe"
+            }
+        },
+        "steel_axe": {
+            "description": "Craft Steel Axes",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_axe"
+            }
+        },
+        "steel_sword": {
+            "description": "Craft Steel Swords",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_sword"
+            }
+        },
+        "steel_shovel": {
+            "description": "Craft Steel Shovels",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_shovel"
+            }
+        },
+        "steel_head": {
+            "description": "Craft Steel Helmet",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_helmet"
+            }
+        },
+        "steel_chest": {
+            "description": "Craft Steel Chestplate",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_chestplate"
+            }
+        },
+        "steel_legs": {
+            "description": "Craft Steel Leggings",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_leggings"
+            }
+        },
+        "steel_feet": {
+            "description": "Craft Steel Boots",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:steel_boots"
+            }
+        }
+    }
+}

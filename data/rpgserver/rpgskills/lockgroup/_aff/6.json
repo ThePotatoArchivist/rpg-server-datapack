@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 6
+  },
+
+  "items": {
+    "entries": [
+      "minecraft:stone_hoe"
+    ]
+  }
+}

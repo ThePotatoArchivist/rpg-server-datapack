@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:coal_block",
+    "minecraft:copper_block",
+    "minecraft:raw_copper_block",
+    "downtoearth:raw_tin_block",
+    "minecraft:raw_iron_block",
+    "minecraft:raw_gold_block"
+  ]
+}

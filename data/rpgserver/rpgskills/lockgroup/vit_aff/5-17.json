@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 5,
+    "rpgserver:affinity": 17
+  },
+  "items": {
+    "entries": [
+      "downtoearth:steel_hoe"
+    ]
+  }
+}

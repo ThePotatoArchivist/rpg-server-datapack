@@ -7,11 +7,5 @@
       "minecraft:composter",
       "chipped:botanist_workbench"
     ]
-  },
-
-  "items": {
-    "entries": [
-      "minecraft:stone_hoe"
-    ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "rpgserver:craft": 26
+  },
+  "recipes": {
+    "entries": [
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots"
+    ]
+  }
+}

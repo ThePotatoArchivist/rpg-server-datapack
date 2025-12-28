@@ -9,7 +9,8 @@
       "minecraft:tnt_minecart",
       "minecraft:hopper_minecart",
       "minecraft:chest_minecart",
-      "minecraft:furnace_minecart"
+      "minecraft:furnace_minecart",
+      "#rpgserver:hand_carts"
     ]
   }
 }

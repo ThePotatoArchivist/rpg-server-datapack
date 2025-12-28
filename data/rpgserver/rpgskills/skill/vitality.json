@@ -15,11 +15,15 @@
         "3": {
             "attributes": {
                 "minecraft:generic.max_health": 1
-            }
+            },
+            "jobs": [
+                "rpgserver:vitality/gut_health1"
+            ]
         },
         "4": {
             "jobs": [
-                "rpgserver:vitality/mining"
+                "rpgserver:vitality/mining",
+                "rpgserver:vitality/mining_coal"
             ]
         },
         "5": {
@@ -42,7 +46,10 @@
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:vitality/mining_copper"
+            ]
         },
         "7": {
             "attributes": {
@@ -69,7 +76,10 @@
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:vitality/mining_iron"
+            ]
         },
         "10": {
             "attributes": {
@@ -108,7 +118,10 @@
         "13": {
             "attributes": {
                 "minecraft:generic.max_health": 1
-            }
+            },
+            "jobs": [
+                "rpgserver:vitality/mining_diamond"
+            ]
         },
         "14": {
             "attributes": {

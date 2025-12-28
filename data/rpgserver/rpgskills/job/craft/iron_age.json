@@ -1,50 +1,78 @@
 {
-    "name": "Stone Age",
+    "name": "Iron Age",
     "cooldown_ticks": 3600,
     "reward_points": 7,
     "tasks": {
-        "stone_pick": {
-            "description": "Craft stone pickaxes",
-            "count": 4,
+        "iron_pick": {
+            "description": "Craft Iron Pickaxes",
+            "count": 3,
             "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe_id": "minecraft:stone_pickaxe"
+                "recipe_id": "downtoearth:iron_pickaxe"
             }
         },
-
-        "stone_hoe": {
-            "description": "Craft stone hoes",
-            "count": 4,
+        "iron_hoe": {
+            "description": "Craft Iron Hoes",
+            "count": 3,
             "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe_id": "minecraft:stone_hoe"
+                "recipe_id": "downtoearth:iron_hoe"
             }
         },
-
-        "stone_axe": {
-            "description": "Craft stone axes",
-            "count": 4,
+        "iron_axe": {
+            "description": "Craft Iron Axes",
+            "count": 3,
             "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe_id": "minecraft:stone_axe"
+                "recipe_id": "downtoearth:iron_axe"
             }
         },
-
-        "stone_sword": {
-            "description": "Craft stone swords",
-            "count": 4,
+        "iron_sword": {
+            "description": "Craft Iron Swords",
+            "count": 3,
             "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe_id": "minecraft:stone_sword"
+                "recipe_id": "downtoearth:iron_sword"
             }
         },
-
-        "stone_shovel": {
-            "description": "Craft stone shovels",
-            "count": 4,
+        "iron_shovel": {
+            "description": "Craft Iron Shovels",
+            "count": 3,
             "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe_id": "minecraft:stone_shovel"
+                "recipe_id": "downtoearth:iron_shovel"
+            }
+        },
+        "iron_head": {
+            "description": "Craft Iron Helmet",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:iron_helmet"
+            }
+        },
+        "iron_chest": {
+            "description": "Craft Iron Chestplate",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:iron_chestplate"
+            }
+        },
+        "iron_legs": {
+            "description": "Craft Iron Leggings",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:iron_leggings"
+            }
+        },
+        "iron_feet": {
+            "description": "Craft Iron Boots",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:iron_boots"
             }
         }
     }

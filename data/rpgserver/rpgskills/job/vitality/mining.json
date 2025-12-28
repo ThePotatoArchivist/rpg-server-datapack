@@ -5,22 +5,13 @@
     "tasks": {
         "stone": {
             "description": "Mine stone",
-            "count": 100,
+            "count": 50,
             "trigger": "minecraft:placed_block",
             "conditions": {
                 "location": [
                     {
-                        "condition": "minecraft:all_of",
-                        "terms": [
-                            {
-                                "condition": "minecraft:location_check",
-                                "predicate": {
-                                    "block": {
-                                        "blocks": "minecraft:stone"
-                                    }
-                                }
-                            }
-                        ]
+                        "condition": "minecraft:block_state_property",
+                        "block": "minecraft:stone"
                     }
                 ]
             }

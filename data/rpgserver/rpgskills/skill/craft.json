@@ -2,14 +2,54 @@
     "name": "Craft",
     "icon": "bobsmobgear:smithing_hammer",
     "levels": {
+        "2": {
+            "jobs": [
+                "rpgserver:craft/mill_work"
+            ]
+        },
         "4": {
             "jobs": [
-                "rpgserver:craft/craft_blocks"
+                "rpgserver:craft/wall_decor"
             ]
         },
         "6": {
             "jobs": [
                 "rpgserver:craft/stone_age"
+            ]
+        },
+        "7": {
+            "jobs": [
+                "rpgserver:craft/diy_wood"
+            ]
+        },
+        "9": {
+            "jobs": [
+                "rpgserver:craft/bronze_age"
+            ]
+        },
+        "10": {
+            "jobs": [
+                "rpgserver:craft/gold_rush"
+            ]
+        },
+        "13": {
+            "jobs": [
+                "rpgserver:craft/iron_age"
+            ]
+        },
+        "17": {
+            "jobs": [
+                "rpgserver:craft/steel_age"
+            ]
+        },
+        "21": {
+            "jobs": [
+                "rpgserver:craft/diamond_age"
+            ]
+        },
+        "25": {
+            "jobs": [
+                "rpgserver:craft/netherite_age"
             ]
         },
         "30": {}

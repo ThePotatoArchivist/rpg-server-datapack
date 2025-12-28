@@ -1,0 +1,21 @@
+{
+  "requirements": {
+    "rpgserver:craft": 17
+  },
+
+  "recipes": {
+    "entries": [
+      "downtoearth:steel_shovel",
+      "downtoearth:steel_pickaxe",
+      "downtoearth:steel_hoe",
+      "downtoearth:steel_axe",
+      "downtoearth:steel_sword",
+      "rogues:diamond_dagger",
+            
+      "downtoearth:steel_helmet",
+      "downtoearth:steel_chestplate",
+      "downtoearth:steel_leggings",
+      "downtoearth:steel_boots"
+    ]
+  }
+}

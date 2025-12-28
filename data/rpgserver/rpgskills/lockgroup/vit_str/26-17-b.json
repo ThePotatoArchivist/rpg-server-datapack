@@ -1,12 +1,12 @@
 {
   "requirements": [
     {
-      "rpgserver:vitality": 15,
-      "rpgserver:strength": 9
+      "rpgserver:vitality": 26,
+      "rpgserver:strength": 17
     },
     {
-      "rpgserver:vitality": 15,
-      "rpgserver:dexterity": 9
+      "rpgserver:vitality": 26,
+      "rpgserver:dexterity": 17
     }
   ],
   "items": {

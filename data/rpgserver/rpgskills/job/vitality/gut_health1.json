@@ -3,46 +3,36 @@
   "cooldown_ticks": 3600,
   "reward_points": 7,
   "tasks": {
-    "milk": {
-      "description": "Drink milk",
-      "count": 2,
+    "vegetable": {
+      "description": "Eat vegetables",
+      "count": 5,
       "trigger": "minecraft:consume_item",
-       "conditions": {
+      "conditions": {
         "item": {
-          "items": [
-            "minecraft:milk_bucket"
-          ]
+          "items": "#c:foods/vegetable"
         }
-
       }
     },
-
-    "stew": {
-      "description": "Eat stew",
-      "count": 2,
+    "lean_meat": {
+      "description": "Eat poultry or fish",
+      "count": 3,
       "trigger": "minecraft:consume_item",
-       "conditions": {
+      "conditions": {
         "item": {
-          "items": [
-            "minecraft:rabbit_stew",
-            "minecraft:mushroom_stew"
-          ]
+          "items": "#rpgserver:lean_meats"
         }
-
       }
     },
-
-    "bread": {
-      "description": "Eat bread",
-      "count": 2,
+    "drink": {
+      "description": "Drink water",
+      "count": 4,
       "trigger": "minecraft:consume_item",
-       "conditions": {
+      "conditions": {
         "item": {
           "items": [
-            "minecraft:bread"
+            "thirst:terracotta_water_bowl"
           ]
         }
-
       }
     }
   }

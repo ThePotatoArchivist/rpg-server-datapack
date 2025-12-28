@@ -9,16 +9,13 @@
   },
   "recipes": {
     "entries": [
+      "#rpgserver:ore_blocks",
       "downtoearth:bronze_shovel",
       "downtoearth:bronze_pickaxe",
       "downtoearth:bronze_hoe",
       "downtoearth:bronze_axe",
       "downtoearth:bronze_sword",
-
-      "downtoearth:bronze_helmet",
-      "downtoearth:bronze_chestplate",
-      "downtoearth:bronze_leggings",
-      "downtoearth:bronze_boots",
+      "rogues:iron_dagger",
       
       "immersive_melodies:lute",
       "immersive_melodies:didgeridoo"

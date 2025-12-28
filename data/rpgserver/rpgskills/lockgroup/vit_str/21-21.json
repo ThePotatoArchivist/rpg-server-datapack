@@ -1,8 +1,8 @@
 {
   "requirements": [
     {
-      "rpgserver:vitality": 20,
-      "rpgserver:strength": 20
+      "rpgserver:vitality": 21,
+      "rpgserver:strength": 21
     }
   ],
   "items": {

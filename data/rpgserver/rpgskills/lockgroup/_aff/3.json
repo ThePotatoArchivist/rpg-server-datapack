@@ -6,5 +6,12 @@
     "entries": [
       "minecraft:smoker"
     ]
+  },
+
+  "items": {
+    "entries": [
+      "minecraft:wooden_hoe",
+      "farmersdelight:flint_knife"
+    ]
   }
 }

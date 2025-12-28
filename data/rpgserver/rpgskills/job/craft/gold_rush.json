@@ -1,0 +1,79 @@
+{
+    "name": "Gold Rush",
+    "cooldown_ticks": 3600,
+    "reward_points": 7,
+    "tasks": {
+        "gold_pick": {
+            "description": "Craft Gold Pickaxes",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_pickaxe"
+            }
+        },
+        "gold_hoe": {
+            "description": "Craft Gold Hoes",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_hoe"
+            }
+        },
+        "gold_axe": {
+            "description": "Craft Gold Axes",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_axe"
+            }
+        },
+        "gold_sword": {
+            "description": "Craft Gold Swords",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_sword"
+            }
+        },
+        "gold_shovel": {
+            "description": "Craft Gold Shovels",
+            "count": 3,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_shovel"
+            }
+        },
+        "gold_head": {
+            "description": "Craft Gold Helmet",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_helmet"
+            }
+        },
+        "gold_chest": {
+            "description": "Craft Gold Chestplate",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_chestplate"
+            }
+        },
+        "gold_legs": {
+            "description": "Craft Gold Leggings",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_leggings"
+            }
+        },
+        "gold_feet": {
+            "description": "Craft Gold Boots",
+            "count": 1,
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "downtoearth:gold_boots"
+            }
+        }
+    }
+}

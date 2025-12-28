@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 4,
+    "rpgserver:affinity": 10
+  },
+  "recipes": {
+    "entries": [
+      "#rpgserver:seed_drills",
+      "#rpgserver:reapers"
+    ]
+  }
+}

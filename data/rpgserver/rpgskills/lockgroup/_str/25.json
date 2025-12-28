@@ -4,7 +4,8 @@
   },
   "items": {
     "entries": [
-      "rogues:netherite_double_axe"
+      "rogues:netherite_double_axe",
+      "minecraft:mace"
     ]
   }
 }

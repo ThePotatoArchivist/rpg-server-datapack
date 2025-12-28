@@ -4,9 +4,9 @@
   },
   "items": {
     "entries": [
-      "minecraft:iron_axe",
-      "minecraft:iron_shovel",
-      "minecraft:iron_pickaxe"
+      "downtoearth:bronze_axe",
+      "downtoearth:bronze_shovel",
+      "downtoearth:bronze_pickaxe"
     ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 2,
+    "rpgserver:affinity": 8
+  },
+  "recipes": {
+    "entries": [
+      "#rpgserver:animal_carts"
+    ]
+  }
+}

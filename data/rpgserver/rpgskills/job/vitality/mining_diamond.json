@@ -1,0 +1,29 @@
+{
+    "name": "Mining Diamond",
+    "cooldown_ticks": 3600,
+    "reward_points": 7,
+    "tasks": {
+        "stone": {
+            "description": "Mine Diamond",
+            "count": 50,
+            "trigger": "rpgskills:break_block",
+            "conditions": {
+                "location": [
+                    {
+                        "condition": "minecraft:any_of",
+                        "terms": [
+                            {
+                                "condition": "minecraft:block_state_property",
+                                "block": "minecraft:diamond_ore"
+                            },
+                            {
+                                "condition": "minecraft:block_state_property",
+                                "block": "minecraft:deepslate_diamond_ore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
