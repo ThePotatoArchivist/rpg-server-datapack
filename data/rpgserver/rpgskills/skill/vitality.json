@@ -22,7 +22,7 @@
         },
         "4": {
             "jobs": [
-                "rpgserver:vitality/mining",
+                "rpgserver:vitality/mining_stone",
                 "rpgserver:vitality/mining_coal"
             ]
         },
@@ -120,7 +120,7 @@
                 "minecraft:generic.max_health": 1
             },
             "jobs": [
-                "rpgserver:vitality/mining_diamond"
+                "rpgserver:vitality/happy_hour"
             ]
         },
         "14": {
@@ -152,7 +152,10 @@
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:vitality/mining_diamond"
+            ]
         },
         "18": {
             "attributes": {

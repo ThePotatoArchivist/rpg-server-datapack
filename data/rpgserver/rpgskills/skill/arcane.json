@@ -4,7 +4,8 @@
     "levels": {
         "4": {
             "jobs": [
-                "rpgserver:arcane/fire_bending"
+                "rpgserver:arcane/fire_bending",
+                "rpgserver:arcane/dark_magic"
             ]
         },
         "14": {
