@@ -6,5 +6,12 @@
     "entries": [
       "minecraft:note_block"
     ]
+  },
+  "items": {
+    "entries": [
+      "create:windmill_bearing",
+      "create:white_sail",
+      "create:sail_frame"
+    ]
   }
 }

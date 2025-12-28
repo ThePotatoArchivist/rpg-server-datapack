@@ -4,7 +4,8 @@
   "description": "Swiftly slicing and shooting from afar. Rangers are skilled fighters that rely on their dexterity to overpower foes!",
   "starting_levels": {
     "rpgserver:vitality": 2,
-    "rpgserver:dexterity": 3,
-    "rpgserver:craft": 2
+    "rpgserver:dexterity": 4,
+    "rpgserver:craft": 1,
+    "rpgserver:affinity": 1
   }
 }

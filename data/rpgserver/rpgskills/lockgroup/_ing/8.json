@@ -5,7 +5,10 @@
   "items": {
     "entries": [
       "chipped:multimeter",
-      "minecraft:comparator"
+      "minecraft:comparator",
+      "create:gearshift",
+      "create:rope_pulley",
+      "create:mechanical_bearing"
     ]
   },
 

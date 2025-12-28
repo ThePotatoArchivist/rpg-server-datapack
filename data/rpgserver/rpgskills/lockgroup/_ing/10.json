@@ -8,7 +8,8 @@
       "minecraft:dropper",
       "minecraft:dispenser",
       "minecraft:sticky_piston",
-      "minecraft:crafter"
+      "minecraft:crafter",
+      "immersive_aircraft:quadrocopter"
     ]
   },
 
@@ -17,6 +18,11 @@
       "minecraft:dropper",
       "minecraft:dispenser",
       "minecraft:crafter"
+    ]
+  },
+  "entities": {
+    "entries": [
+      "immersive_aircraft:quadrocopter"
     ]
   }
 }

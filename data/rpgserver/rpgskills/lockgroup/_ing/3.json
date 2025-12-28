@@ -5,7 +5,10 @@
 
   "items": {
     "entries": [
-      "minecraft:redstone_torch"
+      "minecraft:redstone_torch",
+      "create:shaft",
+      "create:cogwheel",
+      "create:large_cogwheel"
     ]
   }
 }

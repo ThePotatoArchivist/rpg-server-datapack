@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 6,
+    "rpgserver:ingenuity": 10
+  },
+
+  "recipes": {
+    "entries": [
+      "immersive_aircraft:engine"
+    ]
+  }
+}

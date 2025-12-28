@@ -1,0 +1,22 @@
+{
+  "name": "Frost Magic",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "kill",
+      "description": "Kill mobs with frost magic",
+      "count": 30,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "killing_blow": {
+          "tags": [{
+            "expected": true,
+            "id": "rpgserver:frost"
+            
+          }]
+        }
+      }
+    }
+  ]
+}

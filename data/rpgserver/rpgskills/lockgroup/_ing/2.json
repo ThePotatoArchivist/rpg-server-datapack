@@ -4,7 +4,9 @@
   },
   "items": {
     "entries": [
-      "minecraft:redstone"
+      "minecraft:redstone",
+      "create:hand_crank",
+      "create:analog_lever"
     ]
   },
 

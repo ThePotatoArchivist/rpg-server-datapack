@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 17
+  },
+  "items": {
+    "entries": [
+      "immersive_aircraft:biplane"
+    ]
+  }
+}

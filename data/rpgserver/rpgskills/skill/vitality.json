@@ -48,7 +48,8 @@
                 }
             },
             "jobs": [
-                "rpgserver:vitality/mining_copper"
+                "rpgserver:vitality/mining_copper",
+                "rpgserver:vitality/mining_tin"
             ]
         },
         "7": {

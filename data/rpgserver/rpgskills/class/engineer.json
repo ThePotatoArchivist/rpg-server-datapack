@@ -1,0 +1,10 @@
+{
+  "name": "Engineer",
+  "icon": "astikorcartsredux:wheel",
+  "description": "Devising inventions in their mind. Engineers use their ingenuity to invent various useful contraptions!",
+  "starting_levels": {
+    "rpgserver:vitality": 1,
+    "rpgserver:craft": 4,
+    "rpgserver:ingenuity": 3
+  }
+}

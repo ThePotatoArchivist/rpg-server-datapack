@@ -5,6 +5,12 @@
         "4": {
             "jobs": [
                 "rpgserver:arcane/fire_bending",
+                "rpgserver:arcane/taste_test"
+            ]
+        },
+        "8": {
+            "jobs": [
+                "rpgserver:arcane/frost_magic",
                 "rpgserver:arcane/dark_magic"
             ]
         },

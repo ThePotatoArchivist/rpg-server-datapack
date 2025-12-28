@@ -6,7 +6,9 @@
     "entries": [
       "minecraft:daylight_detector",
       "minecraft:chiseled_bookshelf",
-      "minecraft:hopper"
+      "minecraft:hopper",
+      "create:water_wheel",
+      "create:large_water_wheel"
     ]
   },
 

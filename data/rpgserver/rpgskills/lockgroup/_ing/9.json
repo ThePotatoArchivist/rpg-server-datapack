@@ -1,0 +1,15 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 9
+  },
+  "items": {
+    "entries": [
+      "create:clipboard",
+      "create:mechanical_saw",
+      "create:belt_connector",
+      "create:andesite_funnel",
+      "create:andesite_tunnel",
+      "create:encased_chain_drive"
+    ]
+  }
+}

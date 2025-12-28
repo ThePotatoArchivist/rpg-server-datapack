@@ -5,6 +5,6 @@
   "starting_levels": {
     "rpgserver:vitality": 3,
     "rpgserver:strength": 3,
-    "rpgserver:dexterity": 1
+    "rpgserver:dexterity": 2
   }
 }

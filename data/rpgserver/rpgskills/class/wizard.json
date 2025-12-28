@@ -5,6 +5,7 @@
   "starting_levels": {
     "rpgserver:vitality": 2,
     "rpgserver:arcane": 4,
+    "rpgserver:craft": 1,
     "rpgserver:affinity": 1
   }
 }
