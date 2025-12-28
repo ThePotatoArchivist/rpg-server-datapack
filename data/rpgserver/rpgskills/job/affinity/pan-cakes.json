@@ -1,57 +1,62 @@
 {
-    "name": "PAN-CAKES",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "p": {
-            "description": "Make Sweet Potato Pancakes",
-            "count": 30,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": "veggiesdelight:sweet_potato_pancakes"
-                }
-            }
-        },
-        "e": {
-            "description": "Make Normal Pancakes",
-            "count": 1,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": "rusticdelight:pancakes"
-                }
-            }
-        },
-        "k": {
-            "description": "Make Pumpkin Pancakes",
-            "count": 1,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": "rusticdelight:pumpkin_pancakes"
-                }
-            }
-        },
-        "k_": {
-            "description": "Make Chocolate Pancakes",
-            "count": 1,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": "rusticdelight:chocolate_pancakes"
-                }
-            }
-        },
-        "a": {
-            "description": "Make Cherry Pancakes",
-            "count": 1,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": "rusticdelight:cherry_blossom_pancakes"
-                }
-            }
+  "name": "PAN-CAKES",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "p",
+      "description": "Make Sweet Potato Pancakes",
+      "count": 30,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "veggiesdelight:sweet_potato_pancakes"
         }
+      }
+    },
+    {
+      "id": "e",
+      "description": "Make Normal Pancakes",
+      "count": 1,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "rusticdelight:pancakes"
+        }
+      }
+    },
+    {
+      "id": "k",
+      "description": "Make Pumpkin Pancakes",
+      "count": 1,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "rusticdelight:pumpkin_pancakes"
+        }
+      }
+    },
+    {
+      "id": "k_",
+      "description": "Make Chocolate Pancakes",
+      "count": 1,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "rusticdelight:chocolate_pancakes"
+        }
+      }
+    },
+    {
+      "id": "a",
+      "description": "Make Cherry Pancakes",
+      "count": 1,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "rusticdelight:cherry_blossom_pancakes"
+        }
+      }
     }
+  ]
 }

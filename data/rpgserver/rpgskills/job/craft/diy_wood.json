@@ -1,17 +1,18 @@
 {
-    "name": "D.I.Y: Wood",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "diy": {
-            "description": "Craft Wooden Blocks",
-            "count": 500,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": "#rpgserver:wooden_decor"
-                }
-            }
+  "name": "D.I.Y: Wood",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "diy",
+      "description": "Craft Wooden Blocks",
+      "count": 500,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgserver:wooden_decor"
         }
+      }
     }
+  ]
 }

@@ -2,8 +2,9 @@
   "name": "Slay Beasts 2",
   "cooldown_ticks": 3600,
   "reward_points": 7,
-  "tasks": {
-    "ent": {
+  "tasks": [
+    {
+      "id": "ent",
       "description": "Slay a Cherry Tree Ent",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -13,7 +14,8 @@
         }
       }
     },
-    "yeti": {
+    {
+      "id": "yeti",
       "description": "Slay a Arid Yeti",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -23,7 +25,8 @@
         }
       }
     },
-    "stalker": {
+    {
+      "id": "stalker",
       "description": "Slay a Bogged Bone Stalker",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -33,5 +36,5 @@
         }
       }
     }
-  }
+  ]
 }

@@ -1,51 +1,52 @@
 {
-    "name": "Stone Age",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "stone_pick": {
-            "description": "Craft stone pickaxes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "minecraft:stone_pickaxe"
-            }
-        },
-
-        "stone_hoe": {
-            "description": "Craft stone hoes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "minecraft:stone_hoe"
-            }
-        },
-
-        "stone_axe": {
-            "description": "Craft stone axes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "minecraft:stone_axe"
-            }
-        },
-
-        "stone_sword": {
-            "description": "Craft stone swords",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "minecraft:stone_sword"
-            }
-        },
-
-        "stone_shovel": {
-            "description": "Craft stone shovels",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "minecraft:stone_shovel"
-            }
-        }
+  "name": "Stone Age",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "stone_pick",
+      "description": "Craft stone pickaxes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:stone_pickaxe"
+      }
+    },
+    {
+      "id": "stone_hoe",
+      "description": "Craft stone hoes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:stone_hoe"
+      }
+    },
+    {
+      "id": "stone_axe",
+      "description": "Craft stone axes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:stone_axe"
+      }
+    },
+    {
+      "id": "stone_sword",
+      "description": "Craft stone swords",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:stone_sword"
+      }
+    },
+    {
+      "id": "stone_shovel",
+      "description": "Craft stone shovels",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:stone_shovel"
+      }
     }
+  ]
 }

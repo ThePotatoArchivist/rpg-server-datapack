@@ -2,8 +2,9 @@
   "name": "Slay Magicals 1",
   "cooldown_ticks": 3600,
   "reward_points": 7,
-  "tasks": {
-    "pheonix": {
+  "tasks": [
+    {
+      "id": "pheonix",
       "description": "Slay a Witch Doctor",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -13,7 +14,8 @@
         }
       }
     },
-    "furnace": {
+    {
+      "id": "furnace",
       "description": "Slay a Piglin Executioner",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -23,5 +25,5 @@
         }
       }
     }
-  }
+  ]
 }

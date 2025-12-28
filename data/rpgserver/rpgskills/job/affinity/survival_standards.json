@@ -1,55 +1,59 @@
 {
-    "name": "Survival Standards",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "drink_water": {
-            "description": "Drink Water",
-            "count": 4,
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "items": [
-                        "thirst:terracotta_water_bowl"
-                    ]
-                }
-            }
-        },
-        "make_campfire": {
-            "description": "Make a Campfire",
-            "count": 1,
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "item": {
-                    "items": [
-                        "minecraft:campfire"
-                    ]
-                }
-            }
-        },
-        "make_clay_bowl": {
-            "description": "Make a Clay Bowl",
-            "count": 3,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": [
-                        "thirst:clay_bowl"
-                    ]
-                }
-            }
-        },
-        "cook_bowl": {
-            "description": "Make a Clay Bowl",
-            "count": 3,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": [
-                        "thirst:terracotta_water_bowl"
-                    ]
-                }
-            }
+  "name": "Survival Standards",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "drink_water",
+      "description": "Drink Water",
+      "count": 4,
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "thirst:terracotta_water_bowl"
+          ]
         }
+      }
+    },
+    {
+      "id": "make_campfire",
+      "description": "Make a Campfire",
+      "count": 1,
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:campfire"
+          ]
+        }
+      }
+    },
+    {
+      "id": "make_clay_bowl",
+      "description": "Make a Clay Bowl",
+      "count": 3,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "thirst:clay_bowl"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cook_bowl",
+      "description": "Make a Clay Bowl",
+      "count": 3,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "thirst:terracotta_water_bowl"
+          ]
+        }
+      }
     }
+  ]
 }

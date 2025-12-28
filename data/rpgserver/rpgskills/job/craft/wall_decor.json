@@ -1,17 +1,18 @@
 {
-    "name": "Wall decor",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "diy_decor": {
-            "description": "Craft decorative items",
-            "count": 10,
-            "trigger": "rpgskills:craft_item",
-            "conditions": {
-                "item": {
-                    "items": "#rpgserver:wooden_wall_decor"
-                }
-            }
+  "name": "Wall decor",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "diy_decor",
+      "description": "Craft decorative items",
+      "count": 10,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgserver:wooden_wall_decor"
         }
+      }
     }
+  ]
 }

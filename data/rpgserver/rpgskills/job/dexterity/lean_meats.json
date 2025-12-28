@@ -2,8 +2,9 @@
   "name": "Lean Diet 1",
   "cooldown_ticks": 3600,
   "reward_points": 7,
-  "tasks": {
-    "fish": {
+  "tasks": [
+    {
+      "id": "fish",
       "description": "Eat fish",
       "count": 7,
       "trigger": "minecraft:consume_item",
@@ -13,7 +14,8 @@
         }
       }
     },
-    "poultry": {
+    {
+      "id": "poultry",
       "description": "Eat poultry",
       "count": 7,
       "trigger": "minecraft:consume_item",
@@ -23,5 +25,5 @@
         }
       }
     }
-  }
+  ]
 }

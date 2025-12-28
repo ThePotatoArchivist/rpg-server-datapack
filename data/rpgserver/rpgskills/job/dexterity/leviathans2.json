@@ -2,8 +2,9 @@
   "name": "Slay Leviathans 2",
   "cooldown_ticks": 3600,
   "reward_points": 7,
-  "tasks": {
-    "hermit": {
+  "tasks": [
+    {
+      "id": "hermit",
       "description": "Slay a Golden Hermit King",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -13,7 +14,8 @@
         }
       }
     },
-    "viper": {
+    {
+      "id": "viper",
       "description": "Slay a Coral Sea Viper",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -23,7 +25,8 @@
         }
       }
     },
-    "gator": {
+    {
+      "id": "gator",
       "description": "Slay a Frigid Gator",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -33,5 +36,5 @@
         }
       }
     }
-  }
+  ]
 }

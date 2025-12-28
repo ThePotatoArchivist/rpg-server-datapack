@@ -1,79 +1,88 @@
 {
-    "name": "Diamond Age",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "diamond_pick": {
-            "description": "Craft Diamond Pickaxes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_pickaxe"
-            }
-        },
-        "diamond_hoe": {
-            "description": "Craft Diamond Hoes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_hoe"
-            }
-        },
-        "diamond_axe": {
-            "description": "Craft Diamond Axes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_axe"
-            }
-        },
-        "diamond_sword": {
-            "description": "Craft Diamond Swords",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_sword"
-            }
-        },
-        "diamond_shovel": {
-            "description": "Craft Diamond Shovels",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_shovel"
-            }
-        },
-        "diamond_head": {
-            "description": "Craft Diamond Helmet",
-            "count": 1,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_helmet"
-            }
-        },
-        "diamond_chest": {
-            "description": "Craft Diamond Chestplate",
-            "count": 1,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_chestplate"
-            }
-        },
-        "diamond_legs": {
-            "description": "Craft Diamond Leggings",
-            "count": 1,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_leggings"
-            }
-        },
-        "diamond_feet": {
-            "description": "Craft Diamond Boots",
-            "count": 1,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:diamond_boots"
-            }
-        }
+  "name": "Diamond Age",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "diamond_pick",
+      "description": "Craft Diamond Pickaxes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_pickaxe"
+      }
+    },
+    {
+      "id": "diamond_hoe",
+      "description": "Craft Diamond Hoes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_hoe"
+      }
+    },
+    {
+      "id": "diamond_axe",
+      "description": "Craft Diamond Axes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_axe"
+      }
+    },
+    {
+      "id": "diamond_sword",
+      "description": "Craft Diamond Swords",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_sword"
+      }
+    },
+    {
+      "id": "diamond_shovel",
+      "description": "Craft Diamond Shovels",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_shovel"
+      }
+    },
+    {
+      "id": "diamond_head",
+      "description": "Craft Diamond Helmet",
+      "count": 1,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_helmet"
+      }
+    },
+    {
+      "id": "diamond_chest",
+      "description": "Craft Diamond Chestplate",
+      "count": 1,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_chestplate"
+      }
+    },
+    {
+      "id": "diamond_legs",
+      "description": "Craft Diamond Leggings",
+      "count": 1,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_leggings"
+      }
+    },
+    {
+      "id": "diamond_feet",
+      "description": "Craft Diamond Boots",
+      "count": 1,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:diamond_boots"
+      }
     }
+  ]
 }

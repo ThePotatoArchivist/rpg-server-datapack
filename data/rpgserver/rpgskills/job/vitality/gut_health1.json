@@ -2,8 +2,9 @@
   "name": "Gut health 1",
   "cooldown_ticks": 3600,
   "reward_points": 7,
-  "tasks": {
-    "vegetable": {
+  "tasks": [
+    {
+      "id": "vegetable",
       "description": "Eat vegetables",
       "count": 5,
       "trigger": "minecraft:consume_item",
@@ -13,7 +14,8 @@
         }
       }
     },
-    "lean_meat": {
+    {
+      "id": "lean_meat",
       "description": "Eat poultry or fish",
       "count": 3,
       "trigger": "minecraft:consume_item",
@@ -23,7 +25,8 @@
         }
       }
     },
-    "drink": {
+    {
+      "id": "drink",
       "description": "Drink water",
       "count": 4,
       "trigger": "minecraft:consume_item",
@@ -35,5 +38,5 @@
         }
       }
     }
-  }
+  ]
 }

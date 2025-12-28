@@ -2,8 +2,9 @@
   "name": "Slay Leviathans 1",
   "cooldown_ticks": 3600,
   "reward_points": 7,
-  "tasks": {
-    "megaladon": {
+  "tasks": [
+    {
+      "id": "megaladon",
       "description": "Slay a Megalodon",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -13,7 +14,8 @@
         }
       }
     },
-    "viper": {
+    {
+      "id": "viper",
       "description": "Slay a Sea Viper",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -23,7 +25,8 @@
         }
       }
     },
-    "gator": {
+    {
+      "id": "gator",
       "description": "Slay a Vile Gator",
       "count": 1,
       "trigger": "minecraft:player_killed_entity",
@@ -33,5 +36,5 @@
         }
       }
     }
-  }
+  ]
 }

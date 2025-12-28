@@ -1,23 +1,24 @@
 {
-    "name": "Onion Farming",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "stone": {
-            "description": "Harvest Onions",
-            "count": 250,
-            "trigger": "rpgskills:break_block",
-            "conditions": {
-                "location": [
-                    {
-                        "condition": "minecraft:block_state_property",
-                        "block": "farmersdelight:onions",
-                        "properties": {
-                            "age": "7"
-                        }
-                    }
-                ]
+  "name": "Onion Farming",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "stone",
+      "description": "Harvest Onions",
+      "count": 250,
+      "trigger": "rpgskills:break_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "farmersdelight:onions",
+            "properties": {
+              "age": "7"
             }
-        }
+          }
+        ]
+      }
     }
+  ]
 }

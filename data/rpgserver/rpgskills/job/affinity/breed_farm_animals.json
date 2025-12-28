@@ -1,38 +1,39 @@
 {
-    "name": "Breed Farm Animals",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "bred": {
-            "description": "Breed animalss",
-            "count": 1,
-            "trigger": "minecraft:bred_animals",
-            "conditions": {
-                "parent": {
-                    "type": [
-                        "minecraft:sheep",
-                        "minecraft:pig",
-                        "minecraft:cow",
-                        "minecraft:chicken"
-                    ]
-                },
-                "partner": {
-                    "type": [
-                        "minecraft:sheep",
-                        "minecraft:pig",
-                        "minecraft:cow",
-                        "minecraft:chicken"
-                    ]
-                },
-                "child": {
-                    "type": [
-                        "minecraft:sheep",
-                        "minecraft:pig",
-                        "minecraft:cow",
-                        "minecraft:chicken"
-                    ]
-                }
-            }
+  "name": "Breed Farm Animals",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "bred",
+      "description": "Breed animalss",
+      "count": 1,
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": [
+            "minecraft:sheep",
+            "minecraft:pig",
+            "minecraft:cow",
+            "minecraft:chicken"
+          ]
+        },
+        "partner": {
+          "type": [
+            "minecraft:sheep",
+            "minecraft:pig",
+            "minecraft:cow",
+            "minecraft:chicken"
+          ]
+        },
+        "child": {
+          "type": [
+            "minecraft:sheep",
+            "minecraft:pig",
+            "minecraft:cow",
+            "minecraft:chicken"
+          ]
         }
+      }
     }
+  ]
 }

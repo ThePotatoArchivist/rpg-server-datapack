@@ -3,8 +3,9 @@
     "description": "Have a hearty meal",
     "cooldown_ticks": 3600 300,
     "reward_points": 7,
-    "tasks": {
-        "": {
+    "tasks": [
+        {
+            "id": "",
             "description": "Place blocks",
             "count": 3,
             "trigger": "minecraft:recipe_crafted",
@@ -12,5 +13,5 @@
                 "recipe_id": "chipped:oak_diamond_bordered_glass"
             }
         }
-    }
+    ]
 }

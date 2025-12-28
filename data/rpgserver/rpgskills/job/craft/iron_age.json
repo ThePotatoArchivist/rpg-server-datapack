@@ -1,79 +1,88 @@
 {
-    "name": "Iron Age",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "iron_pick": {
-            "description": "Craft Iron Pickaxes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_pickaxe"
-            }
-        },
-        "iron_hoe": {
-            "description": "Craft Iron Hoes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_hoe"
-            }
-        },
-        "iron_axe": {
-            "description": "Craft Iron Axes",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_axe"
-            }
-        },
-        "iron_sword": {
-            "description": "Craft Iron Swords",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_sword"
-            }
-        },
-        "iron_shovel": {
-            "description": "Craft Iron Shovels",
-            "count": 3,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_shovel"
-            }
-        },
-        "iron_head": {
-            "description": "Craft Iron Helmet",
-            "count": 1,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_helmet"
-            }
-        },
-        "iron_chest": {
-            "description": "Craft Iron Chestplate",
-            "count": 1,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_chestplate"
-            }
-        },
-        "iron_legs": {
-            "description": "Craft Iron Leggings",
-            "count": 1,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_leggings"
-            }
-        },
-        "iron_feet": {
-            "description": "Craft Iron Boots",
-            "count": 1,
-            "trigger": "minecraft:recipe_crafted",
-            "conditions": {
-                "recipe_id": "downtoearth:iron_boots"
-            }
-        }
+  "name": "Iron Age",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "iron_pick",
+      "description": "Craft Iron Pickaxes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_pickaxe"
+      }
+    },
+    {
+      "id": "iron_hoe",
+      "description": "Craft Iron Hoes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_hoe"
+      }
+    },
+    {
+      "id": "iron_axe",
+      "description": "Craft Iron Axes",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_axe"
+      }
+    },
+    {
+      "id": "iron_sword",
+      "description": "Craft Iron Swords",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_sword"
+      }
+    },
+    {
+      "id": "iron_shovel",
+      "description": "Craft Iron Shovels",
+      "count": 3,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_shovel"
+      }
+    },
+    {
+      "id": "iron_head",
+      "description": "Craft Iron Helmet",
+      "count": 1,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_helmet"
+      }
+    },
+    {
+      "id": "iron_chest",
+      "description": "Craft Iron Chestplate",
+      "count": 1,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_chestplate"
+      }
+    },
+    {
+      "id": "iron_legs",
+      "description": "Craft Iron Leggings",
+      "count": 1,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_leggings"
+      }
+    },
+    {
+      "id": "iron_feet",
+      "description": "Craft Iron Boots",
+      "count": 1,
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "downtoearth:iron_boots"
+      }
     }
+  ]
 }

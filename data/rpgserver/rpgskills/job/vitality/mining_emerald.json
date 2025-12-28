@@ -1,29 +1,30 @@
 {
-    "name": "Mining Emerald",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
-    "tasks": {
-        "stone": {
-            "description": "Mine Emerald",
-            "count": 50,
-            "trigger": "rpgskills:break_block",
-            "conditions": {
-                "location": [
-                    {
-                        "condition": "minecraft:any_of",
-                        "terms": [
-                            {
-                                "condition": "minecraft:block_state_property",
-                                "block": "minecraft:emerald_ore"
-                            },
-                            {
-                                "condition": "minecraft:block_state_property",
-                                "block": "minecraft:deepslate_emerald_ore"
-                            }
-                        ]
-                    }
-                ]
-            }
-        }
+  "name": "Mining Emerald",
+  "cooldown_ticks": 3600,
+  "reward_points": 7,
+  "tasks": [
+    {
+      "id": "stone",
+      "description": "Mine Emerald",
+      "count": 50,
+      "trigger": "rpgskills:break_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:any_of",
+            "terms": [
+              {
+                "condition": "minecraft:block_state_property",
+                "block": "minecraft:emerald_ore"
+              },
+              {
+                "condition": "minecraft:block_state_property",
+                "block": "minecraft:deepslate_emerald_ore"
+              }
+            ]
+          }
+        ]
+      }
     }
+  ]
 }
