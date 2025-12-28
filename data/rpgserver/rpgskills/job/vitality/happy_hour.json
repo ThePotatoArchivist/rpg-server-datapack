@@ -5,13 +5,43 @@
   "tasks": [
     {
       "id": "tipsy",
-      "description": "Drink milk",
-      "count": 5,
+      "description": "Down a Beer or Vodka",
+      "count": 2,
       "trigger": "minecraft:consume_item",
       "conditions": {
         "item": {
           "items": [
-            "minecraft:milk_bucket"
+            "brewinandchewin:beer",
+            "brewinandchewin:vodka"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rice",
+      "description": "Down some Rice Wine or Pale Jane",
+      "count": 2,
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "brewinandchewin:rice_wine",
+            "brewinandchewin:pale_jane"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": "rice",
+      "description": "Down an Egg Grog or Glittering Grenadine",
+      "count": 2,
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "brewinandchewin:egg_grog",
+            "brewinandchewin:glittering_grenadine"
           ]
         }
       }

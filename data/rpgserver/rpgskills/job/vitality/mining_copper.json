@@ -1,30 +1,30 @@
 {
-  "name": "Mining Copper",
-  "cooldown_ticks": 3600,
-  "reward_points": 7,
-  "tasks": [
-    {
-      "id": "tin",
-      "description": "Mine Copper",
-      "count": 50,
-      "trigger": "rpgskills:break_block",
-      "conditions": {
-        "location": [
-          {
-            "condition": "minecraft:any_of",
-            "terms": [
-              {
-                "condition": "minecraft:block_state_property",
-                "block": "minecraft:copper_ore"
-              },
-              {
-                "condition": "minecraft:block_state_property",
-                "block": "minecraft:deepslate_copper_ore"
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+    "name": "Mining Copper",
+    "cooldown_ticks": 3600,
+    "reward_points": 7,
+    "tasks": [
+        {
+            "id": "tin",
+            "description": "Mine Copper",
+            "count": 50,
+            "trigger": "rpgskills:break_block",
+            "conditions": {
+                "location": [
+                    {
+                        "condition": "minecraft:any_of",
+                        "terms": [
+                            {
+                                "condition": "minecraft:block_state_property",
+                                "block": "minecraft:copper_ore"
+                            },
+                            {
+                                "condition": "minecraft:block_state_property",
+                                "block": "minecraft:deepslate_copper_ore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
 }
