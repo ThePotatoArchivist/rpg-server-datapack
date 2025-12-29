@@ -9,7 +9,7 @@
       "count": 3,
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "minecraft:stone_pickaxe"
+        "recipe_id": "downtoearth:stone_pickaxe"
       }
     },
     {
@@ -18,7 +18,7 @@
       "count": 3,
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "minecraft:stone_hoe"
+        "recipe_id": "downtoearth:stone_hoe"
       }
     },
     {
@@ -27,7 +27,7 @@
       "count": 3,
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "minecraft:stone_axe"
+        "recipe_id": "downtoearth:stone_axe"
       }
     },
     {
@@ -36,7 +36,7 @@
       "count": 3,
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "minecraft:stone_sword"
+        "recipe_id": "downtoearth:stone_sword"
       }
     },
     {
@@ -45,7 +45,7 @@
       "count": 3,
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "minecraft:stone_shovel"
+        "recipe_id": "downtoearth:stone_shovel"
       }
     }
   ]
