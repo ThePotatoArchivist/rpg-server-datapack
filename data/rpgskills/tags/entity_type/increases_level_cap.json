@@ -1,6 +1,7 @@
 {
   "values": [
-    "minecraft:silverfish"
+    "cataclysm:netherite_monstrosity",
+    "cataclysm:netherite_monstrosity"
   ],
 
   "replace": true

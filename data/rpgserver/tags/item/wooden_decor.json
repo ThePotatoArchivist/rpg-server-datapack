@@ -2,6 +2,10 @@
   "values": [
     "#minecraft:hanging_signs",
     "#minecraft:signs",
-    "minecraft:painting"
+    "#minecraft:doors",
+    "#minecraft:trapdoors",
+    "#minecraft:wooden_slabs",
+    "#minecraft:wooden_fences",
+    "#minecraft:fence_gates"
   ]
 }

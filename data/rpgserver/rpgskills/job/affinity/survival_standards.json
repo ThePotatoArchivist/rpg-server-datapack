@@ -44,13 +44,13 @@
     },
     {
       "id": "cook_bowl",
-      "description": "Make a Clay Bowl",
+      "description": "Cook a Clay Bowl in a Furnace",
       "count": 3,
       "trigger": "rpgskills:craft_item",
       "conditions": {
         "item": {
           "items": [
-            "thirst:terracotta_water_bowl"
+            "thirst:terracotta_bowl"
           ]
         }
       }

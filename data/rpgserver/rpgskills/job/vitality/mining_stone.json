@@ -7,7 +7,7 @@
       "id": "stone",
       "description": "Mine stone",
       "count": 50,
-      "trigger": "minecraft:placed_block",
+      "trigger": "rpgskills:break_block",
       "conditions": {
         "location": [
           {
