@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 15,
+    "rpgserver:ingenuity": 25
+  },
+
+  "recipes": {
+    "entries": [
+      "create:mechanical_crafter"
+    ]
+  }
+}

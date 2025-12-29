@@ -1,12 +1,12 @@
 {
     "name": "Mining Tin",
-    "cooldown_ticks": 3600,
-    "reward_points": 7,
+    "cooldown_ticks": 1200,
+    "reward_points": 8,
     "tasks": [
         {
             "id": "tin",
             "description": "Mine Tin",
-            "count": 50,
+            "count": 30,
             "trigger": "rpgskills:break_block",
             "conditions": {
                 "location": [

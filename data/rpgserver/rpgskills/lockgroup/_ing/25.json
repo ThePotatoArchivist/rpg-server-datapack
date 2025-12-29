@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 25
+  },
+  "items": {
+    "entries": [
+      "create:mechanical_crafter"
+    ]
+  },
+
+  "blocks": {
+    "entries": [
+      "create:mechanical_crafter"
+    ]
+  }
+}

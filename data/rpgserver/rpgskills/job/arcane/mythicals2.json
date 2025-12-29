@@ -1,7 +1,7 @@
 {
   "name": "Slay Mythicals 2",
   "cooldown_ticks": 3600,
-  "reward_points": 7,
+  "reward_points": 30,
   "tasks": [
     {
       "id": "pheonix",

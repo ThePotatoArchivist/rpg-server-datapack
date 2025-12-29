@@ -2,6 +2,17 @@
   "requirements": {
     "rpgserver:ingenuity": 7
   },
+  "blocks": {
+    "entries": [
+      "create:secondary_linear_chassis",
+      "create:linear_chassis",
+      "create:radial_chassis",
+      "create:andesite_casing",
+      "create:andesite_table_cloth",
+      "create:turntable",
+      "create:encased_chain_drive"
+    ]
+  },
   "items": {
     "entries": [
       "minecraft:hopper_minecart",
@@ -12,10 +23,11 @@
       "create:linear_chassis",
       "create:radial_chassis",
       "create:andesite_casing",
-      "create:andesite_table_cloth"
+      "create:andesite_table_cloth",
+      "create:turntable",
+      "create:encased_chain_drive"
     ]
   },
-  
   "entities": {
     "entries": [
       "minecraft:hopper_minecart",

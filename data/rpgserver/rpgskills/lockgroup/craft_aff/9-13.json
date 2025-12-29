@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:craft": 9,
+    "rpgserver:affinity": 13
+  },
+  "recipes": {
+    "entries": [
+      "#smallships:cogs"
+    ]
+  }
+}

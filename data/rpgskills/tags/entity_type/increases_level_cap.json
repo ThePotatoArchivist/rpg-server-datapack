@@ -9,7 +9,8 @@
     "cataclysm:netherite_monstrosity",
     "cataclysm:scylla",
     "fdbosses:chesed",
-    "fdbosses:malkuth"
+    "fdbosses:malkuth",
+    "fdbosses:geburah"
   ],
 
   "replace": true

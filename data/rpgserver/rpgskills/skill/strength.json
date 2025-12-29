@@ -34,7 +34,8 @@
                 }
             },
             "jobs": [
-                "rpgserver:strength/bravery1"
+                "rpgserver:strength/bravery1",
+                "rpgserver:strength/big_boned1"
             ]
         },
         "5": {
@@ -89,10 +90,7 @@
                     "amount": 0.01,
                     "operation": "add_multiplied_base"
                 }
-            },
-            "jobs": [
-                "rpgserver:strength/big_boned1"
-            ]
+            }
         },
         "9": {
             "attributes": {

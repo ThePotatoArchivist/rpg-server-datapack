@@ -1,0 +1,18 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 13
+  },
+  "blocks": {
+    "entries": [
+      "cold_sweat:boiler",
+      "cold_sweat:icebox"
+    ]
+  },
+
+  "items": {
+    "entries": [
+      "cold_sweat:boiler",
+      "cold_sweat:icebox"
+    ]
+  }
+}

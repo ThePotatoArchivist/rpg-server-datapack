@@ -3,6 +3,10 @@
     {
       "rpgserver:vitality": 2,
       "rpgserver:strength": 3
+    },
+    {
+      "rpgserver:vitality": 2,
+      "rpgserver:dexterity": 3
     }
   ],
   "items": {

@@ -24,7 +24,11 @@
                     "amount": 0.1,
                     "operation": "add_value"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:affinity/farming_carrot",
+                "rpgserver:affinity/farming_potato"
+            ]
         },
         "6": {
             "attributes": {
@@ -43,7 +47,11 @@
                     "amount": 0.1,
                     "operation": "add_value"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:affinity/farming_beetroot",
+                "rpgserver:affinity/farming_onions"
+            ]
         },
         "8": {
             "attributes": {
@@ -51,11 +59,7 @@
                     "amount": 0.1,
                     "operation": "add_value"
                 }
-            },
-            "jobs": [
-                "rpgserver:affinity/farming_carrot",
-                "rpgserver:affinity/farming_potato"
-            ]
+            }
         },
         "9": {
             "attributes": {
@@ -75,11 +79,7 @@
                     "amount": 0.15,
                     "operation": "add_multiplied_base"
                 }
-            },
-            "jobs": [
-                "rpgserver:affinity/farming_beetroot",
-                "rpgserver:affinity/farming_onions"
-            ]
+            }
         },
         "15": {
             "attributes": {

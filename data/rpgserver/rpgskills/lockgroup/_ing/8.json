@@ -8,13 +8,21 @@
       "minecraft:comparator",
       "create:gearshift",
       "create:rope_pulley",
-      "create:mechanical_bearing"
+      "create:mechanical_bearing",
+      "create:belt_connector",
+      "create:andesite_funnel",
+      "create:andesite_tunnel"
     ]
   },
 
   "blocks": {
     "entries": [
-      "minecraft:comparator"
+      "minecraft:comparator",
+      "create:gearshift",
+      "create:rope_pulley",
+      "create:mechanical_bearing",
+      "create:andesite_funnel",
+      "create:andesite_tunnel"
     ]
   }
 }

@@ -1,13 +1,13 @@
 {
   "requirements": {
-    "rpgserver:craft": 10,
+    "rpgserver:craft": 5,
     "rpgserver:affinity": 13
   },
 
   "recipes": {
     "entries": [      
-      "cold_sweat:hearth",
-      "#smallships:briggs"
+      "cold_sweat:icebox",
+      "cold_sweat:boiler"
     ]
   }
 }

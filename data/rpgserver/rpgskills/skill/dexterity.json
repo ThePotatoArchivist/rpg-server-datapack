@@ -39,7 +39,10 @@
                     "amount": 0.0086,
                     "operation": "add_multiplied_base"
                 }
-            }
+            },
+            "jobs": [
+                "rpgserver:dexterity/lean_meats"
+            ]
         },
         "5": {
             "attributes": {

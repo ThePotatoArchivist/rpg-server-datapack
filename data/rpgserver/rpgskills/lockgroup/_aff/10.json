@@ -5,7 +5,8 @@
   "blocks": {
     "entries": [
       "minecraft:beehive",
-      "brewinandchewin:keg"
+      "brewinandchewin:keg",
+      "cold_sweat:boiler"
     ]
   },
 
