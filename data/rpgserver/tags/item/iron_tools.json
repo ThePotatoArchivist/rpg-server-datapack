@@ -1,0 +1,27 @@
+{
+  "values": [
+    "moredelight:iron_knife",
+    "minecraft:iron_sword",
+    "minecraft:iron_axe",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_hoe",
+    "minecraft:iron_shovel",
+    "paladins:iron_great_hammer",
+    "paladins:iron_claymore",
+    "paladins:iron_mace",
+    "paladins:iron_kite_shield",
+    "rogues:iron_dagger",
+    "rogues:iron_sickle",
+    "rogues:iron_double_axe",
+    "rogues:iron_glaive",
+    "downtoearth:iron_smithing_hammer",
+    "downtoearth:iron_sword",
+    "downtoearth:iron_axe",
+    "archers:iron_spear",
+    "downtoearth:iron_pickaxe",
+    "downtoearth:iron_hoe",
+    "downtoearth:iron_shovel",
+    "farmersdelight:iron_knife",
+    "dungeons_delight:iron_cleaver"
+  ]
+}

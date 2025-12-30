@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:netherite_helmet",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_leggings",
+    "minecraft:netherite_boots",
+    "rogues:berserk_armor_head",
+    "rogues:berserk_armor_chest",
+    "rogues:berserk_armor_legs",
+    "rogues:berserk_armor_feet"
+  ]
+}

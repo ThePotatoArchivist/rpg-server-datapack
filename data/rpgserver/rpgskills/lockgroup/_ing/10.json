@@ -8,7 +8,6 @@
       "minecraft:dropper",
       "minecraft:dispenser",
       "minecraft:sticky_piston",
-      "minecraft:crafter",
       "immersive_aircraft:quadrocopter",
       "create:wrench",
       "create:goggles",
@@ -21,7 +20,6 @@
     "entries": [
       "minecraft:dropper",
       "minecraft:dispenser",
-      "minecraft:crafter",
       "create:millstone",
       "thirst:sand_filter"
     ]

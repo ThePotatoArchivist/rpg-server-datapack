@@ -1,87 +1,28 @@
 {
   "name": "Netherite Age",
   "cooldown_ticks": 3600,
-  "reward_points": 7,
+  "reward_points": 21,
   "tasks": [
     {
-      "id": "netherite_pick",
-      "description": "Craft Netherite Pickaxes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
+      "id": "tools",
+      "description": "Craft Netherite Tools",
+      "count": 6,
+      "trigger": "rpgskills:craft_item",
       "conditions": {
-        "recipe_id": "downtoearth:netherite_pickaxe"
+        "item": {
+          "items": "#rpgserver:netherite_tools"
+        }
       }
     },
     {
-      "id": "netherite_hoe",
-      "description": "Craft Netherite Hoes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
+      "id": "armor",
+      "description": "Craft Netherite Armor",
+      "count": 2,
+      "trigger": "rpgskills:craft_item",
       "conditions": {
-        "recipe_id": "downtoearth:netherite_hoe"
-      }
-    },
-    {
-      "id": "netherite_axe",
-      "description": "Craft Netherite Axes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:netherite_axe"
-      }
-    },
-    {
-      "id": "netherite_sword",
-      "description": "Craft Netherite Swords",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:netherite_sword"
-      }
-    },
-    {
-      "id": "netherite_shovel",
-      "description": "Craft Netherite Shovels",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:netherite_shovel"
-      }
-    },
-    {
-      "id": "netherite_head",
-      "description": "Craft Netherite Helmet",
-      "count": 1,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:netherite_helmet"
-      }
-    },
-    {
-      "id": "netherite_chest",
-      "description": "Craft Netherite Chestplate",
-      "count": 1,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:netherite_chestplate"
-      }
-    },
-    {
-      "id": "netherite_legs",
-      "description": "Craft Netherite Leggings",
-      "count": 1,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:netherite_leggings"
-      }
-    },
-    {
-      "id": "netherite_feet",
-      "description": "Craft Netherite Boots",
-      "count": 1,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:netherite_boots"
+        "item": {
+          "items": "#rpgserver:netherite_armor"
+        }
       }
     }
   ]

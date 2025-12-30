@@ -1,7 +1,7 @@
 {
   "name": "Mining Coal",
   "cooldown_ticks": 1200,
-  "reward_points": 8,
+  "reward_points": 10,
   "tasks": [
     {
       "id": "stone",

@@ -8,7 +8,8 @@
       "create:stock_ticker",
       "create:redstone_requester",
       "create:factory_gauge",
-      "create_mobile_packages:portable_stock_ticker"
+      "create_mobile_packages:portable_stock_ticker",
+      "minecraft:crafter"
     ]
   },
   "blocks": {
@@ -16,6 +17,8 @@
       "create:stock_link",
       "create:stock_ticker",
       "create:redstone_requester",
-      "create:factory_gauge"    ]
+      "create:factory_gauge",
+      "minecraft:crafter"
+    ]
   }
 }

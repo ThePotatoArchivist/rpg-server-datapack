@@ -4,48 +4,14 @@
   "reward_points": 8,
   "tasks": [
     {
-      "id": "stone_pick",
-      "description": "Craft stone pickaxes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
+      "id": "tools",
+      "description": "Craft Stone Tools",
+      "count": 6,
+      "trigger": "rpgskills:craft_item",
       "conditions": {
-        "recipe_id": "downtoearth:stone_pickaxe"
-      }
-    },
-    {
-      "id": "stone_hoe",
-      "description": "Craft stone hoes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:stone_hoe"
-      }
-    },
-    {
-      "id": "stone_axe",
-      "description": "Craft stone axes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:stone_axe"
-      }
-    },
-    {
-      "id": "stone_sword",
-      "description": "Craft stone swords",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:stone_sword"
-      }
-    },
-    {
-      "id": "stone_shovel",
-      "description": "Craft stone shovels",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:stone_shovel"
+        "item": {
+          "items": "#rpgserver:stone_tools"
+        }
       }
     }
   ]

@@ -5,8 +5,8 @@
   "tasks": [
     {
       "id": "diy",
-      "description": "Craft Wooden Blocks with Planks",
-      "count": 100,
+      "description": "Craft Decor Blocks with Planks",
+      "count": 150,
       "trigger": "rpgskills:craft_item",
       "conditions": {
         "item": {

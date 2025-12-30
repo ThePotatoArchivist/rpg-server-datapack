@@ -1,0 +1,27 @@
+{
+  "values": [
+    "moredelight:golden_knife",
+    "minecraft:golden_sword",
+    "minecraft:golden_axe",
+    "minecraft:golden_pickaxe",
+    "minecraft:golden_hoe",
+    "minecraft:golden_shovel",
+    "paladins:golden_great_hammer",
+    "paladins:golden_claymore",
+    "paladins:golden_mace",
+    "paladins:golden_kite_shield",
+    "rogues:golden_dagger",
+    "rogues:golden_sickle",
+    "rogues:golden_double_axe",
+    "rogues:golden_glaive",
+    "downtoearth:golden_smithing_hammer",
+    "downtoearth:golden_sword",
+    "downtoearth:golden_axe",
+    "archers:golden_spear",
+    "downtoearth:golden_pickaxe",
+    "downtoearth:golden_hoe",
+    "downtoearth:golden_shovel",
+    "farmersdelight:golden_knife",
+    "dungeons_delight:golden_cleaver"
+  ]
+}

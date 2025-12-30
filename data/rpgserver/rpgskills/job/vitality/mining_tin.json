@@ -1,7 +1,7 @@
 {
     "name": "Mining Tin",
     "cooldown_ticks": 1200,
-    "reward_points": 8,
+    "reward_points": 15,
     "tasks": [
         {
             "id": "tin",

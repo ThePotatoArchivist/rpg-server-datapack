@@ -1,7 +1,7 @@
 {
   "name": "Mining Emerald",
   "cooldown_ticks": 3600,
-  "reward_points": 20,
+  "reward_points": 30,
   "tasks": [
     {
       "id": "stone",

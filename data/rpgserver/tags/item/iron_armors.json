@@ -1,0 +1,32 @@
+{
+  "values": [
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "paladins:paladin_armor_head",
+    "paladins:paladin_armor_chest",
+    "paladins:paladin_armor_legs",
+    "paladins:paladin_armor_feet",
+    "paladins:crusader_armor_head",
+    "paladins:crusader_armor_chest",
+    "paladins:crusader_armor_legs",
+    "paladins:crusader_armor_feet",
+    "paladins:priest_armor_head",
+    "paladins:priest_armor_chest",
+    "paladins:priest_armor_legs",
+    "paladins:priest_armor_feet",
+    "rogues:warrior_armor_head",
+    "rogues:warrior_armor_chest",
+    "rogues:warrior_armor_legs",
+    "rogues:warrior_armor_feet",
+    "rogues:berserk_armor_head",
+    "rogues:berserk_armor_chest",
+    "rogues:berserk_armor_legs",
+    "rogues:berserk_armor_feet",
+    "archers:archer_armor_head",
+    "archers:archer_armor_chest",
+    "archers:archer_armor_legs",
+    "archers:archer_armor_feet"
+  ]
+}

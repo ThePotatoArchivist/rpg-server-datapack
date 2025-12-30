@@ -14,13 +14,16 @@
         },
         "3": {
             "attributes": {
-                "minecraft:generic.max_health": 1
+                "minecraft:generic.max_health": 2
             },
             "jobs": [
                 "rpgserver:vitality/gut_health1"
             ]
         },
         "4": {
+            "attributes": {
+                "minecraft:generic.max_health": 1
+            },
             "jobs": [
                 "rpgserver:vitality/mining_stone",
                 "rpgserver:vitality/mining_coal"
@@ -28,11 +31,7 @@
         },
         "5": {
             "attributes": {
-                "minecraft:generic.max_health": 1,
-                "minecraft:generic.armor": {
-                    "amount": 1,
-                    "operation": "add_value"
-                },
+                "minecraft:generic.max_health": 3,
                 "minecraft:player.submerged_mining_speed": {
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
@@ -54,7 +53,7 @@
         },
         "7": {
             "attributes": {
-                "minecraft:generic.max_health": 1,
+                "minecraft:generic.max_health": 2,
                 "minecraft:player.submerged_mining_speed": {
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
@@ -85,10 +84,6 @@
         "10": {
             "attributes": {
                 "minecraft:generic.max_health": 1,
-                "minecraft:generic.armor": {
-                    "amount": 1,
-                    "operation": "add_value"
-                },
                 "minecraft:player.submerged_mining_speed": {
                     "amount": 0.1,
                     "operation": "add_multiplied_base"
@@ -100,7 +95,10 @@
         },
         "11": {
             "attributes": {
-                "minecraft:generic.max_health": 1,
+                "minecraft:generic.armor": {
+                    "amount": 1,
+                    "operation": "add_value"
+                },
                 "minecraft:player.submerged_mining_speed": {
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
@@ -109,7 +107,10 @@
         },
         "12": {
             "attributes": {
-                "minecraft:generic.max_health": 1,
+                "minecraft:generic.armor": {
+                    "amount": 1,
+                    "operation": "add_value"
+                },
                 "minecraft:player.submerged_mining_speed": {
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
@@ -118,7 +119,10 @@
         },
         "13": {
             "attributes": {
-                "minecraft:generic.max_health": 1
+                "minecraft:generic.armor": {
+                    "amount": 1,
+                    "operation": "add_value"
+                }
             },
             "jobs": [
                 "rpgserver:vitality/happy_hour"

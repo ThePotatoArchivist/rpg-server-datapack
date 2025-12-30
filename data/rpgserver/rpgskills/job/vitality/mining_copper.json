@@ -1,7 +1,7 @@
 {
     "name": "Mining Copper",
     "cooldown_ticks": 1200,
-    "reward_points": 8,
+    "reward_points": 12,
     "tasks": [
         {
             "id": "tin",

@@ -1,87 +1,28 @@
 {
   "name": "Bronze Age",
   "cooldown_ticks": 3600,
-  "reward_points": 12,
+  "reward_points": 16,
   "tasks": [
     {
-      "id": "bronze_pick",
-      "description": "Craft Bronze Pickaxes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
+      "id": "tools",
+      "description": "Craft Bronze Tools",
+      "count": 6,
+      "trigger": "rpgskills:craft_item",
       "conditions": {
-        "recipe_id": "downtoearth:bronze_pickaxe"
+        "item": {
+          "items": "#rpgserver:bronze_tools"
+        }
       }
     },
     {
-      "id": "bronze_hoe",
-      "description": "Craft Bronze Hoes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
+      "id": "armor",
+      "description": "Craft Bronze Armor",
+      "count": 2,
+      "trigger": "rpgskills:craft_item",
       "conditions": {
-        "recipe_id": "downtoearth:bronze_hoe"
-      }
-    },
-    {
-      "id": "bronze_axe",
-      "description": "Craft Bronze Axes",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:bronze_axe"
-      }
-    },
-    {
-      "id": "bronze_sword",
-      "description": "Craft Bronze Swords",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:bronze_sword"
-      }
-    },
-    {
-      "id": "bronze_shovel",
-      "description": "Craft Bronze Shovels",
-      "count": 3,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:bronze_shovel"
-      }
-    },
-    {
-      "id": "bronze_head",
-      "description": "Craft Bronze Helmet",
-      "count": 1,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:bronze_helmet"
-      }
-    },
-    {
-      "id": "bronze_chest",
-      "description": "Craft Bronze Chestplate",
-      "count": 1,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:bronze_chestplate"
-      }
-    },
-    {
-      "id": "bronze_legs",
-      "description": "Craft Bronze Leggings",
-      "count": 1,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:bronze_leggings"
-      }
-    },
-    {
-      "id": "bronze_feet",
-      "description": "Craft Bronze Boots",
-      "count": 1,
-      "trigger": "minecraft:recipe_crafted",
-      "conditions": {
-        "recipe_id": "downtoearth:bronze_boots"
+        "item": {
+          "items": "#rpgserver:bronze_armor"
+        }
       }
     }
   ]
