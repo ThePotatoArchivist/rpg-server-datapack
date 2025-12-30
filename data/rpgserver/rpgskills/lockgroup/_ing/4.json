@@ -5,14 +5,18 @@
   "items": {
     "entries": [
       "minecraft:repeater",
-      "minecraft:tripwire_hook"
+      "minecraft:tripwire_hook",
+      "create:water_wheel",
+      "create:large_water_wheel"
     ]
   },
 
   "blocks": {
     "entries": [
       "minecraft:repeater",
-      "minecraft:tripwire_hook"
+      "minecraft:tripwire_hook",
+      "create:water_wheel",
+      "create:large_water_wheel"
     ]
   }
 }

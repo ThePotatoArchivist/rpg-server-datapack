@@ -1,0 +1,37 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 11
+  },
+  "items": {
+    "entries": [
+      "create:propeller",
+      "create:whisk",
+      "create:electron_tube",
+      "create:transmitter",
+      "create:super_glue",
+      "create:cuckoo_clock",
+      "create:desk_bell",
+      "create:linked_controller",
+      "create:redstone_link",
+      "create:controller_rail",
+      "create:pulse_extender",
+      "create:powered_toggle_latch",
+      "create:powered_latch",
+      "create:minecart_coupling",
+      "#createdeco:placards"
+    ]
+  },
+
+  "blocks": {
+    "entries": [
+      "create:cuckoo_clock",
+      "create:desk_bell",
+      "create:redstone_link",
+      "create:controller_rail",
+      "create:pulse_extender",
+      "create:powered_toggle_latch",
+      "create:powered_latch",
+      "#createdeco:placards"
+    ]
+  }
+}

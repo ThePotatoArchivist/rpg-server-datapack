@@ -6,10 +6,17 @@
     "entries": [
       "create:clipboard",
       "create:mechanical_saw",
-      "create:belt_connector",
-      "create:andesite_funnel",
-      "create:andesite_tunnel",
-      "create:encased_chain_drive"
+      "create:mechanical_press",
+      "create:depot",
+      "create:weighted_ejector"
+    ]
+  },
+  "blocks": {
+    "entries": [
+      "create:mechanical_saw",
+      "create:mechanical_press",
+      "create:depot",
+      "create:weighted_ejector"
     ]
   }
 }

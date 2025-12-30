@@ -9,17 +9,13 @@
         },
         "4": {
             "jobs": [
-                "rpgserver:craft/wall_decor"
+                "rpgserver:craft/diy_wood"
             ]
         },
         "6": {
             "jobs": [
-                "rpgserver:craft/stone_age"
-            ]
-        },
-        "7": {
-            "jobs": [
-                "rpgserver:craft/diy_wood"
+                "rpgserver:craft/stone_age",
+                "rpgserver:craft/diy_stone"
             ]
         },
         "9": {

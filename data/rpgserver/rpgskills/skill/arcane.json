@@ -5,13 +5,14 @@
         "4": {
             "jobs": [
                 "rpgserver:arcane/fire_bending",
-                "rpgserver:arcane/taste_test"
+                "rpgserver:arcane/dubious_food"
             ]
         },
         "8": {
             "jobs": [
-                "rpgserver:arcane/frost_magic",
-                "rpgserver:arcane/dark_magic"
+                "rpgserver:arcane/sub_zero",
+                "rpgserver:arcane/cursed_technique",
+                "rpgserver:arcane/on_fuego"
             ]
         },
         "14": {

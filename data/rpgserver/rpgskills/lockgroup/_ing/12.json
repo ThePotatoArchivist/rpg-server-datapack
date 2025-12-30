@@ -1,0 +1,53 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 12
+  },
+  "items": {
+    "entries": [
+      "create:nixie_tube",
+      "create:display_board",
+      "create:flywheel",
+      "create:speedometer",
+      "create:stressometer",
+      "create:rose_quartz_lamp",
+      "create:piston_extension_pole",
+      "create:mechanical_piston",
+      "create:sticky_mechanical_piston",
+      "create:sticker",
+      "create:peculiar_bell",
+      "create:gantry_carriage",
+      "create:gantry_shaft",
+      "create:clockwork_bearing",
+      "create:elevator_pulley",
+      "create:chain_conveyor",
+      "create:packager",
+      "create:repackager",
+      "create:package_frogport",
+      "#create:postboxes"
+    ]
+  },
+  "blocks": {
+    "entries": [
+      "create:nixie_tube",
+      "create:display_board",
+      "create:flywheel",
+      "create:speedometer",
+      "create:stressometer",
+      "create:rose_quartz_lamp",
+      "create:piston_extension_pole",
+      "create:mechanical_piston",
+      "create:sticky_mechanical_piston",
+      "create:sticker",
+      "create:peculiar_bell",
+      "create:gantry_carriage",
+      "create:gantry_shaft",
+      "create:clockwork_bearing",
+      "create:elevator_pulley",
+      "create:chain_conveyor",
+      "create:packager",
+      "create:repackager",
+      "create:package_frogport",
+      "#create:postboxes"
+    ]
+  }
+}

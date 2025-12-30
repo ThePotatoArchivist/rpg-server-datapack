@@ -1,16 +1,16 @@
 {
-  "name": "D.I.Y: Wood",
+  "name": "D.I.Y: Stone",
   "cooldown_ticks": 3600,
-  "reward_points": 11,
+  "reward_points": 14,
   "tasks": [
     {
       "id": "diy",
-      "description": "Craft Wooden Blocks with Planks",
+      "description": "Craft Stone or Brick Blocks",
       "count": 100,
       "trigger": "rpgskills:craft_item",
       "conditions": {
         "item": {
-          "items": "#rpgserver:wooden_decor"
+          "items": "#rpgserver:stone_decor"
         }
       }
     }

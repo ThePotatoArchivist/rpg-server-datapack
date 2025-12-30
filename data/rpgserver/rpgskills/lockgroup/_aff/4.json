@@ -6,6 +6,7 @@
   "recipes": {
     "entries": [
       "minecraft:campfire",
+      "minecraft:flint_and_steel",
       "cold_sweat:waterskin"
     ]
   }

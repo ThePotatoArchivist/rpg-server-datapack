@@ -1,7 +1,7 @@
 {
   "name": "Fortitude 1",
   "cooldown_ticks": 3600,
-  "reward_points": 7,
+  "reward_points": 20,
   "tasks": [
     {
       "id": "killed_zombies",
