@@ -4,7 +4,6 @@
   },
   "recipes": {
     "entries": [
-      "brewinandchewin:keg",
       "#rpgserver:smelted_ore_blocks",
 
       "minecraft:iron_helmet",
