@@ -1,0 +1,41 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 14
+  },
+  "items": {
+    "entries": [
+      "create:copper_backtank",
+      "create:copper_diving_helmet",
+      "create:copper_diving_boots",
+      "create:mechanical_pump",
+      "create:fluid_pipe",
+      "copycats:copycat_fluid_pipe",
+      "create:fluid_tank",
+      "create:copper_casing",
+      "create:copper_table_cloth",
+      "#create:valve_handles",
+      "create:fluid_valve",
+      "create:steam_engine",
+      "create:steam_whistle"
+    ]
+  },
+  "blocks": {
+    "entries": [
+      "create:mechanical_pump",
+      "create:fluid_pipe",
+      "copycats:copycat_fluid_pipe",
+      "create:fluid_tank",
+      "create:copper_casing",
+      "create:copper_table_cloth",
+      "#create:valve_handles",
+      "create:fluid_valve",
+      "create:steam_engine",
+      "create:steam_whistle"
+    ]
+  },
+  "entities": {
+    "entries": [
+      "immersive_aircraft:gyrodyne"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 27
+  },
+  "items": {
+    "entries": [
+      "create:schematic_table",
+      "create:schematicannon"
+    ]
+  },
+  "blocks": {
+    "entries": [
+      "create:schematic_table",
+      "create:schematicannon"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 20
+  },
+  "items": {
+    "entries": [
+      "create:portable_storage_interface",
+      "create:portable_fluid_interface",
+      "create:redstone_contact"
+    ]
+  },
+  "blocks": {
+    "entries": [
+      "create:portable_storage_interface",
+      "create:portable_fluid_interface",
+      "create:redstone_contact"
+    ]
+  }
+}

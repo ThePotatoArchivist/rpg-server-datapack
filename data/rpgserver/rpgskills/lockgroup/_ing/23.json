@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 23
+  },
+  "items": {
+    "entries": [
+      "create:netherite_diving_helmet",
+      "create:netherite_diving_boots"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "requirements": {
+    "rpgserver:ingenuity": 19
+  },
+  "items": {
+    "entries": [
+      "create:mechanical_drill",
+      "create:cart_assembler"
+    ]
+  },
+  "blocks": {
+    "entries": [
+      "create:mechanical_drill",
+      "create:cart_assembler"
+    ]
+  }
+}
