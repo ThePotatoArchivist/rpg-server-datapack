@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 21,
+    "rpgserver:strength": 21,
+    "rpgserver:arcane": 9
+  },
+  "items": {
+    "entries": [
+      "cataclysm:infernal_forge"
+    ]
+  }
+}

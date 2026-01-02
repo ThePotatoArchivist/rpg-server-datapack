@@ -5,7 +5,8 @@
 
   "items": {
     "entries": [
-      "wizards:wand_novice"
+      "wizards:wand_novice",
+      "minecraft:fire_charge"
     ]
   }
 }

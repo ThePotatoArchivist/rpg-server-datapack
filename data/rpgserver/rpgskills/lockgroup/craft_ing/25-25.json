@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 25,
+    "rpgserver:ingenuity": 25
+  },
+
+  "recipes": {
+    "entries": [
+      "cataclysm:laser_gatling"
+    ]
+  }
+}

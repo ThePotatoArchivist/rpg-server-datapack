@@ -17,7 +17,15 @@
       
       "rogues:netherite_double_axe",
       "rogues:netherite_sickle",
-      "rogues:netherite_glaive"
+      "rogues:netherite_glaive",
+
+      "wizards:wand_netherite_arcane",
+      "wizards:wand_netherite_fire",
+      "wizards:wand_netherite_frost",
+
+      "wizards:staff_netherite_arcane",
+      "wizards:staff_netherite_fire",
+      "wizards:staff_netherite_frost"
     ]
   }
 }

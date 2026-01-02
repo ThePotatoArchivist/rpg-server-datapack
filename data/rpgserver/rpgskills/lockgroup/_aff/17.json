@@ -11,7 +11,10 @@
 
   "items": {
     "entries": [
-      "cold_sweat:hearth"
+      "cold_sweat:hearth",
+      "fruitsdelight:durian_sapling",
+      "fruitsdelight:mangosteen_sapling",
+      "fruitsdelight:lychee_sapling"
     ]
   }
 }

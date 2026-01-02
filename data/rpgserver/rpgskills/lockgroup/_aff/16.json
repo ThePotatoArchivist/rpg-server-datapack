@@ -10,7 +10,11 @@
 
   "items": {
     "entries": [
-      "brewinandchewin:keg"
+      "brewinandchewin:keg",
+      "vinery:taiga_grape_seeds_red",
+      "vinery:taiga_grape_seeds_white",
+      "vinery:jungle_grape_seeds_red",
+      "vinery:jungle_grape_seeds_white"
     ]
   }
 }

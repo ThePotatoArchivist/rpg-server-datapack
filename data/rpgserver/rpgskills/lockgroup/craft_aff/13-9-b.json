@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 13,
+      "rpgserver:affinity": 9
+    },
+    {
+      "rpgserver:craft": 13,
+      "rpgserver:ingenuity": 9
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "#smallships:briggs",
+      "#smallships:galleys",
+      "#smallships:drakkars"
+    ]
+  }
+}

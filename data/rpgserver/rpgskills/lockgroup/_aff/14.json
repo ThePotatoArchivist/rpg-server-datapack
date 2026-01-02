@@ -1,0 +1,16 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 14
+  },
+  "items": {
+    "entries": [
+      "vinery:white_grape_seeds",
+      "cocktailsdelight:white_grape_seeds",
+
+      "vinery:red_grape_seeds",
+      "cocktailsdelight:red_grape_seeds",
+
+      "fruitsdelight:hawberry_sapling"
+    ]
+  }
+}

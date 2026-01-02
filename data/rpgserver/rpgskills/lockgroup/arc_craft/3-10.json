@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 3,
+      "rpgserver:craft": 10
+    },
+    {
+      "rpgserver:craft": 14
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "paladins:paladin_armor_head",
+      "paladins:paladin_armor_chest",
+      "paladins:paladin_armor_legs",
+      "paladins:paladin_armor_feet"
+    ]
+  }
+}

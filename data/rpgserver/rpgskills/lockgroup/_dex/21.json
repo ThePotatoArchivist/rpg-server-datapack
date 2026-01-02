@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 21
+  },
+  "items": {
+    "entries": [
+      "benssharks:spetum"
+    ]
+  }
+}

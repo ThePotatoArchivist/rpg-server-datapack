@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 25,
+    "rpgserver:ingenuity": 30
+  },
+
+  "recipes": {
+    "entries": [
+      "immersive_aircraft:rotary_cannon"
+    ]
+  }
+}

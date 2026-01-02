@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 16
+  },
+  "blocks": {
+    "entries": [
+      "minecraft:brewing_stand"
+    ]
+  }
+}

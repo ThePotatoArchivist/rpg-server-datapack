@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 9,
+      "rpgserver:craft": 4
+    },
+    {
+      "rpgserver:craft": 15
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "wizards:wizard_robe_head",
+      "wizards:wizard_robe_chest",
+      "wizards:wizard_robe_legs",
+      "wizards:wizard_robe_feet"
+    ]
+  }
+}

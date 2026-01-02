@@ -1,0 +1,18 @@
+{
+  "requirements": {
+    "rpgserver:affinity": 12
+  },
+
+  "items": {
+    "entries": [
+      "trailandtales_delight:lantern_fruit_seeds",
+      "peruviansdelight:semillas_aji_amarillo",
+      "fruitsdelight:hamimelon_seeds",
+      "fruitsdelight:pineapple_sapling",
+      "fruitsdelight:blueberry",
+      "fruitsdelight:cranberry",
+      "fruitsdelight:kiwi_sapling",
+      "fruitsdelight:fig_sapling"
+    ]
+  }
+}

@@ -9,7 +9,22 @@
       "minecraft:iron_helmet",
       "minecraft:iron_chestplate",
       "minecraft:iron_leggings",
-      "minecraft:iron_boots"
+      "minecraft:iron_boots",
+      
+      "rogues:warrior_armor_head",
+      "rogues:warrior_armor_chest",
+      "rogues:warrior_armor_legs",
+      "rogues:warrior_armor_feet",
+
+      "rogues:assassin_armor_head",
+      "rogues:assassin_armor_chest",
+      "rogues:assassin_armor_legs",
+      "rogues:assassin_armor_feet",
+      
+      "archers:archer_armor_head",
+      "archers:archer_armor_chest",
+      "archers:archer_armor_legs",
+      "archers:archer_armor_feet"
     ]
   }
 }

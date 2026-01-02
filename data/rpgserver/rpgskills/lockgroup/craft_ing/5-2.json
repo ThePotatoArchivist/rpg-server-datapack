@@ -1,7 +1,7 @@
 {
   "requirements": {
     "rpgserver:craft": 5,
-    "rpgserver:ingenuity": 1
+    "rpgserver:ingenuity": 2
   },
 
   "recipes": {

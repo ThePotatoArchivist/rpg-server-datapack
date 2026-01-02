@@ -8,7 +8,12 @@
       "downtoearth:steel_helmet",
       "downtoearth:steel_chestplate",
       "downtoearth:steel_leggings",
-      "downtoearth:steel_boots"
+      "downtoearth:steel_boots",
+
+      "archers:ranger_armor_head",
+      "archers:ranger_armor_chest",
+      "archers:ranger_armor_legs",
+      "archers:ranger_armor_feet"
     ]
   }
 }

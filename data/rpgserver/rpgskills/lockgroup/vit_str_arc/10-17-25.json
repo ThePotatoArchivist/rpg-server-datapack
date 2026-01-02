@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 10,
+    "rpgserver:strength": 17,
+    "rpgserver:arcane": 25
+  },
+  "items": {
+    "entries": [
+      "cataclysm:gauntlet_of_guard"
+    ]
+  }
+}

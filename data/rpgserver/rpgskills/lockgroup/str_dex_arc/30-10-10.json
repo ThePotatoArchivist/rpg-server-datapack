@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:strength": 30,
+    "rpgserver:dexterity": 10,
+    "rpgserver:arcane": 10
+  },
+  "items": {
+    "entries": [
+      "cataclysm:the_incinerator"
+    ]
+  }
+}

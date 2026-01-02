@@ -1,0 +1,19 @@
+{
+  "requirements": {
+    "rpgserver:craft": 24
+  },
+
+  "recipes": {
+    "entries": [
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+
+      "rogues:berserker_armor_head",
+      "rogues:berserker_armor_chest",
+      "rogues:berserker_armor_legs",
+      "rogues:berserker_armor_feet"
+    ]
+  }
+}

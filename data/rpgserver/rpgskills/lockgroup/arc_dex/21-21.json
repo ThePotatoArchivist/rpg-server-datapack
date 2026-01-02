@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 21,
+    "rpgserver:dexterity": 21
+  },
+  "items": {
+    "entries": [
+      "cataclysm:wrath_of_the_desert"
+    ]
+  }
+}

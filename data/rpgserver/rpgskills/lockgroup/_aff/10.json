@@ -5,18 +5,23 @@
   "blocks": {
     "entries": [
       "minecraft:beehive",
-      "brewinandchewin:keg",
-      "cold_sweat:boiler"
+      "brewinandchewin:keg"
     ]
   },
 
   "items": {
     "entries": [
       "minecraft:beehive",
-      "cold_sweat:boiler",
       "brewinandchewin:keg",
       "brewinandchewin:heating_cask",
-      "brewinandchewin:ice_crate"
+      "brewinandchewin:ice_crate",
+      "farmersdelight:tomato_seeds",
+      "veggiesdelight:broccoli_seeds",
+      "rusticdelight:cotton_seeds",
+      "rusticdelight:bell_pepper_seeds",
+      "veggiesdelight:bellpepper_seeds",
+      "ubesdelight:lemongrass_seeds",
+      "culturaldelights:eggplant_seeds"
     ]
   }
 }

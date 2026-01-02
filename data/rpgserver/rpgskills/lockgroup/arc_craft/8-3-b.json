@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 8,
+      "rpgserver:craft": 1
+    },
+    {
+      "rpgserver:craft": 13
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "runes:crafting_altar"
+    ]
+  }
+}

@@ -18,7 +18,10 @@
       "wizards:netherite_frost_robe_head",
       "wizards:netherite_frost_robe_chest",
       "wizards:netherite_frost_robe_legs",
-      "wizards:netherite_frost_robe_feet"
+      "wizards:netherite_frost_robe_feet",
+
+      "cataclysm:bone_reptile_helmet",
+      "cataclysm:bone_reptile_chestplate"
     ]
   }
 }

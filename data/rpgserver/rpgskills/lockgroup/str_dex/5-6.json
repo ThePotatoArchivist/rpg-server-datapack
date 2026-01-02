@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:strength": 5,
+    "rpgserver:dexterity": 6
+  },
+  "items": {
+    "entries": [
+      "cataclysm:black_steel_sword"
+    ]
+  }
+}

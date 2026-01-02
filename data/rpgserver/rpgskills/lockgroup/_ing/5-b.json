@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 5
+    },
+    {
+      "rpgserver:vitality": 7
+    }
+  ],
+  "entities": {
+    "entries": [
+      "immersive_aircraft:gyrodyne"
+    ]
+  }
+}

@@ -11,15 +11,18 @@
       "minecraft:diamond_axe",
       "minecraft:diamond_sword",
 
-      "rogues:netherite_dagger",
       "archers:diamond_spear",
+      "archers:royal_longbow",
+
       "paladins:diamond_kite_shield",
       "paladins:diamond_claymore",
       "paladins:diamond_mace",
       "paladins:diamond_great_hammer",
+
       "rogues:diamond_double_axe",
       "rogues:diamond_sickle",
-      "rogues:diamond_glaive"
+      "rogues:diamond_glaive",
+      "rogues:netherite_dagger"
     ]
   }
 }

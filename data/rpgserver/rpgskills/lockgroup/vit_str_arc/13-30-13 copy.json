@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 13,
+    "rpgserver:strength": 30,
+    "rpgserver:arcane": 10
+  },
+  "items": {
+    "entries": [
+      "cataclysm:ceraunus"
+    ]
+  }
+}

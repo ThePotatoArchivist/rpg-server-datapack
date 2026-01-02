@@ -9,7 +9,15 @@
   },
   "items": {
     "entries": [
-      "#choppersdelight:cutting_boards"
+      "#choppersdelight:cutting_boards",
+      "minecraft:beetroot_seeds",
+      "minecraft:pumpkin_seeds",
+      "minecraft:melon_seeds",
+      "corn_delight:corn_seeds",
+      "culturaldelights:corn_kernels",
+      "culturaldelights:cucumber_seeds",
+      "veggiesdelight:zucchini_seeds",
+      "veggiesdelight:turnip_seeds"
     ]
   }
 }

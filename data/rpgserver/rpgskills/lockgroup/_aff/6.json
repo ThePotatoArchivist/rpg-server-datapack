@@ -5,6 +5,8 @@
 
   "items": {
     "entries": [
+      "minecraft:fishing_rod",
+      "minecraft:shears",
       "minecraft:stone_hoe"
     ]
   }

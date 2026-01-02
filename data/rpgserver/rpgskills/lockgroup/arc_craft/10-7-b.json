@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 10,
+      "rpgserver:craft": 7
+    },
+    {
+      "rpgserver:craft": 19
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "minecraft:enchanting_table"
+    ]
+  }
+}

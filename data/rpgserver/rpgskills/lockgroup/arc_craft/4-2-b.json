@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 4,
+      "rpgserver:craft": 2
+    },
+    {
+      "rpgserver:craft": 6
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "wizards:wand_novice",
+      "paladins:acolyte_wand"
+    ]
+  }
+}

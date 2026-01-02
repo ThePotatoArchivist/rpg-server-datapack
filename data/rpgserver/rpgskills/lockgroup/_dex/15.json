@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 15
+  },
+  "items": {
+    "entries": [
+      "cataclysm:khopesh"
+    ]
+  }
+}

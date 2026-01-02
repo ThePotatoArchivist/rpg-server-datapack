@@ -6,7 +6,8 @@
 
   "recipes": {
     "entries": [
-      "immersive_aircraft:boiler"
+      "immersive_aircraft:boiler",
+      "minecraft:firework_rocket"
     ]
   }
 }

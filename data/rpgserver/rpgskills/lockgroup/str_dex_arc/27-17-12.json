@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:strength": 27,
+    "rpgserver:dexterity": 17,
+    "rpgserver:arcane": 12
+  },
+  "items": {
+    "entries": [
+      "cataclysm:the_immolator"
+    ]
+  }
+}

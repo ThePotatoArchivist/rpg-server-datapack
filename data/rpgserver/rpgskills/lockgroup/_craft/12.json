@@ -5,6 +5,7 @@
 
   "recipes": {
     "entries": [
+      "minecraft:spyglass",
       "immersive_melodies:trumpet",
       "immersive_melodies:piano",
       "immersive_melodies:bagpipe"

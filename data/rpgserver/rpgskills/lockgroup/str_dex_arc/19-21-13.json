@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:strength": 19,
+    "rpgserver:dexterity": 21,
+    "rpgserver:arcane": 13
+  },
+  "items": {
+    "entries": [
+      "cataclysm:soul_render"
+    ]
+  }
+}

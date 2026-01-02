@@ -34,11 +34,7 @@
       "create:item_hatch",
       "#create:toolboxes"
     ]
-  },
-
-  "entities": {
-    "entries": [
-      "immersive_aircraft:gyrodyne"
-    ]
   }
+
+
 }

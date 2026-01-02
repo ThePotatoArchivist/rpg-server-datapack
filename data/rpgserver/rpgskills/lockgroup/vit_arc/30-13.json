@@ -1,0 +1,14 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 30,
+    "rpgserver:arcane": 13
+  },
+  "items": {
+    "entries": [
+      "cataclysm:ignitium_helmet",
+      "cataclysm:ignitium_chestplate",
+      "cataclysm:ignitium_leggings",
+      "cataclysm:ignitium_boots"
+    ]
+  }
+}

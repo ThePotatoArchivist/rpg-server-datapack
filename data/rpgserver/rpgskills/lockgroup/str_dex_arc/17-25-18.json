@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:strength": 17,
+    "rpgserver:dexterity": 25,
+    "rpgserver:arcane": 18
+  },
+  "items": {
+    "entries": [
+      "cataclysm:astrape"
+    ]
+  }
+}

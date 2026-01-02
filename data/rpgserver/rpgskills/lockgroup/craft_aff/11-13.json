@@ -6,10 +6,7 @@
 
   "recipes": {
     "entries": [      
-      "cold_sweat:hearth",
-      "#smallships:briggs",
-      "#smallships:galleys",
-      "#smallships:drakkars"
+      "cold_sweat:hearth"
     ]
   }
 }

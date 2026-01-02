@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:craft": 27,
+    "rpgserver:ingenuity": 27
+  },
+
+  "recipes": {
+    "entries": [
+      "cataclysm:wither_assault_shoulder_weapon"
+    ]
+  }
+}

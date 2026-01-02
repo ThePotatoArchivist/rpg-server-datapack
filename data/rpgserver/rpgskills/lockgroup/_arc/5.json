@@ -1,6 +1,6 @@
 {
   "requirements": {
-    "rpgserver:arcane": 5
+    "rpgserver:arcane": 4
   },
   "items": {
     "entries": [

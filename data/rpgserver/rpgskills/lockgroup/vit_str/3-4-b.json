@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 3,
+      "rpgserver:strength": 4
+    },
+    {
+      "rpgserver:vitality": 3,
+      "rpgserver:dexterity": 4
+    }
+  ],
+  "items": {
+    "entries": [
+      "cataclysm:black_steel_targe"
+    ]
+  }
+}

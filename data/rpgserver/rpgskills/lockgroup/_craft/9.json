@@ -9,7 +9,13 @@
   },
   "recipes": {
     "entries": [
+      "bobsmobgear:forge",
+      "bobsmobgear:forge_heater",
+
       "#rpgserver:ore_blocks",
+      "minecraft:shears",
+      "minecraft:name_tag",
+      "minecraft:lead",
       "downtoearth:bronze_shovel",
       "downtoearth:bronze_pickaxe",
       "downtoearth:bronze_hoe",

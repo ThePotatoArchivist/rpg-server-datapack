@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 11,
+      "rpgserver:craft": 6
+    },
+    {
+      "rpgserver:craft": 25
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "cataclysm:blazing_grips"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:strength": 27,
+    "rpgserver:dexterity": 27
+  },
+  "items": {
+    "entries": [
+      "cataclysm:meat_shredder"
+    ]
+  }
+}

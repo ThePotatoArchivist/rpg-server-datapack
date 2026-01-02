@@ -1,10 +1,15 @@
 {
   "values": [
     "downtoearth:clay_ingot_mold",
-    "downtoearth:clay_sword_head_mold",
+    "downtoearth:clay_sword_blade_mold",
     "downtoearth:clay_pickaxe_head_mold",
     "downtoearth:clay_shovel_head_mold",
     "downtoearth:clay_hoe_head_mold",
-    "downtoearth:clay_axe_head_mold"
+    "downtoearth:clay_axe_head_mold",
+
+    "downtoearth:clay_helmet_mold",
+    "downtoearth:clay_chestplate_mold",
+    "downtoearth:clay_leggings_mold",
+    "downtoearth:clay_boots_mold"
   ]
 }

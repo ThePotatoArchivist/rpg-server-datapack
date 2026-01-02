@@ -6,7 +6,8 @@
   "recipes": {
     "entries": [
       "minecraft:cartography_table",
-      "minecraft:loom"
+      "minecraft:loom",
+      "#vinery:lattice"
     ]
   }
 }

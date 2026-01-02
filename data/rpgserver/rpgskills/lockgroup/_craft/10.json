@@ -10,7 +10,8 @@
 
   "recipes": {
     "entries": [
-      "downtoearth:stone_anvil"
+      "downtoearth:stone_anvil",
+      "minecraft:bucket"
     ]
   }
 }

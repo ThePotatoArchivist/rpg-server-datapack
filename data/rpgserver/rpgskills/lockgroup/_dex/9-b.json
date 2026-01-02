@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:dexterity": 9
+    },
+    {
+      "rpgserver:strength": 9
+    }
+  ],
+  "items": {
+    "entries": [
+      "cataclysm:athame"
+    ]
+  }
+}
