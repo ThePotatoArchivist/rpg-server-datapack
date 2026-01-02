@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 7,
+      "rpgserver:craft": 4
+    },
+    {
+      "rpgserver:craft": 13
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "paladins:diamond_holy_wand",
+      "paladins:holy_staff"
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "requirements": {
-    "rpgserver:vitality": 9,
-    "rpgserver:arcane": 8
+    "rpgserver:vitality": 10,
+    "rpgserver:arcane": 10
   },
   "items": {
     "entries": [

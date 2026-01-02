@@ -22,10 +22,12 @@
       "wizards:wand_netherite_arcane",
       "wizards:wand_netherite_fire",
       "wizards:wand_netherite_frost",
+      "paladins:netherite_holy_wand",
 
       "wizards:staff_netherite_arcane",
       "wizards:staff_netherite_fire",
-      "wizards:staff_netherite_frost"
+      "wizards:staff_netherite_frost",
+      "paladins:netherite_holy_staff"
     ]
   }
 }
