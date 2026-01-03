@@ -17,5 +17,11 @@
       "wizards:netherite_frost_robe_legs",
       "wizards:netherite_frost_robe_feet"
     ]
+  },
+
+  "blocks": {
+    "entries": [
+      "cataclysm:cursed_tombstone"
+    ]
   }
 }
