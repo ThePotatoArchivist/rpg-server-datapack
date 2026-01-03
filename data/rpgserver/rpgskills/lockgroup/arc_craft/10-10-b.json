@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 8,
+      "rpgserver:craft": 6
+    },
+    {
+      "rpgserver:craft": 17
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "spell_engine:spell_binding"
+    ]
+  }
+}

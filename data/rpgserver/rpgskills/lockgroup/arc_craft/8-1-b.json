@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 8,
+      "rpgserver:craft": 1
+    },
+    {
+      "rpgserver:craft": 11
+    }
+  ],
+  "recipes": {
+    "entries": [
+      "wizards:wand_fire",
+      "wizards:wand_arcane",
+      "wizards:wand_frost"
+    ]
+  }
+}
