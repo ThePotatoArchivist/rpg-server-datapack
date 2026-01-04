@@ -1,0 +1,18 @@
+{
+  "name": "Bronze Age 2",
+  "cooldown_ticks": 3600,
+  "reward_points": 18,
+  "tasks": [
+    {
+      "id": "armor",
+      "description": "Craft Bronze Armor",
+      "count": 2,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgserver:bronze_armor"
+        }
+      }
+    }
+  ]
+}

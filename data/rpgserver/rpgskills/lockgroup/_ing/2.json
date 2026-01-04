@@ -6,12 +6,7 @@
     "entries": [
       "minecraft:redstone",
       "create:hand_crank",
-      "create:analog_lever"
-    ]
-  },
-
-  "blocks": {
-    "entries": [
+      "create:analog_lever",
       "minecraft:lever"
     ]
   }

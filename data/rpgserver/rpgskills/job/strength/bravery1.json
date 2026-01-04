@@ -1,12 +1,12 @@
 {
   "name": "Bravery 1",
-  "cooldown_ticks": 3600,
+  "cooldown_ticks": 1200,
   "reward_points": 7,
   "tasks": [
     {
       "id": "killed",
       "description": "Kill zombies",
-      "count": 15,
+      "count": 4,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [

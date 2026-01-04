@@ -17,7 +17,10 @@
       "culturaldelights:corn_kernels",
       "culturaldelights:cucumber_seeds",
       "veggiesdelight:zucchini_seeds",
-      "veggiesdelight:turnip_seeds"
+      "veggiesdelight:turnip_seeds",
+      "trailandtales_delight:cherry_iron_knife",
+      "trailandtales_delight:sniffer_eggshell_knife",
+      "arbitrarydelight:amethyst_knife"
     ]
   }
 }

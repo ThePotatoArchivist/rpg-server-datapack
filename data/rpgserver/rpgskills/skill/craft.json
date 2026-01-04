@@ -20,7 +20,7 @@
         },
         "9": {
             "jobs": [
-                "rpgserver:craft/bronze_age"
+                "rpgserver:craft/bronze_age1"
             ]
         },
         "10": {
@@ -28,24 +28,49 @@
                 "rpgserver:craft/gold_rush"
             ]
         },
+        "11": {
+            "jobs": [
+                "rpgserver:craft/bronze_age2"
+            ]
+        },
         "13": {
             "jobs": [
-                "rpgserver:craft/iron_age"
+                "rpgserver:craft/iron_age1"
+            ]
+        },
+        "15": {
+            "jobs": [
+                "rpgserver:craft/iron_age2"
             ]
         },
         "17": {
             "jobs": [
-                "rpgserver:craft/steel_age"
+                "rpgserver:craft/steel_age1"
+            ]
+        },
+        "19": {
+            "jobs": [
+                "rpgserver:craft/steel_age2"
             ]
         },
         "21": {
             "jobs": [
-                "rpgserver:craft/diamond_age"
+                "rpgserver:craft/diamond_age1"
+            ]
+        },
+        "23": {
+            "jobs": [
+                "rpgserver:craft/diamond_age2"
             ]
         },
         "25": {
             "jobs": [
-                "rpgserver:craft/netherite_age"
+                "rpgserver:craft/netherite_age1"
+            ]
+        },
+        "27": {
+            "jobs": [
+                "rpgserver:craft/netherite_age2"
             ]
         },
         "30": {}

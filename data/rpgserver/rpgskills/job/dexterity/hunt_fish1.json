@@ -1,12 +1,12 @@
 {
   "name": "Marine Hunting 1",
   "cooldown_ticks": 3600,
-  "reward_points": 8,
+  "reward_points": 10,
   "tasks": [
     {
       "id": "salmon",
       "description": "Hunt aquatic animals",
-      "count": 10,
+      "count": 5,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {

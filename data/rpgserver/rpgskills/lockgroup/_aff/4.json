@@ -3,6 +3,12 @@
     "rpgserver:affinity": 4
   },
 
+  "items": {
+    "entries": [
+      "moredelight:wooden_knife"
+    ]
+  },
+
   "recipes": {
     "entries": [
       "minecraft:campfire",

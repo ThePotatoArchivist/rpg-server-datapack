@@ -1,7 +1,7 @@
 {
   "name": "Cursed Technique",
   "cooldown_ticks": 3600,
-  "reward_points": 20,
+  "reward_points": 55,
   "tasks": [
     {
       "id": "kill",

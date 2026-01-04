@@ -12,7 +12,6 @@
 
   "recipes": {
     "entries": [
-      "#rpgserver:hand_carts",
       "#minecraft:chest_boats",
       "archers:small_quiver",
       "cold_sweat:minecart_insulation",

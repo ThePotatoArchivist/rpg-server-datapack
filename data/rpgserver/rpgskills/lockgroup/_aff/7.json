@@ -11,7 +11,8 @@
   "items": {
     "entries": [
       "minecraft:golden_hoe",
-      "chipped:watering_can"
+      "chipped:watering_can",
+      "farmersdelight:iron_knife"
     ]
   },
   "recipes": {

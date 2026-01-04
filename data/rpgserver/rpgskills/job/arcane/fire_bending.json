@@ -6,7 +6,7 @@
     {
       "id": "flame_kill",
       "description": "Kill mobs with flames",
-      "count": 10,
+      "count": 7,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {

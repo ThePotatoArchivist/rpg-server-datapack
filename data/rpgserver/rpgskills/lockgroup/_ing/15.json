@@ -10,7 +10,8 @@
       "create:hose_pulley",
       "create:deployer",
       "create:mechanical_arm",
-      "create:contraption_controls"
+      "create:contraption_controls",
+      "create:redstone_contact"
     ]
   },
   "entities": {

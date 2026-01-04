@@ -12,8 +12,8 @@
   "blocks": {
     "entries": [
       "create:portable_storage_interface",
-      "create:portable_fluid_interface",
-      "create:redstone_contact"
+      "create:portable_fluid_interface"
+      
     ]
   }
 }

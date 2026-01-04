@@ -2,7 +2,7 @@
   "requirements": {
     "rpgserver:ingenuity": 1
   },
-  "blocks": {
+  "items": {
     "entries": [
       "#minecraft:wooden_buttons",
       "#minecraft:wooden_pressure_plates"

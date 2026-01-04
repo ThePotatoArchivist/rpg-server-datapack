@@ -12,7 +12,8 @@
     "entries": [
       "minecraft:bone_meal",
       "minecraft:wooden_hoe",
-      "minecraft:wheat_seeds"
+      "minecraft:wheat_seeds",
+      "moredelight:stone_knife"
     ]
   }
 }
