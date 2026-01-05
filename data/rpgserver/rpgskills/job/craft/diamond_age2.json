@@ -10,7 +10,7 @@
       "trigger": "rpgskills:craft_item",
       "conditions": {
         "item": {
-          "items": "#rpgserver:diamond_armor"
+          "items": "#rpgserver:diamond_armors"
         }
       }
     }

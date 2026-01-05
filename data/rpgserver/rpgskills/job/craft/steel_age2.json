@@ -10,7 +10,7 @@
       "trigger": "rpgskills:craft_item",
       "conditions": {
         "item": {
-          "items": "#rpgserver:steel_armor"
+          "items": "#rpgserver:steel_armors"
         }
       }
     }
