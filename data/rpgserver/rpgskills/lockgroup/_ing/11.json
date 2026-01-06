@@ -14,7 +14,6 @@
       "create:linked_controller",
       "create:redstone_link",
       "create:controller_rail",
-      "create:pulse_extender",
       "create:powered_toggle_latch",
       "create:powered_latch",
       "create:minecart_coupling",
@@ -28,7 +27,6 @@
       "create:desk_bell",
       "create:redstone_link",
       "create:controller_rail",
-      "create:pulse_extender",
       "create:powered_toggle_latch",
       "create:powered_latch",
       "#createdeco:placards"

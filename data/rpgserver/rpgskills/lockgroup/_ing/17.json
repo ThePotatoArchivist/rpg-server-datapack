@@ -5,10 +5,6 @@
   "items": {
     "entries": [
       "immersive_aircraft:biplane",
-      "create:mechanical_mixer",
-      "create:empty_blaze_burner",
-      "create:blaze_burner",
-      "create:basin",
       "#rpgserver:chunk_loaders"
     ]
   },
@@ -19,9 +15,6 @@
   },
   "blocks": {
     "entries": [
-      "create:mechanical_mixer",
-      "create:blaze_burner",
-      "create:basin",
       "#rpgserver:chunk_loaders"
     ]
   }
