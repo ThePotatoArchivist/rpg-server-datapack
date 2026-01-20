@@ -3,8 +3,9 @@
   "description": "Gather stuff",
   "cooldown_ticks": 6000,
   "reward_points": 20,
-  "tasks": {
-    "eat_pork": {
+  "tasks": [
+    {
+      "id": "eat_pork",
       "description": "Eat porkchop",
       "count": 4,
       "trigger": "minecraft:consume_item",
@@ -17,5 +18,5 @@
         }
       }
     }
-  }
+  ]
 }
