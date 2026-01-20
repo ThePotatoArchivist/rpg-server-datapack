@@ -1,8 +1,0 @@
-{
-  "values": [
-    "rpgserver:pioneer",
-    "rpgserver:warrior",
-    "rpgserver:mercenary"
-  ],
-  "replace": true
-}
