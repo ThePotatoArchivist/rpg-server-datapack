@@ -3,6 +3,6 @@
   "icon": "minecraft:stone",
   "description": "Stone",
   "starting_levels": {
-    "rpgserver:example_skill": 1
+    "rpgserver:vitality": 1
   }
 }

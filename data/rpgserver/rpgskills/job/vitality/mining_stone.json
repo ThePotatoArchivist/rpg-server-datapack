@@ -1,0 +1,21 @@
+{
+  "name": "Stone Crusher",
+  "cooldown_ticks": 600,
+  "reward_points": 5,
+  "tasks": [
+    {
+      "id": "stone",
+      "description": "Mine stone",
+      "count": 50,
+      "trigger": "rpgskills:break_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "minecraft:stone"
+          }
+        ]
+      }
+    }
+  ]
+}
