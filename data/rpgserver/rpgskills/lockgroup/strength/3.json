@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "rpgserver:strength": 3
+  },
+  "items": [
+    "minecraft:wooden_axe"
+  ]
+}

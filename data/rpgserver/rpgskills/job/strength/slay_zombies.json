@@ -1,0 +1,24 @@
+{
+  "name": "Grave Digger",
+  "cooldown_ticks": 1200,
+  "reward_points": 5,
+  "tasks": [
+    {
+      "id": "killed",
+      "description": "Kill zombies",
+      "count": 5,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "#minecraft:zombies"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

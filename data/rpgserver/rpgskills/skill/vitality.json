@@ -9,10 +9,13 @@
     },
     "2": {
       "attributes": {
-        "minecraft:generic.max_health": 2
+        "minecraft:generic.max_health": 1
       }
     },
     "3": {
+      "attributes": {
+        "minecraft:generic.max_health": 1
+      },
       "jobs": [
         "rpgserver:vitality/mining_stone"
       ]

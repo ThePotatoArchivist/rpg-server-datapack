@@ -1,12 +1,12 @@
 {
-  "name": "Stone Crusher",
+  "name": "Boulder Breaker",
   "cooldown_ticks": 600,
   "reward_points": 5,
   "tasks": [
     {
       "id": "stone",
       "description": "Mine stone",
-      "count": 50,
+      "count": 25,
       "trigger": "rpgskills:break_block",
       "conditions": {
         "location": [
