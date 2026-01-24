@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 3
+  },
+  "items": [
+    "minecraft:bow"
+  ]
+}

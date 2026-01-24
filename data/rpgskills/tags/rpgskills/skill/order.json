@@ -1,7 +1,8 @@
 {
   "values": [
     "rpgserver:vitality",
-    "rpgserver:strength"
+    "rpgserver:strength",
+    "rpgserver:dexterity"
   ],
   "replace": true
 }

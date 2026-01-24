@@ -1,11 +1,11 @@
 {
-  "name": "Grave Digger",
+  "name": "Dead Shot",
   "cooldown_ticks": 1200,
   "reward_points": 5,
   "tasks": [
     {
-      "id": "killed",
-      "description": "Kill zombies with melee attacks",
+      "id": "deadshot",
+      "description": "Kill zombies with a bow or crossbow",
       "count": 5,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
@@ -20,7 +20,7 @@
         ],
         "killing_blow": {
           "direct_entity": {
-            "type": "minecraft:player"
+            "type": "minecraft:arrow"
           }
         }
       }

@@ -1,0 +1,45 @@
+{
+  "name": "Dexterity",
+  "icon": "minecraft:bow",
+  "levels": {
+    "1": {
+      "attributes": {
+        "minecraft:generic.attack_speed": {
+          "amount": 0.05,
+          "operation": "add_multiplied_base"
+        },
+        "ranged_weapon:damage": {
+          "amount": 0.05,
+          "operation": "add_multiplied_total"
+        }
+      }
+    },
+    "2": {
+      "attributes": {
+        "minecraft:generic.attack_speed": {
+          "amount": 0.025,
+          "operation": "add_multiplied_base"
+        },
+        "ranged_weapon:damage": {
+          "amount": 0.025,
+          "operation": "add_multiplied_total"
+        }
+      }
+    },
+    "3": {
+      "attributes": {
+        "minecraft:generic.attack_speed": {
+          "amount": 0.025,
+          "operation": "add_multiplied_base"
+        },
+        "ranged_weapon:damage": {
+          "amount": 0.025,
+          "operation": "add_multiplied_total"
+        }
+      },
+      "jobs": [
+        "rpgserver:dexterity/shoot_zombies"
+      ]
+    }
+  }
+}
