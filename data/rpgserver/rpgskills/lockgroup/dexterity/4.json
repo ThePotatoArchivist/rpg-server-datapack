@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 4
+  },
+  "items": [
+    "archers:composite_longbow"
+  ]
+}

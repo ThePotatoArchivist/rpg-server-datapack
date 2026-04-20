@@ -2,6 +2,9 @@
     "requirements": {
         "rpgserver:arcane": 15
     },
+    "items": [
+        "runes:medium_rune_pouch"
+    ],
     "blocks": [
         "runes:crafting_altar"
     ]

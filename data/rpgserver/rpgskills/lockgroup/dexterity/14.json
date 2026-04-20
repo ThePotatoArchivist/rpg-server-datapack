@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "rpgserver:dexterity": 14
+  },
+  "items": [
+    "archers:royal_longbow"
+  ]
+}

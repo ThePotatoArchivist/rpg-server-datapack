@@ -1,0 +1,11 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 17
+  },
+  "items": [
+    "downtoearth:steel_helmet",
+    "downtoearth:steel_chestplate",
+    "downtoearth:steel_leggings",
+    "downtoearth:steel_boots"
+  ]
+}

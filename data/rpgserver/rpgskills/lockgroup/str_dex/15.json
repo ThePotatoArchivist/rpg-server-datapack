@@ -1,0 +1,9 @@
+{
+  "requirements": {
+    "rpgserver:strength": 4,
+    "rpgserver:dexterity": 11
+  },
+  "items": [
+    "archers:heavy_crossbow"
+  ]
+}

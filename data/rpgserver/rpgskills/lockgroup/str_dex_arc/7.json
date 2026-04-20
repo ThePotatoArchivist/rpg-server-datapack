@@ -1,0 +1,9 @@
+{
+    "requirements": [
+        { "rpgserver:dexterity": 7 },
+        { "rpgserver:arcane": 7 }
+    ],
+    "blocks": [
+        "spell_engine:spell_binding"
+    ]
+}
