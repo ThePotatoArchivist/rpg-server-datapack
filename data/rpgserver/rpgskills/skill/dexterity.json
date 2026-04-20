@@ -7,10 +7,6 @@
         "minecraft:generic.attack_speed": {
           "amount": 0.05,
           "operation": "add_multiplied_base"
-        },
-        "ranged_weapon:damage": {
-          "amount": 0.05,
-          "operation": "add_multiplied_total"
         }
       }
     },
@@ -19,10 +15,6 @@
         "minecraft:generic.attack_speed": {
           "amount": 0.025,
           "operation": "add_multiplied_base"
-        },
-        "ranged_weapon:damage": {
-          "amount": 0.025,
-          "operation": "add_multiplied_total"
         }
       }
     },
@@ -31,10 +23,6 @@
         "minecraft:generic.attack_speed": {
           "amount": 0.025,
           "operation": "add_multiplied_base"
-        },
-        "ranged_weapon:damage": {
-          "amount": 0.025,
-          "operation": "add_multiplied_total"
         }
       },
       "jobs": [
