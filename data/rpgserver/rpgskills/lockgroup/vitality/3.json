@@ -3,7 +3,6 @@
     "rpgserver:vitality": 3
   },
   "items": [
-    "minecraft:wooden_pickaxe",
-    "minecraft:wooden_shovel"
+    "minecraft:shield"
   ]
 }

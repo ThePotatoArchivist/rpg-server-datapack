@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 1
+  },
+  "items": [
+    "minecraft:wooden_pickaxe"
+  ]
+}

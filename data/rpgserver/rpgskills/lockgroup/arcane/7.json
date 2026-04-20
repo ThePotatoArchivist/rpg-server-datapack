@@ -1,0 +1,8 @@
+{
+    "requirements": {
+        "rpgserver:arcane": 7
+    },
+    "blocks": [
+        "spell_engine:spell_binding"
+    ]
+}

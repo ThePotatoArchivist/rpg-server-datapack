@@ -1,0 +1,9 @@
+{
+  "requirements": {
+    "rpgserver:strength": 1,
+    "rpgserver:dexterity": 2
+  },
+  "items": [
+    "minecraft:crossbow"
+  ]
+}

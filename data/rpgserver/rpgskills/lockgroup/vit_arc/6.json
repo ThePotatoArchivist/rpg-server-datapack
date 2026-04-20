@@ -1,0 +1,12 @@
+{
+  "requirements": {
+    "rpgserver:vitality": 2,
+    "rpgserver:arcane": 4
+  },
+  "items": [
+    "wizards:wizard_robe_head",
+    "wizards:wizard_robe_chest",
+    "wizards:wizard_robe_legs",
+    "wizards:wizard_robe_feet"
+  ]
+}

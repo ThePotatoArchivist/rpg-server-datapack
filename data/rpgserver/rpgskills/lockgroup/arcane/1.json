@@ -1,0 +1,11 @@
+{
+    "requirements": {
+        "rpgserver:arcane": 1
+    },
+    "items": [
+        "wizards:wand_novice"
+    ],
+    "recipes": [
+        "runes:fire_stone"
+    ]
+}

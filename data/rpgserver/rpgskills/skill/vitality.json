@@ -1,24 +1,9 @@
 {
-  "name": "Vitality",
-  "icon": "minecraft:apple",
-  "levels": {
-    "1": {
-      "attributes": {
-        "minecraft:generic.max_health": 2
-      }
-    },
-    "2": {
-      "attributes": {
-        "minecraft:generic.max_health": 1
-      }
-    },
-    "3": {
-      "attributes": {
-        "minecraft:generic.max_health": 1
-      },
-      "jobs": [
-        "rpgserver:vitality/mining_stone"
-      ]
+    "name": "Vitality",
+    "icon": "minecraft:apple",
+    "levels": {
+        "1": {},
+        "2": {},
+        "3": {}
     }
-  }
 }

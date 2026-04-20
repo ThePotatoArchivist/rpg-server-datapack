@@ -2,7 +2,9 @@
   "values": [
     "rpgserver:vitality",
     "rpgserver:strength",
-    "rpgserver:dexterity"
+    "rpgserver:dexterity",
+    "rpgserver:arcane",
+    "rpgserver:example_skill"
   ],
   "replace": true
 }

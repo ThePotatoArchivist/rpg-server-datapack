@@ -1,0 +1,10 @@
+{
+    "requirements": {
+        "rpgserver:arcane": 19
+    },
+    "items": [
+        "wizards:wand_netherite_fire",
+        "wizards:wand_netherite_frost",
+        "wizards:wand_netherite_arcane"
+    ]
+}
