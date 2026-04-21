@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "rpgserver:strength": 24
+  },
+  "items": [
+    "minecraft:netherite_axe"
+  ]
+}

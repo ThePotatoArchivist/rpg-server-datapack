@@ -1,0 +1,10 @@
+{
+  "requirements": {
+    "rpgserver:arcane": 16
+  },
+  "items": [
+    "wizards:staff_fire",
+    "wizards:staff_frost",
+    "wizards:staff_arcane"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "rpgserver:strength": 10
+  },
+  "items": [
+    "downtoearth:bronze_axe"
+  ]
+}

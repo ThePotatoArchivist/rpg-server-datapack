@@ -1,8 +1,10 @@
 {
-    "requirements": {
-        "rpgserver:arcane": 24
-    },
-    "items": [
-        "runes:large_rune_pouch"
-    ]
+  "requirements": {
+    "rpgserver:arcane": 24
+  },
+  "items": [
+    "wizards:staff_netherite_fire",
+    "wizards:staff_netherite_frost",
+    "wizards:staff_netherite_arcane"
+  ]
 }

@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "rpgserver:strength": 7
+  },
+  "items": [
+    "minecraft:copper_axe"
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "requirements": {
-    "rpgserver:dexterity": 6
-  },
-  "items": [
-    "archers:small_quiver"
-  ]
-}

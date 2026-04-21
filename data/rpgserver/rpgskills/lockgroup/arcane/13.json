@@ -1,8 +1,8 @@
 {
-    "requirements": {
-        "rpgserver:arcane": 13
-    },
-    "items": [
-        "wizards:staff_wizard"
-    ]
+  "requirements": {
+    "rpgserver:arcane": 13
+  },
+  "items": [
+    "wizards:staff_wizard"
+  ]
 }

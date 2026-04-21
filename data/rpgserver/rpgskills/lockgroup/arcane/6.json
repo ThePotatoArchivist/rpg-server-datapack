@@ -1,8 +1,0 @@
-{
-    "requirements": {
-        "rpgserver:arcane": 6
-    },
-    "items": [
-        "runes:small_rune_pouch"
-    ]
-}

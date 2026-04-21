@@ -1,9 +1,8 @@
 {
   "requirements": {
-    "rpgserver:strength": 5,
     "rpgserver:dexterity": 16
   },
   "items": [
-    "archers:netherite_rapid_crossbow"
+    "archers:royal_longbow"
   ]
 }

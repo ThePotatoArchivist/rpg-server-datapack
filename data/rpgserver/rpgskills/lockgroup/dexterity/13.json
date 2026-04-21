@@ -1,6 +1,6 @@
 {
   "requirements": {
-    "rpgserver:dexterity": 10
+    "rpgserver:dexterity": 13
   },
   "items": [
     "archers:mechanic_shortbow"

@@ -1,8 +1,10 @@
 {
-    "requirements": {
-        "rpgserver:arcane": 7
-    },
-    "blocks": [
-        "spell_engine:spell_binding"
-    ]
+  "requirements": {
+    "rpgserver:arcane": 7
+  },
+  "items": [
+    "wizards:wand_fire",
+    "wizards:wand_frost",
+    "wizards:wand_arcane"
+  ]
 }
