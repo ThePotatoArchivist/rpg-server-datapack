@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:dexterity": 7
-  },
+  "requirements": [
+    {
+      "rpgserver:dexterity": 7
+    }
+  ],
   "items": [
     "archers:composite_longbow"
   ]

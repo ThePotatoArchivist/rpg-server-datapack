@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:example_skill": 1
-  },
+  "requirements": [
+    {
+      "rpgserver:example_skill": 1
+    }
+  ],
   "items": [
     "minecraft:command_block"
   ]

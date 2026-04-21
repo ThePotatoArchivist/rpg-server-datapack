@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:vitality": 21
-  },
+  "requirements": [
+    {
+      "rpgserver:vitality": 21
+    }
+  ],
   "items": [
     "minecraft:diamond_helmet",
     "minecraft:diamond_chestplate",

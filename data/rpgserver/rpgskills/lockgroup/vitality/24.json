@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:vitality": 24
-  },
+  "requirements": [
+    {
+      "rpgserver:vitality": 24
+    }
+  ],
   "items": [
     "minecraft:netherite_pickaxe",
     "minecraft:netherite_shovel"

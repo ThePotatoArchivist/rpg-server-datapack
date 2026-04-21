@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:vitality": 10
-  },
+  "requirements": [
+    {
+      "rpgserver:vitality": 10
+    }
+  ],
   "items": [
     "downtoearth:bronze_pickaxe",
     "downtoearth:bronze_shovel"

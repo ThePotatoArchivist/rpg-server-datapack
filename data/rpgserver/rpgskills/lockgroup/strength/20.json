@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:strength": 20
-  },
+  "requirements": [
+    {
+      "rpgserver:strength": 20
+    }
+  ],
   "items": [
     "minecraft:diamond_axe"
   ]

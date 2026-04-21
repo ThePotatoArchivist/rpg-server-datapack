@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:vitality": 14
-  },
+  "requirements": [
+    {
+      "rpgserver:vitality": 14
+    }
+  ],
   "items": [
     "minecraft:iron_helmet",
     "minecraft:iron_chestplate",

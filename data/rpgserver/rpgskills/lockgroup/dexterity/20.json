@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:dexterity": 20
-  },
+  "requirements": [
+    {
+      "rpgserver:dexterity": 20
+    }
+  ],
   "items": [
     "archers:netherite_shortbow"
   ]

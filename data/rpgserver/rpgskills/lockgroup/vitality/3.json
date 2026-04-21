@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:vitality": 3
-  },
+  "requirements": [
+    {
+      "rpgserver:vitality": 3
+    }
+  ],
   "items": [
     "minecraft:shield"
   ]

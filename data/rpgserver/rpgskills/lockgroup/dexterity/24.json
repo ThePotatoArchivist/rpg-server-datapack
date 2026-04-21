@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:dexterity": 24
-  },
+  "requirements": [
+    {
+      "rpgserver:dexterity": 24
+    }
+  ],
   "items": [
     "archers:netherite_longbow"
   ]

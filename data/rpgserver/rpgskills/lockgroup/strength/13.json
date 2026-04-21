@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:strength": 13
-  },
+  "requirements": [
+    {
+      "rpgserver:strength": 13
+    }
+  ],
   "items": [
     "minecraft:iron_axe"
   ]

@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:vitality": 8
-  },
+  "requirements": [
+    {
+      "rpgserver:vitality": 8
+    }
+  ],
   "items": [
     "minecraft:copper_helmet",
     "minecraft:copper_chestplate",

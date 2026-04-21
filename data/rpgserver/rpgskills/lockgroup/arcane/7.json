@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:arcane": 7
-  },
+  "requirements": [
+    {
+      "rpgserver:arcane": 7
+    }
+  ],
   "items": [
     "wizards:wand_fire",
     "wizards:wand_frost",

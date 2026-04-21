@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:arcane": 1
-  },
+  "requirements": [
+    {
+      "rpgserver:arcane": 1
+    }
+  ],
   "items": [
     "wizards:wand_novice"
   ]

@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:vitality": 4
-  },
+  "requirements": [
+    {
+      "rpgserver:vitality": 4
+    }
+  ],
   "items": [
     "minecraft:stone_pickaxe",
     "minecraft:stone_shovel"

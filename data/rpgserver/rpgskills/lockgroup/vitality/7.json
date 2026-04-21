@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:vitality": 7
-  },
+  "requirements": [
+    {
+      "rpgserver:vitality": 7
+    }
+  ],
   "items": [
     "minecraft:copper_pickaxe",
     "minecraft:copper_shovel"

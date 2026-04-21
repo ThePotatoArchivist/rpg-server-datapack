@@ -1,7 +1,9 @@
 {
-  "requirements": {
-    "rpgserver:strength": 16
-  },
+  "requirements": [
+    {
+      "rpgserver:strength": 16
+    }
+  ],
   "items": [
     "downtoearth:steel_axe"
   ]
