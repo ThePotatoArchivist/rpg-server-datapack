@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 10
+    }
+  ],
+  "blocks": [
+    "runes:crafting_altar"
+  ]
+}

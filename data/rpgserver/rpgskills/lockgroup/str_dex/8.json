@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 5
+    },
+    {
+      "rpgserver:dexterity": 3
+    }
+  ],
+  "items": [
+    "minecraft:copper_sword"
+  ]
+}

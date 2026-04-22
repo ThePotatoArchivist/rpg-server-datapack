@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 17
+    },
+    {
+      "rpgserver:dexterity": 8
+    }
+  ],
+  "items": [
+    "minecraft:netherite_sword"
+  ]
+}

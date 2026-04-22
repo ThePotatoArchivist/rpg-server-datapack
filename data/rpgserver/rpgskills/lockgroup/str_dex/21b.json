@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 10
+    },
+    {
+      "rpgserver:dexterity": 11
+    }
+  ],
+  "items": [
+    "archers:diamond_spear"
+  ]
+}

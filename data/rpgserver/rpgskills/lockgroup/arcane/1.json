@@ -6,5 +6,8 @@
   ],
   "items": [
     "wizards:wand_novice"
+  ],
+  "recipes": [
+    "runes:fire_stone"
   ]
 }

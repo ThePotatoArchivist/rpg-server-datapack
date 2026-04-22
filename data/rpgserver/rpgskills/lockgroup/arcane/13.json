@@ -5,6 +5,7 @@
     }
   ],
   "items": [
-    "wizards:staff_wizard"
+    "wizards:staff_wizard",
+    "runes:medium_rune_pouch"
   ]
 }

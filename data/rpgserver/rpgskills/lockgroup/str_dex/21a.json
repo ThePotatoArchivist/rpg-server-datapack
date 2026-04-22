@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 7
+    },
+    {
+      "rpgserver:dexterity": 14
+    }
+  ],
+  "items": [
+    "archers:netherite_rapid_crossbow"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 11
+    },
+    {
+      "rpgserver:dexterity": 6
+    }
+  ],
+  "items": [
+    "downtoearth:steel_sword"
+  ]
+}

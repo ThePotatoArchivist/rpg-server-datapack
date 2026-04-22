@@ -1,11 +1,13 @@
 {
   "requirements": [
     {
+      "rpgserver:strength": 12
+    },
+    {
       "rpgserver:dexterity": 13
     }
   ],
   "items": [
-    "archers:mechanic_shortbow",
-    "archers:medium_quiver"
+    "archers:netherite_spear"
   ]
 }

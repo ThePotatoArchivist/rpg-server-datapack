@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 1
+    },
+    {
+      "rpgserver:dexterity": 1
+    }
+  ],
+  "items": [
+    "minecraft:wooden_sword",
+    "archers:flint_spear"
+  ]
+}

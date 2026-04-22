@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 14
+    },
+    {
+      "rpgserver:dexterity": 7
+    }
+  ],
+  "items": [
+    "minecraft:diamond_sword"
+  ]
+}

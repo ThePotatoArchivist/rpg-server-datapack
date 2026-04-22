@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 8
+    },
+    {
+      "rpgserver:dexterity": 17
+    }
+  ],
+  "items": [
+    "archers:netherite_ranger_armor_head",
+    "archers:netherite_ranger_armor_chest",
+    "archers:netherite_ranger_armor_legs",
+    "archers:netherite_ranger_armor_feet"
+  ]
+}
