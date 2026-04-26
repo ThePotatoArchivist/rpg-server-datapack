@@ -9,5 +9,8 @@
   ],
   "items": [
     "paladins:acolyte_wand"
+  ],
+  "recipes": [
+    "runes:healing_stone"
   ]
 }
