@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 12
+    },
+    {
+      "rpgserver:strength": 13
+    }
+  ],
+  "items": [
+    "paladins:netherite_great_hammer"
+  ]
+}

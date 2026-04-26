@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 1
+    },
+    {
+      "rpgserver:strength": 1
+    }
+  ],
+  "items": [
+    "paladins:wooden_great_hammer"
+  ]
+}

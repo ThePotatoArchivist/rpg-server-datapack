@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 10
+    },
+    {
+      "rpgserver:strength": 11
+    }
+  ],
+  "items": [
+    "paladins:diamond_great_hammer"
+  ]
+}
