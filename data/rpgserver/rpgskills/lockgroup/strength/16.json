@@ -6,5 +6,25 @@
   ],
   "items": [
     "downtoearth:steel_axe"
-  ]
+  ],
+  "item_components": {
+    "spell_engine:spell_scroll": {
+        "type": "spell_engine:spell_container",
+        "tooltip_index": -3,
+        "values": [
+            {
+                "spell_ids": ["rogues:charge"]
+            }
+        ]
+    },
+    "spell_engine:spell_book": {
+        "type": "spell_engine:spell_container",
+        "tooltip_index": 99,
+        "values": [
+            {
+                "pool": "rogues:spell_book/warrior"
+            }
+        ]
+    }
+  }
 }

@@ -8,6 +8,7 @@
     }
   ],
   "items": [
-    "minecraft:netherite_sword"
+    "minecraft:netherite_sword",
+    "paladins:netherite_mace"
   ]
 }

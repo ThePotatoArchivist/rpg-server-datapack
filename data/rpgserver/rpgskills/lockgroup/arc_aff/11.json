@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 6
+    },
+    {
+      "rpgserver:affinity": 5
+    }
+  ],
+  "items": [
+    "paladins:holy_staff"
+  ]
+}

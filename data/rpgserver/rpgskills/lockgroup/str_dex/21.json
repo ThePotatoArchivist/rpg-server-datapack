@@ -8,6 +8,7 @@
     }
   ],
   "items": [
-    "minecraft:diamond_sword"
+    "minecraft:diamond_sword",
+    "paladins:diamond_mace"
   ]
 }

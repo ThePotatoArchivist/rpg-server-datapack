@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 13
+    },
+    {
+      "rpgserver:affinity": 12
+    }
+  ],
+  "items": [
+    "paladins:netherite_holy_staff"
+  ]
+}

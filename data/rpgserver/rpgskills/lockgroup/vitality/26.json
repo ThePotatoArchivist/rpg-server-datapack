@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 26
+    }
+  ],
+  "items": [
+    "paladins:netherite_kite_shield"
+  ]
+}

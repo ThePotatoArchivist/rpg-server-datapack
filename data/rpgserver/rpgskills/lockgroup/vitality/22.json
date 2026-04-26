@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 22
+    }
+  ],
+  "items": [
+    "paladins:diamond_kite_shield"
+  ]
+}

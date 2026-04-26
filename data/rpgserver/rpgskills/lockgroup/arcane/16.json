@@ -8,5 +8,40 @@
     "wizards:staff_fire",
     "wizards:staff_frost",
     "wizards:staff_arcane"
-  ]
+  ],
+  "blocks": [
+    "spell_engine:spell_binding"
+  ],
+  "item_components": {
+    "spell_engine:spell_scroll": {
+        "type": "spell_engine:spell_container",
+        "tooltip_index": -3,
+        "values": [
+            {
+                "spell_ids": ["wizards:fire_wall"]
+            },
+            {
+                "spell_ids": ["wizards:frost_blizzard"]
+            },
+            {
+                "spell_ids": ["wizards:arcane_blink"]
+            }
+        ]
+    },
+    "spell_engine:spell_book": {
+        "type": "spell_engine:spell_container",
+        "tooltip_index": 99,
+        "values": [
+            {
+                "pool": "wizards:spell_book/fire"
+            },
+            {
+                "pool": "wizards:spell_book/frost"
+            },
+            {
+                "pool": "wizards:spell_book/arcane"
+            }
+        ]
+    }
+  }
 }

@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 1
+    },
+    {
+      "rpgserver:affinity": 1
+    }
+  ],
+  "items": [
+    "paladins:acolyte_wand"
+  ]
+}

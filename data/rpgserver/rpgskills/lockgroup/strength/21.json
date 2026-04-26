@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 21
+    }
+  ],
+  "items": [
+    "rogues:diamond_double_axe",
+    "rogues:diamond_glaive"
+  ]
+}

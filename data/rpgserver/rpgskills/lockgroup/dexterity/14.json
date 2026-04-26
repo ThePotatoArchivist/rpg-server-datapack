@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:dexterity": 14
+    }
+  ],
+  "items": [
+    "rogues:iron_dagger",
+    "rogues:iron_sickle"
+  ]
+}

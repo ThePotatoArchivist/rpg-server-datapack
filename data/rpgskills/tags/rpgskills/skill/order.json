@@ -4,6 +4,7 @@
     "rpgserver:strength",
     "rpgserver:dexterity",
     "rpgserver:arcane",
+    "rpgserver:affinity",
     "rpgserver:example_skill"
   ],
   "replace": true

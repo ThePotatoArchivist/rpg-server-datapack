@@ -1,6 +1,6 @@
 {
     "name": "Strength",
-    "icon": "minecraft:netherite_axe",
+    "icon": "rogues:netherite_double_axe",
     "levels": {
         "1": {},
         "2": {},

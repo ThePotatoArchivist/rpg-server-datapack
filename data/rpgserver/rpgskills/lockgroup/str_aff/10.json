@@ -1,11 +1,11 @@
 {
   "requirements": [
     {
-      "rpgserver:strength": 10
+      "rpgserver:strength": 5
+    },
+    {
+      "rpgserver:affinity": 5
     }
-  ],
-  "items": [
-    "downtoearth:bronze_axe"
   ],
   "item_components": {
     "spell_engine:spell_scroll": {
@@ -13,7 +13,7 @@
         "tooltip_index": -3,
         "values": [
             {
-                "spell_ids": ["rogues:shout"]
+                "spell_ids": ["paladins:judgement"]
             }
         ]
     }

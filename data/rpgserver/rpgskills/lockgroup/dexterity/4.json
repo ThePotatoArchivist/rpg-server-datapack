@@ -1,11 +1,8 @@
 {
   "requirements": [
     {
-      "rpgserver:arcane": 10
+      "rpgserver:dexterity": 4
     }
-  ],
-  "blocks": [
-    "runes:crafting_altar"
   ],
   "item_components": {
     "spell_engine:spell_scroll": {
@@ -13,13 +10,13 @@
         "tooltip_index": -3,
         "values": [
             {
-                "spell_ids": ["wizards:fire_meteor"]
+                "spell_ids": ["rogues:shock_powder"]
             },
             {
-                "spell_ids": ["wizards:frost_shield"]
+                "spell_ids": ["rogues:slice_and_dice"]
             },
             {
-                "spell_ids": ["wizards:arcane_beam"]
+                "spell_ids": ["archers:power_shot"]
             }
         ]
     }

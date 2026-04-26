@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 4
+    },
+    {
+      "rpgserver:affinity": 4
+    }
+  ],
+  "items": [
+    "paladins:holy_wand"
+  ]
+}
