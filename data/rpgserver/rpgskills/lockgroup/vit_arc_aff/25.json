@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 5
+    },
+    {
+      "rpgserver:arcane": 10
+    },
+    {
+      "rpgserver:affinity": 10
+    }
+  ],
+  "items": [
+    "paladins:netherite_prior_robe_head",
+    "paladins:netherite_prior_robe_chest",
+    "paladins:netherite_prior_robe_legs",
+    "paladins:netherite_prior_robe_feet"
+  ]
+}

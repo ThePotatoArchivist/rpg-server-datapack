@@ -11,6 +11,10 @@
     "archers:ranger_armor_head",
     "archers:ranger_armor_chest",
     "archers:ranger_armor_legs",
-    "archers:ranger_armor_feet"
+    "archers:ranger_armor_feet",
+    "rogues:assassin_armor_head",
+    "rogues:assassin_armor_chest",
+    "rogues:assassin_armor_legs",
+    "rogues:assassin_armor_feet"
   ]
 }

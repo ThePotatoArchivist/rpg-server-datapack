@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 15
+    },
+    {
+      "rpgserver:strength": 5
+    },
+    {
+      "rpgserver:affinity": 5
+    }
+  ],
+  "items": [
+    "paladins:netherite_crusader_armor_head",
+    "paladins:netherite_crusader_armor_chest",
+    "paladins:netherite_crusader_armor_legs",
+    "paladins:netherite_crusader_armor_feet"
+  ]
+}

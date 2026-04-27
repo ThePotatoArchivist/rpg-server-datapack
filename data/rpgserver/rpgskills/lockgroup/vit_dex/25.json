@@ -11,6 +11,10 @@
     "archers:netherite_ranger_armor_head",
     "archers:netherite_ranger_armor_chest",
     "archers:netherite_ranger_armor_legs",
-    "archers:netherite_ranger_armor_feet"
+    "archers:netherite_ranger_armor_feet",
+    "rogues:netherite_assassin_armor_head",
+    "rogues:netherite_assassin_armor_chest",
+    "rogues:netherite_assassin_armor_legs",
+    "rogues:netherite_assassin_armor_feet"
   ]
 }
