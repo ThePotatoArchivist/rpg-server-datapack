@@ -1,7 +1,7 @@
 {
   "requirements": [
     {
-      "rpgserver:vitality": 2
+      "rpgserver:vitality": 5
     }
   ],
   "items": [

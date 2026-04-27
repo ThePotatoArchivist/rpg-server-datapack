@@ -21,16 +21,12 @@
         ]
     },
     "spell_engine:spell_book": {
-        "type": "spell_engine:spell_container",
-        "tooltip_index": 99,
-        "values": [
-            {
-                "pool": "rogues:spell_book/rogue"
-            },
-            {
-                "pool": "archers:spell_book/archer"
-            }
-        ]
+      "type": "minecraft:item_name",
+      "tooltip_index": 99,
+      "values": [
+        "{\"translate\":\"item.archers.spell_book/archer\"}",
+        "{\"translate\":\"item.rogues.spell_book/rogue\"}"
+      ]
     }
   }
 }

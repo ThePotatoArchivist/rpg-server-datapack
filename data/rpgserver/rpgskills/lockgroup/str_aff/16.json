@@ -9,22 +9,22 @@
   ],
   "item_components": {
     "spell_engine:spell_scroll": {
-        "type": "spell_engine:spell_container",
-        "tooltip_index": -3,
-        "values": [
-            {
-                "spell_ids": ["paladins:battle_banner"]
-            }
-        ]
+      "type": "spell_engine:spell_container",
+      "tooltip_index": -3,
+      "values": [
+        {
+          "spell_ids": [
+            "paladins:battle_banner"
+          ]
+        }
+      ]
     },
     "spell_engine:spell_book": {
-        "type": "spell_engine:spell_container",
-        "tooltip_index": 99,
-        "values": [
-            {
-                "pool": "paladins:spell_book/paladin"
-            }
-        ]
+      "type": "minecraft:item_name",
+      "tooltip_index": 99,
+      "values": [
+        "{\"translate\":\"item.paladins.spell_book/paladin\"}"
+      ]
     }
   }
 }

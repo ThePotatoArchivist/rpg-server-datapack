@@ -29,19 +29,13 @@
         ]
     },
     "spell_engine:spell_book": {
-        "type": "spell_engine:spell_container",
-        "tooltip_index": 99,
-        "values": [
-            {
-                "pool": "wizards:spell_book/fire"
-            },
-            {
-                "pool": "wizards:spell_book/frost"
-            },
-            {
-                "pool": "wizards:spell_book/arcane"
-            }
-        ]
+      "type": "minecraft:item_name",
+      "tooltip_index": 99,
+      "values": [
+        "{\"translate\":\"item.wizards.spell_book/fire\"}",
+        "{\"translate\":\"item.wizards.spell_book/frost\"}",
+        "{\"translate\":\"item.wizards.spell_book/arcane\"}"
+      ]
     }
   }
 }
