@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 27
+    }
+  ],
+  "items": [
+    "enderscape:mirror"
+  ]
+}

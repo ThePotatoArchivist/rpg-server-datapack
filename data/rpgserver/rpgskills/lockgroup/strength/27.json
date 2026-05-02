@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 27
+    }
+  ],
+  "items": [
+    "minecraft:mace"
+  ]
+}

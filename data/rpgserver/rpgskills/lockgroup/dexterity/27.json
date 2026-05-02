@@ -1,10 +1,10 @@
 {
   "requirements": [
     {
-      "rpgserver:vitality": 3
+      "rpgserver:dexterity": 27
     }
   ],
   "items": [
-    "minecraft:shield"
+    "minecraft:elytra"
   ]
 }

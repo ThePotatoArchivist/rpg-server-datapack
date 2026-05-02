@@ -6,6 +6,7 @@
   ],
   "items": [
     "minecraft:stone_pickaxe",
-    "minecraft:stone_shovel"
+    "minecraft:stone_shovel",
+    "minecraft:shield"
   ]
 }

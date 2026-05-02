@@ -1,0 +1,25 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 2
+    }
+  ],
+  "blocks": [
+    "minecraft:loom"
+  ],
+  "recipes": [
+    "minecraft:loom",
+    "minecraft:fletching_table",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:barrel",
+    "minecraft:chest",
+    "minecraft:ladder",
+    "minecraft:painting",
+    "runes:small_rune_pouch",
+    "#minecraft:beds",
+    "#minecraft:wool",
+    "#minecraft:wool_carpets",
+    "#minecraft:banners",
+    "#rpgskills:craftable_dyes"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#c:dyes"
+  ],
+  "remove": ["minecraft:green_dye"],
+  "replace": false
+}

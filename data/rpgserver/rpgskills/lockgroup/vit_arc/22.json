@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 15
+    },
+    {
+      "rpgserver:arcane": 7
+    }
+  ],
+  "items": [
+    "#rpgskills:rubble_shields"
+  ]
+}
