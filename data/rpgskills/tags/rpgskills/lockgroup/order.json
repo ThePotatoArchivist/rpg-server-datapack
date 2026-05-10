@@ -1,6 +1,10 @@
 {
   "values": [
-    "rpgserver:vit_arc/6"
+    "rpgserver:vit_arc/6",
+    "rpgserver:cra_aff/4",
+    "rpgserver:cra_aff/6",
+    "rpgserver:craft/4a",
+    "rpgserver:craft/4"
   ],
   "replace": true
 }

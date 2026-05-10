@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 14
+    }
+  ],
+  "items": [
+    "minecraft:wind_charge"
+  ],
+  "recipes": [
+    "minecraft:conduit",
+    "minecraft:wind_charge"
+  ]
+}

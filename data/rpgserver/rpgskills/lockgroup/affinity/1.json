@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 1
+    }
+  ],
+  "items": [
+    "minecraft:wooden_hoe"
+  ],
+  "blocks": [
+    "#minecraft:campfires"
+  ],
+  "recipes": [
+    "minecraft:campfire"
+  ]
+}

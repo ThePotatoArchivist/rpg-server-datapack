@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 18
+    }
+  ],
+  "recipes": [
+    "minecraft:dried_ghast"
+  ]
+}

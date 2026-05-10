@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 2
+    }
+  ],
+  "recipes": [
+    "minecraft:coarse_dirt"
+  ]
+}

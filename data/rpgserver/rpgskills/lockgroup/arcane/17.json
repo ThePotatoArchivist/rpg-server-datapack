@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 17
+    }
+  ],
+  "recipes": [
+    "minecraft:recovery_compass"
+  ]
+}

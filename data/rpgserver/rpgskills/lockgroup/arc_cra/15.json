@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 10
+    },
+    {
+      "rpgserver:craft": 5
+    }
+  ],
+  "recipes": [
+    "minecraft:brewing_stand"
+  ]
+}

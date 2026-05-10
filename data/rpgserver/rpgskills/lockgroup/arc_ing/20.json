@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 10
+    },
+    {
+      "rpgserver:ingenuity": 10
+    }
+  ],
+  "recipes": [
+    "enderscape:magnia_attractor"
+  ]
+}

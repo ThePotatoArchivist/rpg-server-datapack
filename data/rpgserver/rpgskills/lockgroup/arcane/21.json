@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 21
+    }
+  ],
+  "recipes": [
+    "minecraft:ender_chest",
+    "#c:shulker_boxes"
+  ]
+}

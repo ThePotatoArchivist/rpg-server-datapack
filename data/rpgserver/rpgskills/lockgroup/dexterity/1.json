@@ -5,6 +5,7 @@
     }
   ],
   "items": [
-    "minecraft:bow"
+    "minecraft:bow",
+    "minecraft:wooden_sword"
   ]
 }

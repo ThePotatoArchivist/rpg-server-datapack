@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 22
+    }
+  ],
+  "blocks": [
+    "minecraft:beacon"
+  ],
+  "recipes": [
+    "minecraft:beacon",
+    "minecraft:end_crystal"
+  ]
+}

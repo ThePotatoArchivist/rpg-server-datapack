@@ -6,6 +6,7 @@
   ],
   "items": [
     "archers:netherite_shortbow",
-    "archers:large_quiver"
+    "archers:large_quiver",
+    "minecraft:diamond_sword"
   ]
 }

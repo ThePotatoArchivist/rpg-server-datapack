@@ -6,5 +6,8 @@
   ],
   "items": [
     "enderscape:mirror"
+  ],
+  "recipes": [
+    "minecraft:mace"
   ]
 }

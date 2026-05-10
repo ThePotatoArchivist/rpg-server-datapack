@@ -4,7 +4,13 @@
       "rpgserver:arcane": 15
     }
   ],
+  "blocks": [
+    "minecraft:brewing_stand"
+  ],
   "items": [
-    "enderscape:magnia_attractor"
+    "minecraft:ender_eye"
+  ],
+  "recipes": [
+    "minecraft:ender_eye"
   ]
 }

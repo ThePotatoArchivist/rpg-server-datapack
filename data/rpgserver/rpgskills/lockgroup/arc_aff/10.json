@@ -10,7 +10,7 @@
   "item_components": {
     "spell_engine:spell_scroll": {
         "type": "spell_engine:spell_container",
-        "tooltip_index": -3,
+        "tooltip_index": 2,
         "values": [
             {
                 "spell_ids": ["paladins:circle_of_healing"]

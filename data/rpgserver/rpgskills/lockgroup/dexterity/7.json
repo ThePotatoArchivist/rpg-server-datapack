@@ -5,6 +5,7 @@
     }
   ],
   "items": [
-    "archers:composite_longbow"
+    "archers:composite_longbow",
+    "minecraft:copper_sword"
   ]
 }

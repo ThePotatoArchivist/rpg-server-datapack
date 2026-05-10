@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 11
+    },
+    {
+      "rpgserver:craft": 11
+    }
+  ],
+  "recipes": [
+    "#rpgskills:rubble_shields"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 10
+    },
+    {
+      "rpgserver:craft": 6
+    }
+  ],
+  "recipes": [
+    "spell_engine:spell_binding",
+    "minecraft:enchanting_table"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 5
+    }
+  ],
+  "items": [
+    "runes:small_rune_pouch"
+  ]
+}

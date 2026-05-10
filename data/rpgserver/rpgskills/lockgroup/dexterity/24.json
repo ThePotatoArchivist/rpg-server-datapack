@@ -5,6 +5,7 @@
     }
   ],
   "items": [
-    "archers:netherite_longbow"
+    "archers:netherite_longbow",
+    "minecraft:netherite_sword"
   ]
 }
