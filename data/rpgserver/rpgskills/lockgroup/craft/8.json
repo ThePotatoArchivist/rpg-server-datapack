@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 8
+    }
+  ],
+  "recipes": [
+    "#rpgskills:copper_armor",
+    "#rpgskills:ranger_armor",
+    "minecraft:copper_lantern",
+    "minecraft:copper_chest"
+  ]
+}

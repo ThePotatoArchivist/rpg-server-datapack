@@ -2,19 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "I": {
+    "L": {
       "item": "minecraft:copper_ingot"
     },
-    "S": {
-      "item": "minecraft:snowball"
+    "R": {
+      "item": "minecraft:leather"
     }
   },
   "pattern": [
-    " S",
-    "I "
+    "R R",
+    "L L"
   ],
   "result": {
     "count": 1,
-    "id": "wizards:wand_frost"
+    "id": "archers:ranger_armor_feet"
   }
 }

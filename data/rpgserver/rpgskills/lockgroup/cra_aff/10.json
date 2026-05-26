@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 5
+    },
+    {
+      "rpgserver:affinity": 5
+    }
+  ],
+  "recipes": [
+    "minecraft:saddle"
+  ]
+}

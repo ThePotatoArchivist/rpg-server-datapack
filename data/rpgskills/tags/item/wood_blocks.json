@@ -27,7 +27,8 @@
     "enderscape:celestial_hyphae",
     "enderscape:stripped_celestial_hyphae",
     "enderscape:murublight_hyphae",
-    "enderscape:stripped_murublight_hyphae"
+    "enderscape:stripped_murublight_hyphae",
+    "minecraft:bamboo_block"
   ],
 
   "replace": false

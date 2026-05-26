@@ -5,19 +5,19 @@
     }
   ],
   "recipes": [
-    "minecraft:leather_helmet",
-    "minecraft:leather_chestplate",
-    "minecraft:leather_leggings",
-    "minecraft:leather_boots",
-    "rogues:rogue_armor_head",
-    "rogues:rogue_armor_chest",
-    "rogues:rogue_armor_legs",
-    "rogues:rogue_armor_feet",
-    "wizards:wizard_robe_head",
-    "wizards:wizard_robe_chest",
-    "wizards:wizard_robe_legs",
-    "wizards:wizard_robe_feet",
-    "archers:small_quiver",
-    "runes:small_rune_pouch"
+    "#rpgskills:leather_armor",
+    "#rpgskills:archer_armor",
+    "#rpgskills:rogue_armor",
+    "#rpgskills:wizard_robe",
+    "minecraft:paper",
+    "minecraft:book",
+    "minecraft:writable_book",
+    "minecraft:cartography_table",
+    "minecraft:bookshelf",
+    "archers:archers_workbench",
+    "minecraft:lectern",
+    "minecraft:armor_stand",
+    "dummmmmmy:target_dummy",
+    "#rpgskills:item_frames"
   ]
 }

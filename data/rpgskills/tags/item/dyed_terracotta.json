@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#minecraft:terracotta"
+  ],
+  "remove": ["minecraft:terracotta"],
+  "replace": false
+}

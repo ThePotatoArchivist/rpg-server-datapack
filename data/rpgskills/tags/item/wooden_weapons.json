@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:wooden_sword",
+    "paladins:wooden_great_hammer",
+    "paladins:acolyte_wand",
+    "minecraft:bow"
+  ],
+
+  "replace": false
+}

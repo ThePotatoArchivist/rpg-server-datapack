@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 5
+    },
+    {
+      "rpgserver:affinity": 4
+    }
+  ],
+  "recipes": [
+    "minecraft:wolf_armor"
+  ]
+}

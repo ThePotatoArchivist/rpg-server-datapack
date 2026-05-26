@@ -9,23 +9,12 @@
   ],
   "recipes": [
     "minecraft:crafting_table",
-    "minecraft:stick",
-    "minecraft:wooden_shovel",
-    "minecraft:wooden_pickaxe",
-    "minecraft:wooden_axe",
-    "minecraft:wooden_hoe",
-    "minecraft:wooden_sword",
-    "minecraft:bow",
-    "minecraft:fishing_rod",
-    "rogues:flint_dagger",
-    "archers:flint_spear",
-    "wizards:wand_novice",
-    "paladins:wooden_great_hammer",
-    "paladins:acolyte_wand",
-    "minecraft:arrow",
+    "#rpgskills:wooden_tools",
+    "#rpgskills:wooden_weapons",
+    "#rpgskills:flint_weapons",
     "minecraft:bowl",
-    "minecraft:lead",
-    "#rpgskills:wood_blocks",
+    "minecraft:stick",
+    "minecraft:arrow",
     "#minecraft:planks"
   ]
 }

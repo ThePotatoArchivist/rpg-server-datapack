@@ -2,19 +2,22 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "I": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "R": {
       "item": "minecraft:copper_ingot"
     },
     "S": {
-      "item": "minecraft:snowball"
+      "item": "minecraft:turtle_scute"
     }
   },
   "pattern": [
-    " S",
-    "I "
+    "SRS",
+    "L L"
   ],
   "result": {
     "count": 1,
-    "id": "wizards:wand_frost"
+    "id": "archers:ranger_armor_head"
   }
 }

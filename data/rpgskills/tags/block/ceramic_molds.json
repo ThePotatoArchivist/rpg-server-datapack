@@ -1,0 +1,15 @@
+{
+  "values": [
+    "bobsmobgear:empty_template",
+    "bobsmobgear:sword_template",
+    "bobsmobgear:pickaxe_template",
+    "bobsmobgear:axe_template",
+    "bobsmobgear:shovel_template",
+    "bobsmobgear:hoe_template",
+    "downtoearth:ceramic_helmet_mold_template",
+    "downtoearth:ceramic_chestplate_mold_template",
+    "downtoearth:ceramic_leggings_mold_template",
+    "downtoearth:ceramic_boots_mold_template"
+  ],
+  "replace": false
+}

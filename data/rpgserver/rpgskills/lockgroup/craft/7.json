@@ -1,0 +1,25 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 7
+    }
+  ],
+  "recipes": [
+    "bobsmobgear:forge",
+    "bobsmobgear:empty_pot",
+    "bobsmobgear:smithing_tongs",
+    "downtoearth:stone_anvil",
+    "#rpgskills:clay_armor_molds",
+    "#rpgskills:copper_tools",
+    "#rpgskills:copper_weapons"
+  ],
+  "items": [
+    "#rpgskills:crucibles",
+    "bobsmobgear:smithing_tongs",
+    "downtoearth:stone_smithing_hammer"
+  ],
+  "blocks": [
+    "bobsmobgear:forge",
+    "#rpgskills:ceramic_molds"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "downtoearth:chiseled_tin",
+    "downtoearth:tin_grate",
+    "downtoearth:cut_tin",
+    "downtoearth:cut_tin_stairs",
+    "downtoearth:cut_tin_slab",
+    "downtoearth:tin_door",
+    "downtoearth:tin_trapdoor"
+  ],
+
+  "replace": false
+}

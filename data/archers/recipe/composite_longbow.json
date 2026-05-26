@@ -2,19 +2,23 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "I": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "B": {
       "item": "minecraft:copper_ingot"
     },
-    "S": {
-      "item": "minecraft:snowball"
+    "X": {
+      "item": "minecraft:string"
     }
   },
   "pattern": [
-    " S",
-    "I "
+    " #X",
+    "B X",
+    " #X"
   ],
   "result": {
     "count": 1,
-    "id": "wizards:wand_frost"
+    "id": "archers:composite_longbow"
   }
 }

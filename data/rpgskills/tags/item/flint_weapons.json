@@ -1,0 +1,9 @@
+{
+  "values": [
+    "rogues:flint_dagger",
+    "archers:flint_spear",
+    "wizards:wand_novice"
+  ],
+
+  "replace": false
+}

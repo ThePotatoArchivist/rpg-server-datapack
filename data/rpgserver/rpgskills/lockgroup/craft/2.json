@@ -8,17 +8,16 @@
     "minecraft:loom"
   ],
   "recipes": [
-    "minecraft:loom",
-    "minecraft:fletching_table",
     "minecraft:chiseled_bookshelf",
+    "minecraft:fletching_table",
+    "minecraft:loom",
     "minecraft:barrel",
     "minecraft:chest",
     "minecraft:ladder",
     "minecraft:painting",
-    "#minecraft:beds",
-    "#minecraft:wool",
-    "#minecraft:wool_carpets",
-    "#minecraft:banners",
-    "#rpgskills:craftable_dyes"
+    "#rpgskills:crafted_banner_patterns",
+    "#rpgskills:crafted_dyes",
+    "#rpgskills:wool_decorations",
+    "#minecraft:beds"
   ]
 }

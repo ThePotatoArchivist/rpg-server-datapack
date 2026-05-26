@@ -1,0 +1,9 @@
+{
+  "values": [
+    "downtoearth:clay_helmet_mold",
+    "downtoearth:clay_chestplate_mold",
+    "downtoearth:clay_leggings_mold",
+    "downtoearth:clay_boots_mold"
+  ],
+  "replace": false
+}

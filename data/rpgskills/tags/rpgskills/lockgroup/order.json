@@ -4,7 +4,9 @@
     "rpgserver:cra_aff/4",
     "rpgserver:cra_aff/6",
     "rpgserver:craft/4a",
-    "rpgserver:craft/4"
+    "rpgserver:craft/4",
+    "rpgserver:arc_cra/15",
+    "rpgserver:cra_aff/9"
   ],
   "replace": true
 }

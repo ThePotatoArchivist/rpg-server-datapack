@@ -5,21 +5,11 @@
     }
   ],
   "recipes": [
-    "minecraft:bamboo_mosaic",
     "minecraft:coarse_dirt",
+    "minecraft:muddy_mangrove_roots",
     "minecraft:packed_mud",
-    "minecraft:mud_bricks",
-    "minecraft:mud_brick_stairs",
-    "minecraft:mud_brick_slab",
-    "minecraft:mud_brick_wall",
-    "#minecraft:wooden_stairs",
-    "#minecraft:wooden_slabs",
-    "#c:fences/wooden",
-    "#minecraft:fence_gates",
-    "#minecraft:wooden_doors",
-    "#minecraft:wooden_trapdoors",
-    "#rpgskills:wooden_shelves",
-    "#minecraft:signs",
-    "#minecraft:hanging_signs"
+    "#rpgskills:packed_mud_decorations",
+    "#rpgskills:wooden_decorations",
+    "#rpgskills:wood_blocks"
   ]
 }

@@ -5,12 +5,14 @@
     }
   ],
   "items": [
-    "minecraft:wooden_hoe"
+    "minecraft:wooden_hoe",
+    "minecraft:fishing_rod"
   ],
   "blocks": [
     "#minecraft:campfires"
   ],
   "recipes": [
-    "minecraft:campfire"
+    "minecraft:campfire",
+    "minecraft:lead"
   ]
 }

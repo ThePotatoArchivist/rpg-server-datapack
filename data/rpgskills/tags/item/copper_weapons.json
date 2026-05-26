@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:copper_sword",
+    "wizards:wand_arcane",
+    "wizards:wand_fire",
+    "wizards:wand_frost",
+    "paladins:holy_wand",
+    "archers:composite_longbow",
+    "minecraft:crossbow"
+  ],
+
+  "replace": false
+}

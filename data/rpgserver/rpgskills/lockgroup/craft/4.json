@@ -7,20 +7,13 @@
   "recipes": [
     "minecraft:furnace",
     "minecraft:grindstone",
-    "downtoearth:stone_smithing_hammer",
-    "minecraft:stone_shovel",
-    "minecraft:stone_pickaxe",
-    "minecraft:stone_axe",
-    "minecraft:stone_hoe",
-    "minecraft:stone_sword",
-    "rogues:stone_double_axe",
-    "paladins:stone_claymore",
-    "paladins:stone_great_hammer",
-    "minecraft:shield",
-    "minecraft:andesite",
-    "minecraft:diorite",
-    "minecraft:granite",
-    "#rpgskills:clay_tool_molds"
+    "minecraft:glass_bottle",
+    "#rpgskills:clay_tool_molds",
+    "#rpgskills:stone_tools",
+    "#rpgskills:stone_weapons",
+    "#minecraft:bundles",
+    "archers:small_quiver",
+    "runes:small_rune_pouch"
   ],
   "blocks": [
     "minecraft:grindstone"

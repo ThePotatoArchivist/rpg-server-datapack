@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:stone_sword",
+    "rogues:stone_double_axe",
+    "paladins:stone_claymore",
+    "paladins:stone_great_hammer",
+    "minecraft:shield"
+  ],
+
+  "replace": false
+}

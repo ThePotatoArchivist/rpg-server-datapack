@@ -3,10 +3,10 @@
   "category": "equipment",
   "key": {
     "I": {
-      "item": "minecraft:copper_ingot"
+      "item": "minecraft:stick"
     },
     "S": {
-      "item": "minecraft:snowball"
+      "item": "minecraft:flint"
     }
   },
   "pattern": [
@@ -15,6 +15,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "wizards:wand_frost"
+    "id": "wizards:wand_novice"
   }
 }

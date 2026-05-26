@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:wool",
+    "#minecraft:wool_carpets",
+    "#minecraft:banners"
+  ],
+
+  "replace": false
+}

@@ -7,9 +7,5 @@
   "items": [
     "wizards:staff_wizard",
     "runes:medium_rune_pouch"
-  ],
-  "recipes": [
-    "minecraft:soul_campfire",
-    "minecraft:soul_torch"
   ]
 }

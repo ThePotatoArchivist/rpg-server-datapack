@@ -1,0 +1,34 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 6
+    }
+  ],
+  "recipes": [
+    "minecraft:flower_pot",
+    "minecraft:decorated_pot",
+    "minecraft:andesite",
+    "minecraft:diorite",
+    "minecraft:granite",
+    "minecraft:cinnabar",
+    "minecraft:sulfur",
+    "minecraft:potent_sulfur",
+    "minecraft:amethyst_block",
+    "minecraft:tinted_glass",
+    "#rpgskills:stone_decorations",
+    "#rpgskills:sandstone_decorations",
+    "#rpgskills:red_sandstone_decorations",
+    "#rpgskills:andesite_decorations",
+    "#rpgskills:diorite_decorations",
+    "#rpgskills:granite_decorations",
+    "#rpgskills:cinnabar_decorations",
+    "#rpgskills:sulfur_decorations",
+    "#rpgskills:tuff_decorations",
+    "#rpgskills:brick_decorations",
+    "#rpgskills:resin_brick_decorations",
+    "#rpgskills:dyed_terracotta",
+    "#c:concrete_powder",
+    "#rpgskills:dyed_glass",
+    "#c:glass_panes"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "values": [
+    "bobsmobgear:empty_pot",
+    "downtoearth:copper_pot",
+    "downtoearth:tin_pot",
+    "downtoearth:bronze_pot",
+    "bobsmobgear:iron_pot",
+    "downtoearth:steel_pot",
+    "bobsmobgear:diamond_pot",
+    "bobsmobgear:netherite_pot"
+  ],
+
+  "replace": false
+}

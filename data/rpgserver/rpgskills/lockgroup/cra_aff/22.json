@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 5
+    },
+    {
+      "rpgserver:affinity": 17
+    }
+  ],
+  "recipes": [
+    "#minecraft:harnesses"
+  ]
+}

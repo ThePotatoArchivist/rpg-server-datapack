@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 9
+    }
+  ],
+  "recipes": [
+    "#rpgskills:copper_decorations",
+    "#rpgskills:tin_decorations"
+  ]
+}

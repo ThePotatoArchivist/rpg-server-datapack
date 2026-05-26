@@ -9,6 +9,8 @@
   ],
   "recipes": [
     "minecraft:conduit",
-    "minecraft:wind_charge"
+    "minecraft:wind_charge",
+    "minecraft:soul_campfire",
+    "minecraft:soul_torch"
   ]
 }
