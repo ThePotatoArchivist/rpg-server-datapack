@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 11
+    }
+  ],
+  "blocks": [
+    "minecraft:stonecutter"
+  ],
+  "recipes": [
+    "#rpgskills:bronze_armor",
+    "#rpgskills:assassin_armor",
+    "#rpgskills:warrior_armor",
+    "minecraft:stonecutter",
+    "rogues:arms_workbench"
+  ]
+}

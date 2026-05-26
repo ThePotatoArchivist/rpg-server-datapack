@@ -14,7 +14,9 @@
     "#rpgskills:copper_weapons"
   ],
   "items": [
-    "#rpgskills:crucibles",
+    "bobsmobgear:empty_pot",
+    "downtoearth:copper_pot",
+    "downtoearth:tin_pot",
     "bobsmobgear:smithing_tongs",
     "downtoearth:stone_smithing_hammer"
   ],

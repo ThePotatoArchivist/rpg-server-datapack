@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "W": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "L L",
+    "W W"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rogues:warrior_armor_feet"
+  }
+}

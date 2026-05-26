@@ -6,7 +6,7 @@
   ],
   "items": [
     "archers:mechanic_shortbow",
-    "archers:medium_quiver",
-    "minecraft:iron_sword"
+    "minecraft:iron_sword",
+    "archers:medium_quiver"
   ]
 }

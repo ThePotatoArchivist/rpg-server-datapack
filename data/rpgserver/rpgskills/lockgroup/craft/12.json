@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 12
+    }
+  ],
+  "recipes": [
+    "minecraft:lantern",
+    "minecraft:chain",
+    "minecraft:iron_bars",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor"
+  ]
+}

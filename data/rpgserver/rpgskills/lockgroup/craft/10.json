@@ -1,0 +1,20 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 10
+    }
+  ],
+  "items": [
+    "downtoearth:bronze_pot",
+    "bobsmobgear:iron_pot"
+  ],
+  "blocks": [
+    "bobsmobgear:forge_heater"
+  ],
+  "recipes": [
+    "downtoearth:bronze_mix",
+    "#rpgskills:bronze_tools",
+    "downtoearth:bronze_sword",
+    "bobsmobgear:forge_heater"
+  ]
+}

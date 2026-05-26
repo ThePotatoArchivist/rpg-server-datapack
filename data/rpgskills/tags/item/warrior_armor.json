@@ -1,0 +1,9 @@
+{
+  "values": [
+    "rogues:warrior_armor_head",
+    "rogues:warrior_armor_chest",
+    "rogues:warrior_armor_legs",
+    "rogues:warrior_armor_feet"
+  ],
+  "replace": false
+}

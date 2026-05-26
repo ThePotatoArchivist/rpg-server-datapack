@@ -5,7 +5,8 @@
     }
   ],
   "blocks": [
-    "minecraft:brewing_stand"
+    "minecraft:brewing_stand",
+    "runes:crafting_altar"
   ],
   "items": [
     "minecraft:ender_eye"

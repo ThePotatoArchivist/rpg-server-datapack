@@ -8,6 +8,7 @@
     }
   ],
   "recipes": [
-    "minecraft:brewing_stand"
+    "minecraft:brewing_stand",
+    "runes:crafting_altar"
   ]
 }
