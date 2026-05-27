@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 16
+    }
+  ],
+  "recipes": [
+    "downtoearth:steel_pot",
+    "#rpgskills:steel_tools",
+    "#rpgskills:steel_weapons"
+  ]
+}

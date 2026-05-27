@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:iron_shovel",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_axe",
+    "minecraft:iron_hoe",
+    "bobsmobgear:smithing_hammer",
+    "minecraft:shears",
+    "minecraft:bucket"
+  ],
+
+  "replace": false
+}

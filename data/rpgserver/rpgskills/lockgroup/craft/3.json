@@ -4,12 +4,20 @@
       "rpgserver:craft": 3
     }
   ],
+  "blocks": [
+    "minecraft:loom"
+  ],
   "recipes": [
+    "minecraft:painting",
+    "#rpgskills:moss_carpets",
     "minecraft:coarse_dirt",
     "minecraft:muddy_mangrove_roots",
     "minecraft:packed_mud",
     "#rpgskills:packed_mud_decorations",
     "#rpgskills:wooden_decorations",
-    "#rpgskills:wood_blocks"
+    "#rpgskills:wood_blocks",
+    "#rpgskills:crafted_banner_patterns",
+    "#rpgskills:crafted_dyes",
+    "#rpgskills:wool_decorations"
   ]
 }

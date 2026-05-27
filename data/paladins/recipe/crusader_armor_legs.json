@@ -2,19 +2,23 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "A": {
-      "item": "minecraft:diamond"
+    "G": {
+      "item": "minecraft:gold_ingot"
     },
-    "H": {
+    "I": {
       "item": "downtoearth:steel_ingot"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
     }
   },
   "pattern": [
-    " A",
-    "H "
+    "GTG",
+    "I I",
+    "G G"
   ],
   "result": {
     "count": 1,
-    "id": "paladins:diamond_holy_wand"
+    "id": "paladins:crusader_armor_legs"
   }
 }

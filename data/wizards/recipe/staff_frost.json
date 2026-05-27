@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "Q": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "I": {
+      "item": "minecraft:snowball"
+    },
+    "S": {
+      "item": "downtoearth:steel_ingot"
+    },
+    "G": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " IQ",
+    " SI",
+    "G  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "wizards:staff_frost"
+  }
+}

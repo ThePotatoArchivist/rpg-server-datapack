@@ -1,0 +1,9 @@
+{
+  "values": [
+    "paladins:prior_robe_head",
+    "paladins:prior_robe_chest",
+    "paladins:prior_robe_legs",
+    "paladins:prior_robe_feet"
+  ],
+  "replace": false
+}

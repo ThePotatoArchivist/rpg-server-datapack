@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#minecraft:anvil"
+  ],
+  "remove": ["downtoearth:stone_anvil"],
+  "replace": false
+}

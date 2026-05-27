@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 18
+    }
+  ],
+  "recipes": [
+    "#rpgskills:deepslate_decorations",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "Q": {
+      "item": "minecraft:ender_pearl"
+    },
+    "I": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "item": "downtoearth:steel_ingot"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    " IQ",
+    " SI",
+    "G  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "wizards:staff_arcane"
+  }
+}

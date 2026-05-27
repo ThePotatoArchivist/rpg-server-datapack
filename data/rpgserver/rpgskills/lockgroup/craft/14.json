@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 14
+    }
+  ],
+  "recipes": [
+    "#rpgskills:iron_armor",
+    "#rpgskills:paladin_armor",
+    "#rpgskills:elemental_robes",
+    "#rpgskills:prior_robe",
+    "paladins:monk_workbench"
+  ]
+}

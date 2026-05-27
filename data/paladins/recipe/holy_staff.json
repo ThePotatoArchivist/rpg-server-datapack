@@ -3,18 +3,19 @@
   "category": "equipment",
   "key": {
     "A": {
-      "item": "minecraft:diamond"
+      "item": "downtoearth:bronze_ingot"
     },
     "H": {
-      "item": "downtoearth:steel_ingot"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    " A",
-    "H "
+    " AA",
+    " HA",
+    "H  "
   ],
   "result": {
     "count": 1,
-    "id": "paladins:diamond_holy_wand"
+    "id": "paladins:holy_staff"
   }
 }

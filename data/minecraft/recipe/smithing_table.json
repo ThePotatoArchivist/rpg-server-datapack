@@ -2,19 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "A": {
-      "item": "minecraft:diamond"
+    "C": {
+      "tag": "minecraft:planks"
     },
-    "H": {
+    "/": {
       "item": "downtoearth:steel_ingot"
     }
   },
   "pattern": [
-    " A",
-    "H "
+    "//",
+    "CC",
+    "CC"
   ],
   "result": {
     "count": 1,
-    "id": "paladins:diamond_holy_wand"
+    "id": "minecraft:smithing_table"
   }
 }

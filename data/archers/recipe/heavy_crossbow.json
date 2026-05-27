@@ -2,19 +2,26 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "A": {
+    "D": {
       "item": "minecraft:diamond"
     },
-    "H": {
+    "I": {
       "item": "downtoearth:steel_ingot"
+    },
+    "T": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "X": {
+      "item": "minecraft:string"
     }
   },
   "pattern": [
-    " A",
-    "H "
+    "IDI",
+    "XTX",
+    " I "
   ],
   "result": {
     "count": 1,
-    "id": "paladins:diamond_holy_wand"
+    "id": "archers:heavy_crossbow"
   }
 }

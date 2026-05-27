@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:iron_sword",
+    "rogues:iron_dagger",
+    "rogues:iron_sickle",
+    "rogues:iron_double_axe",
+    "rogues:iron_glaive",
+    "archers:iron_spear",
+    "paladins:iron_claymore",
+    "paladins:iron_great_hammer",
+    "paladins:iron_mace",
+    "wizards:staff_wizard",
+    "archers:mechanic_shortbow",
+    "archers:rapid_crossbow",
+    "paladins:iron_kite_shield"
+  ],
+
+  "replace": false
+}

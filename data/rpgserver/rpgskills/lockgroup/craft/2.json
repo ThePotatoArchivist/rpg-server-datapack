@@ -4,9 +4,6 @@
       "rpgserver:craft": 2
     }
   ],
-  "blocks": [
-    "minecraft:loom"
-  ],
   "recipes": [
     "minecraft:chiseled_bookshelf",
     "minecraft:fletching_table",
@@ -14,10 +11,6 @@
     "minecraft:barrel",
     "minecraft:chest",
     "minecraft:ladder",
-    "minecraft:painting",
-    "#rpgskills:crafted_banner_patterns",
-    "#rpgskills:crafted_dyes",
-    "#rpgskills:wool_decorations",
     "#minecraft:beds"
   ]
 }

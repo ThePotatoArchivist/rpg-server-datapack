@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 15
+    }
+  ],
+  "recipes": [
+    "minecraft:soul_lantern",
+    "#minecraft:candles",
+    "minecraft:honeycomb_block",
+    "minecraft:magma_block",
+    "minecraft:nether_wart_block",
+    "minecraft:polished_basalt",
+    "#rpgskills:blackstone_decorations",
+    "#rpgskills:nether_brick_decorations",
+    "#rpgskills:quartz_decorations",
+    "#rpgskills:prismarine_decorations"
+  ]
+}

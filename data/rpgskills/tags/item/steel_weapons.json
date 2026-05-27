@@ -1,0 +1,12 @@
+{
+  "values": [
+    "downtoearth:steel_sword",
+    "wizards:staff_arcane",
+    "wizards:staff_fire",
+    "wizards:staff_frost",
+    "paladins:diamond_holy_staff",
+    "archers:heavy_crossbow"
+  ],
+
+  "replace": false
+}

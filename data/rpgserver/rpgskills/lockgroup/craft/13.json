@@ -1,0 +1,20 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 13
+    }
+  ],
+  "blocks": [
+    "minecraft:blast_furnace",
+    "#rpgskills:anvil"
+  ],
+  "recipes": [
+    "minecraft:blast_furnace",
+    "minecraft:anvil",
+    "minecraft:cauldron",
+    "#rpgskills:iron_tools",
+    "#rpgskills:iron_weapons",
+    "archers:medium_quiver",
+    "runes:medium_rune_pouch"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 17
+    }
+  ],
+  "blocks": [
+    "minecraft:smithing_table"
+  ],
+  "recipes": [
+    "#rpgskills:steel_armor",
+    "#rpgskills:crusader_armor",
+    "#minecraft:trim_templates",
+    "minecraft:smithing_table"
+  ]
+}

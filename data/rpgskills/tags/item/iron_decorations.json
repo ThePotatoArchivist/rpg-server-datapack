@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:lantern",
+    "minecraft:chain",
+    "minecraft:iron_bars",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor"
+  ],
+
+  "replace": false
+}

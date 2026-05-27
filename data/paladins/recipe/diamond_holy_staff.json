@@ -10,11 +10,12 @@
     }
   },
   "pattern": [
-    " A",
-    "H "
+    " AA",
+    " HA",
+    "H  "
   ],
   "result": {
     "count": 1,
-    "id": "paladins:diamond_holy_wand"
+    "id": "paladins:diamond_holy_staff"
   }
 }

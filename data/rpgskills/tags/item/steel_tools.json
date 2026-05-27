@@ -1,0 +1,10 @@
+{
+  "values": [
+    "downtoearth:steel_shovel",
+    "downtoearth:steel_pickaxe",
+    "downtoearth:steel_axe",
+    "downtoearth:steel_hoe"
+  ],
+
+  "replace": false
+}

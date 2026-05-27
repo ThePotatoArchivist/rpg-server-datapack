@@ -10,6 +10,7 @@
     "minecraft:andesite",
     "minecraft:diorite",
     "minecraft:granite",
+    "minecraft:dripstone_block",
     "minecraft:cinnabar",
     "minecraft:sulfur",
     "minecraft:potent_sulfur",
@@ -28,7 +29,7 @@
     "#rpgskills:resin_brick_decorations",
     "#rpgskills:dyed_terracotta",
     "#c:concrete_powder",
-    "#rpgskills:dyed_glass",
+    "#rpgskills:stained_glass",
     "#c:glass_panes"
   ]
 }

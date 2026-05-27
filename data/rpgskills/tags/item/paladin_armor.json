@@ -1,0 +1,9 @@
+{
+  "values": [
+    "paladins:paladin_armor_head",
+    "paladins:paladin_armor_chest",
+    "paladins:paladin_armor_legs",
+    "paladins:paladin_armor_feet"
+  ],
+  "replace": false
+}
