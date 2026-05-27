@@ -4,8 +4,10 @@
       "rpgserver:craft": 16
     }
   ],
+  "items": [
+    "downtoearth:steel_pot"
+  ],
   "recipes": [
-    "downtoearth:steel_pot",
     "#rpgskills:steel_tools",
     "#rpgskills:steel_weapons"
   ]

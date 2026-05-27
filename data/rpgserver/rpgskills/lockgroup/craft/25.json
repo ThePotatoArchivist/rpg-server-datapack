@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 25
+    }
+  ],
+  "recipes": [
+    "#rpgskills:netherite_armor",
+    "#rpgskills:netherite_assassin_armor",
+    "#rpgskills:netherite_berserker_armor",
+    "#rpgskills:netherite_ranger_armor",
+    "#rpgskills:netherite_elemental_robes",
+    "#rpgskills:netherite_crusader_armor",
+    "#rpgskills:netherite_prior_robe"
+  ]
+}

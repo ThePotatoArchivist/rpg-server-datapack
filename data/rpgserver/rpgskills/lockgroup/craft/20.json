@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 20
+    }
+  ],
+  "items": [
+    "bobsmobgear:diamond_pot"
+  ],
+  "recipes": [
+    "downtoearth:diamond_upgrade_smithing_template",
+    "#rpgskills:diamond_tools",
+    "#rpgskills:diamond_weapons",
+    "archers:large_quiver",
+    "runes:large_rune_pouch"
+  ]
+}

@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "D": {
-      "item": "minecraft:diamond"
+      "item": "downtoearth:diamond_shard"
     },
     "I": {
       "item": "downtoearth:steel_ingot"

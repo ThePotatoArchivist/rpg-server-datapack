@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_hoe"
+  ],
+
+  "replace": false
+}

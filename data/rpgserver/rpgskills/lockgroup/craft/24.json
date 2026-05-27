@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 24
+    }
+  ],
+  "items": [
+    "bobsmobgear:netherite_pot"
+  ],
+  "recipes": [
+    "minecraft:netherite_upgrade_smithing_template",
+    "#rpgskills:netherite_tools",
+    "#rpgskills:netherite_weapons"
+  ]
+}

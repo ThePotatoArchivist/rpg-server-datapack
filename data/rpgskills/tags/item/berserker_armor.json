@@ -1,0 +1,9 @@
+{
+  "values": [
+    "rogues:berserker_armor_head",
+    "rogues:berserker_armor_chest",
+    "rogues:berserker_armor_legs",
+    "rogues:berserker_armor_feet"
+  ],
+  "replace": false
+}

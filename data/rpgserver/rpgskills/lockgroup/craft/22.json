@@ -1,0 +1,22 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 22
+    }
+  ],
+  "recipes": [
+    "enderscape:bulb_lantern",
+    "minecraft:end_rod",
+    "enderscape:end_lamp",
+    "enderscape:blinklamp",
+    "#rpgskills:end_stone_decorations",
+    "#rpgskills:veradite_decorations",
+    "#rpgskills:mirestone_decorations",
+    "#rpgskills:kurodite_decorations",
+    "#rpgskills:etched_magnia",
+    "#rpgskills:purpur_decorations",
+    "#rpgskills:celestial_brick_decorations",
+    "#rpgskills:murublight_brick_decorations",
+    "#rpgskills:shadoline_decorations"
+  ]
+}

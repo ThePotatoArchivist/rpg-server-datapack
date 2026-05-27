@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 21
+    }
+  ],
+  "recipes": [
+    "#rpgskills:diamond_armor",
+    "#rpgskills:berserker_armor"
+  ]
+}

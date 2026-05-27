@@ -1,0 +1,18 @@
+{
+  "values": [
+    "minecraft:diamond_sword",
+    "rogues:diamond_dagger",
+    "rogues:diamond_sickle",
+    "rogues:diamond_double_axe",
+    "rogues:diamond_glaive",
+    "archers:diamond_spear",
+    "paladins:diamond_claymore",
+    "paladins:diamond_great_hammer",
+    "paladins:diamond_mace",
+    "paladins:diamond_holy_staff",
+    "archers:royal_longbow",
+    "paladins:diamond_kite_shield"
+  ],
+
+  "replace": false
+}
