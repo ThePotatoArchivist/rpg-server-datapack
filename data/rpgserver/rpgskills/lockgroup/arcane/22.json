@@ -10,5 +10,21 @@
   "recipes": [
     "minecraft:beacon",
     "minecraft:end_crystal"
+  ],
+  "enchantments": [
+    "minecraft:channeling",
+    "minecraft:depth_strider",
+    "minecraft:fire_aspect",
+    "minecraft:flame",
+    "minecraft:fortune",
+    "minecraft:frost_walker",
+    "minecraft:infinity",
+    "bobsmobgear:mender",
+    "minecraft:multishot",
+    "minecraft:respiration",
+    "minecraft:riptide",
+    "minecraft:silk_touch",
+    "spell_engine:spell_infinity",
+    "minecraft:thorns"
   ]
 }

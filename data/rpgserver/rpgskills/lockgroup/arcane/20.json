@@ -10,5 +10,24 @@
     "wizards:wand_netherite_arcane",
     "enderscape:magnia_attractor",
     "runes:large_rune_pouch"
+  ],
+  "enchantments": [
+    "spell_power:critical_damage",
+    "minecraft:aqua_affinity",
+    "minecraft:bane_of_arthropods",
+    "minecraft:blast_protection",
+    "minecraft:breach",
+    "minecraft:density",
+    "minecraft:feather_falling",
+    "minecraft:fire_protection",
+    "minecraft:knockback",
+    "minecraft:looting",
+    "minecraft:luck_of_the_sea",
+    "spell_power:magic_protection",
+    "minecraft:punch",
+    "minecraft:projectile_protection",
+    "minecraft:smite",
+    "spell_power:critical_chance",
+    "minecraft:sweeping_edge"
   ]
 }

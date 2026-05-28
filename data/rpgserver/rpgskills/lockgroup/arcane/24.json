@@ -8,5 +8,13 @@
     "wizards:staff_netherite_fire",
     "wizards:staff_netherite_frost",
     "wizards:staff_netherite_arcane"
+  ],
+  "enchantments": [
+    "enderscape:lightspeed",
+    "enderscape:rebound",
+    "minecraft:soul_speed",
+    "minecraft:swift_sneak",
+    "enderscape:transdimensional",
+    "minecraft:wind_burst"
   ]
 }

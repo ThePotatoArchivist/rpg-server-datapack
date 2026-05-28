@@ -13,6 +13,23 @@
   "minecraft:enchanting_table",
     "spell_engine:spell_binding"
   ],
+  "enchantments": [
+    "minecraft:efficiency",
+    "spell_power:energize",
+    "minecraft:impaling",
+    "minecraft:loyalty",
+    "minecraft:lure",
+    "minecraft:piercing",
+    "minecraft:power",
+    "minecraft:protection",
+    "minecraft:quick_charge",
+    "minecraft:sharpness",
+    "spell_power:soulfrost",
+    "spell_power:haste",
+    "spell_power:spell_power",
+    "spell_power:sunfire",
+    "minecraft:unbreaking"
+  ],
   "item_components": {
     "spell_engine:spell_scroll": {
         "type": "spell_engine:spell_container",
