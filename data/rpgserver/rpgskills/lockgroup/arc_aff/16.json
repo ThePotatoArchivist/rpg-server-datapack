@@ -7,6 +7,9 @@
       "rpgserver:affinity": 8
     }
   ],
+  "entities": [
+    "minecraft:zombie_villager"
+  ],
   "item_components": {
     "spell_engine:spell_scroll": {
       "type": "spell_engine:spell_container",

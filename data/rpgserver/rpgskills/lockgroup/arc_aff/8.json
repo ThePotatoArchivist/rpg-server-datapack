@@ -9,8 +9,5 @@
   ],
   "items": [
     "paladins:holy_wand"
-  ],
-  "entities": [
-    "minecraft:zombie_villager"
   ]
 }
