@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 18
+    }
+  ],
+  "entities": [
+    "minecraft:armadillo",
+    "minecraft:dolphin"
+  ]
+}

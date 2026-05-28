@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 8
+    }
+  ],
+  "entities": [
+    "minecraft:sheep",
+    "minecraft:pig",
+    "minecraft:goat",
+    "minecraft:cow",
+    "minecraft:mooshroom"
+  ]
+}

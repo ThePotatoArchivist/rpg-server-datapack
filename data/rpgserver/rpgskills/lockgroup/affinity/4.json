@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 4
+    }
+  ],
+  "items": [
+    "minecraft:stone_hoe"
+  ],
+  "blocks": [
+    "minecraft:composter"
+  ],
+  "entities": [
+    "minecraft:chicken",
+    "minecraft:cat",
+    "minecraft:wolf"
+  ]
+}

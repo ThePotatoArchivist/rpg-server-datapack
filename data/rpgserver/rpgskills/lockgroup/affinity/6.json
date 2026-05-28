@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 6
+    }
+  ],
+  "items": [
+    "minecraft:goat_horn"
+  ],
+  "blocks": [
+    "minecraft:smoker"
+  ],
+  "entities": [
+    "minecraft:rabbit"
+  ]
+}

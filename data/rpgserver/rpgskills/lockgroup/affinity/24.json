@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 24
+    }
+  ],
+  "items": [
+    "minecraft:netherite_hoe"
+  ]
+}

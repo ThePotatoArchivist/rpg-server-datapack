@@ -16,6 +16,7 @@
     "runes:small_rune_pouch"
   ],
   "blocks": [
+    "minecraft:furnace",
     "minecraft:grindstone"
   ]
 }

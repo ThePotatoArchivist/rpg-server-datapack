@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 20
+    }
+  ],
+  "items": [
+    "minecraft:diamond_hoe"
+  ],
+  "entities": [
+    "minecraft:ocelot",
+    "minecraft:polar_bear",
+    "minecraft:panda",
+    "minecraft:hoglin",
+    "minecraft:zoglin"
+  ]
+}

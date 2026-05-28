@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 7
+    }
+  ],
+  "items": [
+    "minecraft:copper_hoe",
+    "minecraft:brush"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 15
+    }
+  ],
+  "blocks": [
+    "minecraft:cartography_table"
+  ],
+  "recipes": [
+    "minecraft:map"
+  ]
+}

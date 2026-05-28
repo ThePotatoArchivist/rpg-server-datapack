@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 16
+    }
+  ],
+  "items": [
+    "downtoearth:steel_hoe",
+    "minecraft:sniffer_egg"
+  ],
+  "entities": [
+    "minecraft:fox",
+    "minecraft:parrot",
+    "minecraft:villager",
+    "minecraft:wandering_trader",
+    "minecraft:sniffer"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 13
+    }
+  ],
+  "items": [
+    "minecraft:iron_hoe",
+    "minecraft:shears"
+  ]
+}

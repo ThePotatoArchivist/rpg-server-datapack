@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 14
+    }
+  ],
+  "entities": [
+    "minecraft:bee",
+    "minecraft:frog",
+    "minecraft:axolotl",
+    "minecraft:allay",
+    "minecraft:sulfur_cube",
+    "minecraft:turtle"
+  ]
+}
