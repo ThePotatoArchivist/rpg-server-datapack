@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 3
+    }
+  ],
+  "items": [
+    "minecraft:scaffolding"
+  ],
+  "recipes": [
+    "minecraft:scaffolding",
+    "#minecraft:boats"
+  ]
+}

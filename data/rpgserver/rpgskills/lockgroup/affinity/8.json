@@ -10,5 +10,9 @@
     "minecraft:goat",
     "minecraft:cow",
     "minecraft:mooshroom"
+  ],
+    "recipes": [
+    "minecraft:mushroom_stew",
+    "minecraft:suspicious_stew"
   ]
 }

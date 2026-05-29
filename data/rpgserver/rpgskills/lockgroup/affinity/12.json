@@ -4,7 +4,14 @@
       "rpgserver:affinity": 12
     }
   ],
+  "items": [
+    "minecraft:melon_seeds",
+    "minecraft:bamboo"
+  ],
   "entities": [
     "minecraft:camel"
+  ],
+  "recipes": [
+    "minecraft:melon_seeds"
   ]
 }

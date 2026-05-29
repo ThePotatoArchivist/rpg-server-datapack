@@ -7,5 +7,10 @@
   "items": [
     "minecraft:iron_hoe",
     "minecraft:shears"
+  ],
+  "recipes": [
+    "minecraft:glistering_melon_slice",
+    "minecraft:golden_apple",
+    "minecraft:cake"
   ]
 }

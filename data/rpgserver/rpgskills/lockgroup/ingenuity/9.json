@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 9
+    }
+  ],
+  "items": [
+    "minecraft:lightning_rod"
+  ],
+  "recipes": [
+    "minecraft:lightning_rod",
+    "minecraft:spyglass"
+  ]
+}

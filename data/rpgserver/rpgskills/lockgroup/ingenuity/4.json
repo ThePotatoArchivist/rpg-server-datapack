@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 4
+    }
+  ],
+  "items": [
+    "minecraft:lever"
+  ],
+  "recipes": [
+    "minecraft:lever"
+  ]
+}

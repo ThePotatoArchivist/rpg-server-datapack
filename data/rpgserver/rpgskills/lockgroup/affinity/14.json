@@ -4,6 +4,9 @@
       "rpgserver:affinity": 14
     }
   ],
+  "items": [
+    "minecraft:nether_wart"
+  ],
   "entities": [
     "minecraft:bee",
     "minecraft:frog",

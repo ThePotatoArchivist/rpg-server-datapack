@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 9
+    }
+  ],
+  "items": [
+    "minecraft:pumpkin_seeds"
+  ],
+    "recipes": [
+    "minecraft:pumpkin_seeds",
+    "minecraft:pumpkin_pie"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 14
+    }
+  ],
+  "items": [
+    "minecraft:repeater",
+    "minecraft:piston",
+    "minecraft:sticky_piston"
+],
+  "recipes": [
+    "minecraft:repeater",
+    "minecraft:piston",
+    "minecraft:sticky_piston",
+    "minecraft:target",
+    "minecraft:clock"
+  ]
+}

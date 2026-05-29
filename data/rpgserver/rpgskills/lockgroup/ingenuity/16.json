@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 16
+    }
+  ],
+  "items": [
+    "minecraft:calibrated_sculk_sensor"
+],
+  "recipes": [
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:jukebox",
+    "minecraft:music_disc_5",
+    "enderscape:music_disc_bliss"
+  ]
+}

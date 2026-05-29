@@ -5,6 +5,11 @@
     }
   ],
   "items": [
-    "minecraft:netherite_hoe"
+    "minecraft:netherite_hoe",
+    "minecraft:chorus_flower",
+    "enderscape:flanger_berry_flower"
+  ],
+  "recipes": [
+    "enderscape:chorus_cake_roll"
   ]
 }

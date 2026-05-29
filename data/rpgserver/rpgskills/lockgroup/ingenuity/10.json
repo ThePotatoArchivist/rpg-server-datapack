@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 10
+    }
+  ],
+  "recipes": [
+    "archers:auto_fire_hook",
+    "minecraft:lodestone"
+  ]
+}

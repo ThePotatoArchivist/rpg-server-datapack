@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 7
+    }
+  ],
+  "items": [
+    "minecraft:tripwire_hook"
+  ],
+  "recipes": [
+    "minecraft:tripwire_hook",
+    "minecraft:copper_torch",
+    "minecraft:trapped_chest"
+  ]
+}

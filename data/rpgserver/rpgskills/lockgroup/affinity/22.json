@@ -4,6 +4,9 @@
       "rpgserver:affinity": 22
     }
   ],
+  "items": [
+    "minecraft:pitcher_pod"
+  ],
   "entities": [
     "minecraft:happy_ghast",
     "minecraft:strider"

@@ -6,6 +6,7 @@
   ],
   "items": [
     "downtoearth:steel_hoe",
+    "minecraft:cocoa_beans",
     "minecraft:sniffer_egg"
   ],
   "entities": [
@@ -14,5 +15,8 @@
     "minecraft:villager",
     "minecraft:wandering_trader",
     "minecraft:sniffer"
+  ],
+  "recipes": [
+    "minecraft:cookie"
   ]
 }

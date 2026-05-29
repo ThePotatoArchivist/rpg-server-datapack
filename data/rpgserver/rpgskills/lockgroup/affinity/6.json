@@ -5,12 +5,18 @@
     }
   ],
   "items": [
-    "minecraft:goat_horn"
+    "minecraft:goat_horn",
+    "minecraft:beetroot_seeds",
+    "minecraft:cactus"
   ],
   "blocks": [
     "minecraft:smoker"
   ],
   "entities": [
     "minecraft:rabbit"
+  ],
+  "recipes": [
+    "minecraft:beetroot_soup",
+    "minecraft:rabbit_stew"
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 1
+    }
+  ],
+  "recipes": [
+    "minecraft:torch"
+  ]
+}

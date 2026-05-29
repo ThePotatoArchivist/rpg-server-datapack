@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 12
+    }
+  ],
+  "items": [
+    "minecraft:rail"
+  ],
+  "recipes": [
+    "minecraft:rail",
+    "#rpgskills:minecarts"
+  ]
+}

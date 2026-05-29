@@ -6,13 +6,15 @@
   ],
   "items": [
     "minecraft:wooden_hoe",
-    "minecraft:fishing_rod"
+    "minecraft:fishing_rod",
+    "minecraft:wheat_seeds"
   ],
   "blocks": [
     "#minecraft:campfires"
   ],
   "recipes": [
-    "minecraft:campfire",
-    "minecraft:lead"
+    "minecraft:bread",
+    "minecraft:lead",
+    "minecraft:campfire"
   ]
 }

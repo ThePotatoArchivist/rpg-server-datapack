@@ -5,7 +5,9 @@
     }
   ],
   "items": [
-    "minecraft:stone_hoe"
+    "minecraft:stone_hoe",
+    "minecraft:bone_meal",
+    "minecraft:sugar_cane"
   ],
   "blocks": [
     "minecraft:composter"
@@ -14,5 +16,9 @@
     "minecraft:chicken",
     "minecraft:cat",
     "minecraft:wolf"
+  ],
+  "recipes": [
+    "minecraft:sugar",
+    "minecraft:bone_meal"
   ]
 }

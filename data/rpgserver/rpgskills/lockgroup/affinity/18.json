@@ -4,6 +4,9 @@
       "rpgserver:affinity": 18
     }
   ],
+  "items": [
+    "minecraft:torchflower_seeds"
+  ],
   "entities": [
     "minecraft:armadillo",
     "minecraft:dolphin"
