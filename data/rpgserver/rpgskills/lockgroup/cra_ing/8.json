@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 2
+    },
+    {
+      "rpgserver:ingenuity": 6
+    }
+  ],
+  "recipes": [
+    "minecraft:firework_rocket"
+  ]
+}

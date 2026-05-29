@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 14
+    },
+    {
+      "rpgserver:craft": 13
+    }
+  ],
+  "recipes": [
+    "minecraft:mace"
+  ]
+}

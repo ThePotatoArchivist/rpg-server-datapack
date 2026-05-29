@@ -12,6 +12,8 @@
     "minecraft:ender_eye"
   ],
   "recipes": [
-    "minecraft:ender_eye"
+    "minecraft:ender_eye",
+    "minecraft:spectral_arrow",
+    "minecraft:tipped_arrow"
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 30
+    }
+  ],
+  "items": [
+    "bobsmobgear:warden_gauntlet"
+  ]
+}

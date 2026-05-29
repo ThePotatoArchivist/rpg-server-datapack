@@ -4,6 +4,9 @@
       "rpgserver:arcane": 4
     }
   ],
+  "items": [
+    "minecraft:ender_pearl"
+  ],
   "item_components": {
     "spell_engine:spell_scroll": {
         "type": "spell_engine:spell_container",

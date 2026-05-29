@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 30
+    }
+  ],
+  "recipes": [
+    "bobsmobgear:warden_gauntlet"
+  ]
+}

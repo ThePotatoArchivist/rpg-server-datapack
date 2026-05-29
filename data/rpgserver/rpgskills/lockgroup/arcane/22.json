@@ -12,6 +12,7 @@
     "minecraft:end_crystal"
   ],
   "enchantments": [
+    "create:capacity",
     "minecraft:channeling",
     "minecraft:depth_strider",
     "minecraft:fire_aspect",
@@ -21,6 +22,7 @@
     "minecraft:infinity",
     "bobsmobgear:mender",
     "minecraft:multishot",
+    "create:potato_recovery",
     "minecraft:respiration",
     "minecraft:riptide",
     "minecraft:silk_touch",
