@@ -8,6 +8,7 @@
     }
   ],
   "recipes": [
-    "#rpgskills:rubble_shields"
+    "#rpgskills:rubble_shields",
+    "enderscape:drift_leggings"
   ]
 }
