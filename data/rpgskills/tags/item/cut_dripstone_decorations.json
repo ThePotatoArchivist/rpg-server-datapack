@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/dripstone",
+    "create:cut_dripstone_slab",
+    "create:polished_cut_dripstone_slab",
+    "create:cut_dripstone_brick_slab",
+    "create:small_dripstone_brick_slab"
+  ],
+  "remove": [
+    "minecraft:dripstone",
+    "create:layered_dripstone",
+    "create:dripstone_pillar"
+  ],
+  "replace": false
+}

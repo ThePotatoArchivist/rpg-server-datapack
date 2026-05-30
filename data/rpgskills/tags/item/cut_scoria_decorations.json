@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/scoria",
+    "create:cut_scoria_slab",
+    "create:polished_cut_scoria_slab",
+    "create:cut_scoria_brick_slab",
+    "create:small_scoria_brick_slab"
+  ],
+  "remove": [
+    "create:scoria",
+    "create:layered_scoria",
+    "create:scoria_pillar"
+  ],
+  "replace": false
+}

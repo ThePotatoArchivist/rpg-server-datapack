@@ -4,7 +4,26 @@
       "rpgserver:craft": 12
     }
   ],
+  "blocks": [
+    "minecraft:stonecutter"
+  ],
   "recipes": [
+    "#rpgskills:cut_andesite_decorations",
+    "#rpgskills:cut_diorite_decorations",
+    "#rpgskills:cut_granite_decorations",
+    "#rpgskills:cut_dripstone_decorations",
+    "#rpgskills:cut_tuff_decorations",
+    "#rpgskills:cut_calcite_decorations",
+    "#rpgskills:cut_asurine_decorations",
+    "#rpgskills:cut_crimsite_decorations",
+    "#rpgskills:cut_limestone_decorations",
+    "#rpgskills:cut_ochrum_decorations",
+    "#rpgskills:cut_scoria_decorations",
+    "#rpgskills:cut_scorchia_decorations",
+    "#rpgskills:cut_veridium_decorations",
+    "#rpgskills:cut_copper_decorations",
+    "#rpgskills:iron_windows",
+    "#rpgskills:framed_glass_panes",
     "#rpgskills:iron_decorations"
   ]
 }

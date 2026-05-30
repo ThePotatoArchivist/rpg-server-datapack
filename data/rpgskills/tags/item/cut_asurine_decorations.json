@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/asurine",
+    "create:cut_asurine_slab",
+    "create:polished_cut_asurine_slab",
+    "create:cut_asurine_brick_slab",
+    "create:small_asurine_brick_slab"
+  ],
+  "remove": [
+    "create:asurine",
+    "create:layered_asurine",
+    "create:asurine_pillar"
+  ],
+  "replace": false
+}

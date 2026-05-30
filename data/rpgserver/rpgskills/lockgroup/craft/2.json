@@ -11,6 +11,7 @@
     "minecraft:barrel",
     "minecraft:chest",
     "minecraft:ladder",
-    "#minecraft:beds"
+    "#minecraft:beds",
+    "#create:seats"
   ]
 }

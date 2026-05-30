@@ -11,6 +11,7 @@
   "recipes": [
     "minecraft:glistering_melon_slice",
     "minecraft:golden_apple",
-    "minecraft:cake"
+    "minecraft:cake",
+    "minecraft:jack_o_lantern"
   ]
 }

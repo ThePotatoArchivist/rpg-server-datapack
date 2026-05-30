@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/andesite",
+    "create:cut_andesite_slab",
+    "create:polished_cut_andesite_slab",
+    "create:cut_andesite_brick_slab",
+    "create:small_andesite_brick_slab"
+  ],
+  "remove": [
+    "minecraft:andesite",
+    "create:layered_andesite",
+    "create:andesite_pillar"
+  ],
+  "replace": false
+}

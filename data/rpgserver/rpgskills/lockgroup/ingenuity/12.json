@@ -5,10 +5,15 @@
     }
   ],
   "items": [
-    "minecraft:rail"
+    "minecraft:rail",
+    "minecraft:hopper"
   ],
   "recipes": [
     "minecraft:rail",
-    "#rpgskills:minecarts"
+    "minecraft:hopper",
+    "#rpgskills:minecarts",
+    "create:framed_glass_door",
+    "create:framed_glass_trapdoor",
+    "#rpgskills:copycats"
   ]
 }

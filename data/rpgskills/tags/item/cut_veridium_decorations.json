@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/veridium",
+    "create:cut_veridium_slab",
+    "create:polished_cut_veridium_slab",
+    "create:cut_veridium_brick_slab",
+    "create:small_veridium_brick_slab"
+  ],
+  "remove": [
+    "create:veridium",
+    "create:layered_veridium",
+    "create:veridium_pillar"
+  ],
+  "replace": false
+}

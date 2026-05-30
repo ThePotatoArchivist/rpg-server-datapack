@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/granite",
+    "create:cut_granite_slab",
+    "create:polished_cut_granite_slab",
+    "create:cut_granite_brick_slab",
+    "create:small_granite_brick_slab"
+  ],
+  "remove": [
+    "minecraft:granite",
+    "create:layered_granite",
+    "create:granite_pillar"
+  ],
+  "replace": false
+}

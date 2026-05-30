@@ -4,9 +4,6 @@
       "rpgserver:craft": 11
     }
   ],
-  "blocks": [
-    "minecraft:stonecutter"
-  ],
   "recipes": [
     "#rpgskills:bronze_armor",
     "#rpgskills:assassin_armor",

@@ -9,6 +9,7 @@
   ],
   "recipes": [
     "minecraft:lightning_rod",
+    "create:copper_door",
     "minecraft:spyglass"
   ]
 }

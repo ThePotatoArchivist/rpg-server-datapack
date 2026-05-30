@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/tuff",
+    "create:cut_tuff_slab",
+    "create:polished_cut_tuff_slab",
+    "create:cut_tuff_brick_slab",
+    "create:small_tuff_brick_slab"
+  ],
+  "remove": [
+    "minecraft:tuff",
+    "create:layered_tuff",
+    "create:tuff_pillar"
+  ],
+  "replace": false
+}

@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/diorite",
+    "create:cut_diorite_slab",
+    "create:polished_cut_diorite_slab",
+    "create:cut_diorite_brick_slab",
+    "create:small_diorite_brick_slab"
+  ],
+  "remove": [
+    "minecraft:diorite",
+    "create:layered_diorite",
+    "create:diorite_pillar"
+  ],
+  "replace": false
+}

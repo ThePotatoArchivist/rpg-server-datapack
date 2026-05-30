@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/deepslate",
+    "create:cut_deepslate_slab",
+    "create:polished_cut_deepslate_slab",
+    "create:cut_deepslate_brick_slab",
+    "create:small_deepslate_brick_slab"
+  ],
+  "remove": [
+    "minecraft:deepslate",
+    "create:layered_deepslate",
+    "create:deepslate_pillar"
+  ],
+  "replace": false
+}

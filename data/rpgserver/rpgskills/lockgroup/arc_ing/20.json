@@ -1,10 +1,10 @@
 {
   "requirements": [
     {
-      "rpgserver:arcane": 10
+      "rpgserver:arcane": 11
     },
     {
-      "rpgserver:ingenuity": 10
+      "rpgserver:ingenuity": 9
     }
   ],
   "recipes": [

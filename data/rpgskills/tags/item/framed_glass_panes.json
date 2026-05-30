@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#c:glass_panes/colorless"
+  ],
+  "remove": [
+    "minecraft:glass_pane"
+  ],
+  "replace": false
+}

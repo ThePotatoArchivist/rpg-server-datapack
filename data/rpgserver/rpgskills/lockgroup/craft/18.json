@@ -6,6 +6,7 @@
   ],
   "recipes": [
     "#rpgskills:deepslate_decorations",
+    "#rpgskills:cut_deepslate_decorations",
     "minecraft:packed_ice",
     "minecraft:blue_ice"
   ]

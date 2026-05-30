@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/crimsite",
+    "create:cut_crimsite_slab",
+    "create:polished_cut_crimsite_slab",
+    "create:cut_crimsite_brick_slab",
+    "create:small_crimsite_brick_slab"
+  ],
+  "remove": [
+    "create:crimsite",
+    "create:layered_crimsite",
+    "create:crimsite_pillar"
+  ],
+  "replace": false
+}

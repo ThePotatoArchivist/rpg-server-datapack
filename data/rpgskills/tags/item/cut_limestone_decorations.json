@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#create:stone_types/limestone",
+    "create:cut_limestone_slab",
+    "create:polished_cut_limestone_slab",
+    "create:cut_limestone_brick_slab",
+    "create:small_limestone_brick_slab"
+  ],
+  "remove": [
+    "create:limestone",
+    "create:layered_limestone",
+    "create:limestone_pillar"
+  ],
+  "replace": false
+}
