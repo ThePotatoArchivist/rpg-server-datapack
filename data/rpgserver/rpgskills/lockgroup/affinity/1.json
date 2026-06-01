@@ -13,6 +13,7 @@
     "#minecraft:campfires"
   ],
   "recipes": [
+    "create:dough",
     "minecraft:bread",
     "minecraft:lead",
     "minecraft:campfire"

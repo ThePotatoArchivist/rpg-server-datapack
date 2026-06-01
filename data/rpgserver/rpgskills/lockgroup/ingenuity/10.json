@@ -3,5 +3,14 @@
     {
       "rpgserver:ingenuity": 10
     }
+  ],
+  "items": [
+    "minecraft:piston",
+    "minecraft:sticky_piston"
+  ],
+  "recipes": [
+    "minecraft:piston",
+    "minecraft:sticky_piston",
+    "minecraft:compass"
   ]
 }

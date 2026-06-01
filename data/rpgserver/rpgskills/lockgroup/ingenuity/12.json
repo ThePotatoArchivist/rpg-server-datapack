@@ -6,10 +6,14 @@
   ],
   "items": [
     "minecraft:rail",
+    "minecraft:detector_rail",
+    "minecraft:activator_rail",
     "minecraft:hopper"
   ],
   "recipes": [
     "minecraft:rail",
+    "minecraft:detector_rail",
+    "minecraft:activator_rail",
     "minecraft:hopper",
     "#rpgskills:minecarts",
     "create:framed_glass_door",

@@ -4,7 +4,17 @@
       "rpgserver:ingenuity": 6
     }
   ],
+  "items": [
+    "minecraft:comparator",
+    "minecraft:daylight_detector",
+    "minecraft:observer",
+    "minecraft:redstone_lamp"
+  ],
   "recipes": [
+    "minecraft:comparator",
+    "minecraft:daylight_detector",
+    "minecraft:observer",
+    "minecraft:redstone_lamp",
     "minecraft:tnt"
   ]
 }
