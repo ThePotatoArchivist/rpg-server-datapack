@@ -1,5 +1,7 @@
 {
     "values": [
-        "create:zinc_ore"
+        "create:zinc_ore",
+        "create:raw_zinc_block",
+        "create:zinc_block"
     ]
 }
