@@ -5,10 +5,36 @@
     }
   ],
   "items": [
-    "minecraft:calibrated_sculk_sensor"
+    "minecraft:calibrated_sculk_sensor",
+    "create:pulse_extender",
+    "create:pulse_repeater",
+    "create:pulse_timer",
+    "create:mechanical_roller",
+    "create:chain_conveyor",
+    "create:hose_pulley",
+    "create:brass_funnel",
+    "create:brass_tunnel",
+    "create:clockwork_bearing",
+    "create:stockpile_switch",
+    "create:content_observer",
+    "create:flywheel",
+    "#createdeco:placards"
 ],
   "recipes": [
     "minecraft:calibrated_sculk_sensor",
+    "create:pulse_extender",
+    "create:pulse_repeater",
+    "create:pulse_timer",
+    "create:mechanical_roller",
+    "create:chain_conveyor",
+    "create:hose_pulley",
+    "create:brass_funnel",
+    "create:brass_tunnel",
+    "create:clockwork_bearing",
+    "create:stockpile_switch",
+    "create:content_observer",
+    "create:flywheel",
+    "#createdeco:placards",
     "minecraft:jukebox",
     "minecraft:music_disc_5",
     "enderscape:music_disc_bliss"

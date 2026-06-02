@@ -5,10 +5,14 @@
     }
   ],
   "items": [
+    "create:sand_paper",
+    "create:red_sand_paper",
     "minecraft:tripwire_hook"
   ],
   "recipes": [
     "minecraft:tripwire_hook",
+    "create:sand_paper",
+    "create:red_sand_paper",
     "minecraft:copper_torch",
     "minecraft:trapped_chest"
   ]

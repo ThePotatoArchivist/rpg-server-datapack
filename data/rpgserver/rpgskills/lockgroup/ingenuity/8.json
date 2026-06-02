@@ -12,6 +12,7 @@
   "recipes": [
     "#rpgskills:copper_bulbs",
     "downtoearth:tin_bulb",
-    "#rpgskills:copper_buttons"
+    "#rpgskills:copper_buttons",
+    "create:copper_diving_helmet"
   ]
 }

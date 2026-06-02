@@ -1,0 +1,35 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 14
+    }
+  ],
+  "items": [
+    "create:schematicannon",
+    "create:schematic_table",
+    "create:schematic_and_quill",
+    "create:portable_fluid_interface",
+    "create:portable_storage_interface",
+    "create:gantry_carriage",
+    "create:gantry_shaft",
+    "create:redstone_contact",
+    "create:rope_pulley",
+    "create:chute",
+    "create:sticker"
+  ],
+  "recipes": [
+    "create:schematicannon",
+    "create:schematic_table",
+    "create:schematic_and_quill",
+    "create:portable_fluid_interface",
+    "create:portable_storage_interface",
+    "create:gantry_carriage",
+    "create:gantry_shaft",
+    "create:redstone_contact",
+    "create:rope_pulley",
+    "create:chute",
+    "create:sticker",
+    "create:cuckoo_clock",
+    "create:empty_schematic"
+  ]
+}

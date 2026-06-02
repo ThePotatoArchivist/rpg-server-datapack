@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 18
+    }
+  ],
+  "items": [
+    "create:sequenced_gearshift"
+],
+  "recipes": [
+    "create:sequenced_gearshift"
+  ]
+}

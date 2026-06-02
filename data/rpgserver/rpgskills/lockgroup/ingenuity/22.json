@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 22
+    }
+  ],
+  "items": [
+    "create:cart_assembler",
+    "create:factory_gauge"
+],
+  "recipes": [
+    "create:cart_assembler",
+    "create:factory_gauge"
+  ]
+}

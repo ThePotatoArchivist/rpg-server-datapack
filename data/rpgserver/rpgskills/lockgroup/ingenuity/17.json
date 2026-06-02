@@ -1,0 +1,32 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 17
+    }
+  ],
+  "items": [
+    "create:deployer",
+    "create:elevator_pulley",
+    "create:packager",
+    "create:repackager",
+    "create:package_frogport",
+    "create:redstone_requester",
+    "create:display_board",
+    "create:display_link",
+    "create:stock_link",
+    "create:stock_ticker"
+],
+  "recipes": [
+    "create:deployer",
+    "create:elevator_pulley",
+    "create:packager",
+    "create:repackager",
+    "create:package_frogport",
+    "create:redstone_requester",
+    "create:display_board",
+    "create:display_link",
+    "create:stock_link",
+    "create:stock_ticker",
+    "create:brass_hand"
+  ]
+}

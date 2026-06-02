@@ -1,0 +1,33 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 24
+    }
+  ],
+  "items": [
+    "create:crafting_blueprint",
+    "create:crafter_slot_cover",
+    "create:schedule",
+    "minecraft:crafter",
+    "create:mechanical_crafter",
+    "create:track_station",
+    "create:track_observer",
+    "create:track_signal",
+    "create:controls",
+    "create:track",
+    "create:wand_of_symmetry"
+],
+  "recipes": [
+    "create:crafter_slot_cover",
+    "create:schedule",
+    "create:crafting_blueprint",
+    "minecraft:crafter",
+    "create:mechanical_crafter",
+    "create:track_station",
+    "create:track_observer",
+    "create:track_signal",
+    "create:controls",
+    "create:train_door",
+    "create:train_trapdoor"
+  ]
+}

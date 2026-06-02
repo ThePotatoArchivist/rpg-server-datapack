@@ -11,6 +11,9 @@
     "#rpgskills:netherite_ranger_armor",
     "#rpgskills:netherite_elemental_robes",
     "#rpgskills:netherite_crusader_armor",
-    "#rpgskills:netherite_prior_robe"
+    "#rpgskills:netherite_prior_robe",
+    "create:netherite_diving_helmet",
+    "create:netherite_backtank",
+    "create:netherite_diving_boots"
   ]
 }

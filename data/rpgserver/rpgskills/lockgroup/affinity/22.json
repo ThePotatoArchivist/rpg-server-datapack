@@ -5,7 +5,11 @@
     }
   ],
   "items": [
-    "minecraft:pitcher_pod"
+    "minecraft:pitcher_pod",
+    "create:tree_fertilizer"
+  ],
+  "recipes": [
+    "create:tree_fertilizer"
   ],
   "entities": [
     "minecraft:happy_ghast",

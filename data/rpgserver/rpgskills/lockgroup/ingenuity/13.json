@@ -9,7 +9,17 @@
     "minecraft:polished_blackstone_pressure_plate",
     "minecraft:polished_blackstone_button",
     "minecraft:light_weighted_pressure_plate",
-    "minecraft:heavy_weighted_pressure_plate"
+    "minecraft:heavy_weighted_pressure_plate",
+    "create:goggles",
+    "create:wrench",
+    "create:basin",
+    "create:mechanical_mixer",
+    "create:millstone",
+    "create:weighted_ejector",
+    "create:gearshift",
+    "create:redstone_link",
+    "create_dragons_plus:fragile_fluid_tank",
+    "create_dragons_plus:levitite_fragile_fluid_tank"
   ],
   "recipes": [
     "minecraft:powered_rail",
@@ -17,6 +27,20 @@
     "minecraft:polished_blackstone_button",
     "minecraft:light_weighted_pressure_plate",
     "minecraft:heavy_weighted_pressure_plate",
+    "create:basin",
+    "create:mechanical_mixer",
+    "create:millstone",
+    "create:weighted_ejector",
+    "create:gearshift",
+    "create:redstone_link",
+    "create_dragons_plus:fragile_fluid_tank",
+    "create_dragons_plus:levitite_fragile_fluid_tank",
+    "create:goggles",
+    "create:wrench",
+    "#create:toolboxes",
+    "create:desk_bell",
+    "create:transmitter",
+    "create:whisk",
     "minecraft:clock"
   ]
 }

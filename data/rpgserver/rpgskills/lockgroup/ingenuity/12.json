@@ -8,16 +8,36 @@
     "minecraft:rail",
     "minecraft:detector_rail",
     "minecraft:activator_rail",
+    "create:windmill_bearing",
+    "create:sail_frame",
+    "create:white_sail",
+    "create:mechanical_saw",
+    "create:encased_fan",
+    "create:nozzle",
+    "create:minecart_coupling",
+    "create:item_vault",
     "minecraft:hopper"
   ],
   "recipes": [
     "minecraft:rail",
     "minecraft:detector_rail",
     "minecraft:activator_rail",
+    "create:windmill_bearing",
+    "create:sail_frame",
+    "create:white_sail",
+    "create:mechanical_saw",
+    "create:encased_fan",
+    "create:nozzle",
+    "create:item_vault",
     "minecraft:hopper",
     "#rpgskills:minecarts",
+    "create:andesite_door",
     "create:framed_glass_door",
     "create:framed_glass_trapdoor",
-    "#rpgskills:copycats"
+    "#rpgskills:copycats",
+    "#create:table_cloths",
+    "create:item_hatch",
+    "create:minecart_coupling",
+    "create:propeller"
   ]
 }

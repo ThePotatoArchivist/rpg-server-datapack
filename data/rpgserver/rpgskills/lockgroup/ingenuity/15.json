@@ -1,0 +1,43 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 15
+    }
+  ],
+  "items": [
+    "create:controller_rail",
+    "create:contraption_controls",
+    "create:speedometer",
+    "create:stressometer",
+    "create:mechanical_drill",
+    "create:clutch",
+    "create:adjustable_chain_gearshift",
+    "create:smart_chute",
+    "create:smart_fluid_pipe",
+    "create:rose_quartz_lamp",
+    "create:nixie_tube",
+    "create:steam_engine",
+    "create:steam_whistle",
+    "create:empty_blaze_burner",
+    "create:blaze_burner"
+  ],
+  "recipes": [
+    "create:controller_rail",
+    "create:contraption_controls",
+    "create:speedometer",
+    "create:stressometer",
+    "create:mechanical_drill",
+    "create:clutch",
+    "create:adjustable_chain_gearshift",
+    "create:smart_chute",
+    "create:smart_fluid_pipe",
+    "create:rose_quartz_lamp",
+    "create:nixie_tube",
+    "create:steam_engine",
+    "create:steam_whistle",
+    "create:empty_blaze_burner",
+    "create:linked_controller",
+    "create:rose_quartz",
+    "create:electron_tube"
+  ]
+}
