@@ -1,7 +1,27 @@
 {
     "values": [
+        "bellsandwhistles:andesite_pilot",
         "bellsandwhistles:andesite_bogie_steps",
         "bellsandwhistles:andesite_grab_rails",
-        "bellsandwhistles:andesite_door_step"
+        "bellsandwhistles:andesite_door_step",
+        "createdeco:andesite_window",
+        "createdeco:andesite_window_pane",
+        "createdeco:andesite_bars_overlay",
+        "createdeco:andesite_bars",
+        "createdeco:andesite_mesh_fence",
+        "createdeco:andesite_catwalk",
+        "createdeco:andesite_catwalk_stairs",
+        "createdeco:andesite_catwalk_railing",
+        "createdeco:andesite_support_wedge",
+        "createdeco:andesite_hull",
+        "createdeco:andesite_support",
+        "createdeco:yellow_andesite_lamp",
+        "createdeco:red_andesite_lamp",
+        "createdeco:green_andesite_lamp",
+        "createdeco:blue_andesite_lamp",
+        "createdeco:andesite_sheet_metal",
+        "createdeco:andesite_door",
+        "createdeco:locked_andesite_door",
+        "createdeco:andesite_trapdoor"
     ]
 }

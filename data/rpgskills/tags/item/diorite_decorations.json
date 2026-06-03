@@ -5,7 +5,8 @@
     "minecraft:diorite_wall",
     "minecraft:polished_diorite",
     "minecraft:polished_diorite_stairs",
-    "minecraft:polished_diorite_slab"
+    "minecraft:polished_diorite_slab",
+    "bellsandwhistles:polished_diorite_pilot"
   ],
 
   "replace": false

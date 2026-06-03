@@ -12,7 +12,8 @@
     "minecraft:tuff_brick_stairs",
     "minecraft:tuff_brick_slab",
     "minecraft:tuff_brick_wall",
-    "minecraft:chiseled_tuff_bricks"
+    "minecraft:chiseled_tuff_bricks",
+    "bellsandwhistles:polished_tuff_pilot"
   ],
 
   "replace": false

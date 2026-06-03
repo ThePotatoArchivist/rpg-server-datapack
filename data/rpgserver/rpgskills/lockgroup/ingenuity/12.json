@@ -15,7 +15,6 @@
     "create:encased_fan",
     "create:nozzle",
     "create:minecart_coupling",
-    "create:item_vault",
     "minecraft:hopper",
     "simulated:swivel_bearing",
     "simulated:rope_winch",
@@ -37,7 +36,6 @@
     "create:mechanical_saw",
     "create:encased_fan",
     "create:nozzle",
-    "create:item_vault",
     "minecraft:hopper",
     "simulated:swivel_bearing",
     "simulated:rope_winch",
@@ -57,7 +55,8 @@
     "create:item_hatch",
     "create:minecart_coupling",
     "create:propeller",
-    "#rpgskills:cheap_train_pilots",
-    "#rpgskills:metro_decorations"
+    "#rpgskills:metro_decorations",
+    "create:item_vault",
+    "#rpgskills:shipping_containers"
   ]
 }

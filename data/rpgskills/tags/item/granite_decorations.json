@@ -5,7 +5,8 @@
     "minecraft:granite_wall",
     "minecraft:polished_granite",
     "minecraft:polished_granite_stairs",
-    "minecraft:polished_granite_slab"
+    "minecraft:polished_granite_slab",
+    "bellsandwhistles:polished_granite_pilot"
   ],
 
   "replace": false

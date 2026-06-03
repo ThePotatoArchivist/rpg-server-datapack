@@ -2,6 +2,26 @@
     "values": [
        "bellsandwhistles:brass_bogie_steps",
        "bellsandwhistles:brass_grab_rails",
-       "bellsandwhistles:brass_door_step"
+       "bellsandwhistles:brass_door_step",
+       "createdeco:brass_window",
+       "createdeco:brass_window_pane",
+       "createdeco:brass_bars_overlay",
+       "createdeco:brass_bars",
+       "createdeco:brass_mesh_fence",
+        "createdeco:brass_catwalk",
+        "createdeco:brass_catwalk_stairs",
+        "createdeco:brass_catwalk_railing",
+        "createdeco:brass_support_wedge",
+        "bellsandwhistles:brass_pilot",
+        "createdeco:brass_hull",
+        "createdeco:brass_support",
+        "createdeco:yellow_brass_lamp",
+        "createdeco:red_brass_lamp",
+        "createdeco:green_brass_lamp",
+        "createdeco:blue_brass_lamp",
+        "createdeco:brass_sheet_metal",
+        "createdeco:brass_door",
+        "createdeco:locked_brass_door",
+        "createdeco:brass_trapdoor"
     ]
 }

@@ -4,7 +4,8 @@
     "create:cut_asurine_slab",
     "create:polished_cut_asurine_slab",
     "create:cut_asurine_brick_slab",
-    "create:small_asurine_brick_slab"
+    "create:small_asurine_brick_slab",
+    "bellsandwhistles:polished_asurine_pilot"
   ],
   "remove": [
     "create:asurine",

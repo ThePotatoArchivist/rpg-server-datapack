@@ -22,9 +22,11 @@
     "#rpgskills:cut_scorchia_decorations",
     "#rpgskills:cut_veridium_decorations",
     "#rpgskills:cut_copper_decorations",
-    "#rpgskills:iron_windows",
     "#rpgskills:framed_glass_panes",
     "#rpgskills:iron_decorations",
-    "#rpgskills:andesite_alloy_decorations"
+    "#rpgskills:zinc_decorations",
+    "#rpgskills:industrial_iron_decorations",
+    "#rpgskills:andesite_alloy_decorations",
+    "#rpgskills:copper_sheet_decorations"
   ]
 }

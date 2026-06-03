@@ -4,7 +4,8 @@
     "create:cut_limestone_slab",
     "create:polished_cut_limestone_slab",
     "create:cut_limestone_brick_slab",
-    "create:small_limestone_brick_slab"
+    "create:small_limestone_brick_slab",
+    "bellsandwhistles:polished_limestone_pilot"
   ],
   "remove": [
     "create:limestone",

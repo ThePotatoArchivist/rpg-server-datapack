@@ -4,7 +4,8 @@
     "create:cut_scoria_slab",
     "create:polished_cut_scoria_slab",
     "create:cut_scoria_brick_slab",
-    "create:small_scoria_brick_slab"
+    "create:small_scoria_brick_slab",
+    "bellsandwhistles:polished_scoria_pilot"
   ],
   "remove": [
     "create:scoria",

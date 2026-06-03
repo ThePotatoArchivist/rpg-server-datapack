@@ -4,7 +4,8 @@
     "create:cut_calcite_slab",
     "create:polished_cut_calcite_slab",
     "create:cut_calcite_brick_slab",
-    "create:small_calcite_brick_slab"
+    "create:small_calcite_brick_slab",
+    "bellsandwhistles:polished_calcite_pilot"
   ],
   "remove": [
     "minecraft:calcite",

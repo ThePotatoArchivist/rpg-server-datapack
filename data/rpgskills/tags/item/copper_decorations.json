@@ -27,7 +27,11 @@
     "minecraft:copper_trapdoor",
     "bellsandwhistles:copper_bogie_steps",
     "bellsandwhistles:copper_grab_rails",
-    "bellsandwhistles:copper_door_step"
+    "bellsandwhistles:copper_door_step",
+    "createdeco:copper_window",
+    "createdeco:copper_window_pane",
+    "createdeco:copper_support",
+    "createdeco:locked_copper_door"
   ],
 
   "replace": false

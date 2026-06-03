@@ -5,8 +5,8 @@
     "minecraft:andesite_wall",
     "minecraft:polished_andesite",
     "minecraft:polished_andesite_stairs",
-    "minecraft:polished_andesite_slab"
+    "minecraft:polished_andesite_slab",
+    "bellsandwhistles:polished_andesite_pilot"
   ],
-
   "replace": false
 }
