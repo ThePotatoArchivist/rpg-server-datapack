@@ -16,7 +16,16 @@
     "create:nozzle",
     "create:minecart_coupling",
     "create:item_vault",
-    "minecraft:hopper"
+    "minecraft:hopper",
+    "simulated:swivel_bearing",
+    "simulated:rope_winch",
+    "simulated:rope_connector",
+    "simulated:velocity_sensor",
+    "simulated:redstone_magnet",
+    "offroad:borehead_bearing",
+    "aeronautics:wooden_propeller",
+    "aeronautics:andesite_propeller",
+    "simulated:white_symmetric_sail"
   ],
   "recipes": [
     "minecraft:rail",
@@ -30,6 +39,15 @@
     "create:nozzle",
     "create:item_vault",
     "minecraft:hopper",
+    "simulated:swivel_bearing",
+    "simulated:rope_winch",
+    "simulated:rope_connector",
+    "simulated:velocity_sensor",
+    "simulated:redstone_magnet",
+    "offroad:borehead_bearing",
+    "aeronautics:wooden_propeller",
+    "aeronautics:andesite_propeller",
+    "simulated:white_symmetric_sail",
     "#rpgskills:minecarts",
     "create:andesite_door",
     "create:framed_glass_door",
@@ -38,6 +56,8 @@
     "#create:table_cloths",
     "create:item_hatch",
     "create:minecart_coupling",
-    "create:propeller"
+    "create:propeller",
+    "#rpgskills:cheap_train_pilots",
+    "#rpgskills:metro_decorations"
   ]
 }

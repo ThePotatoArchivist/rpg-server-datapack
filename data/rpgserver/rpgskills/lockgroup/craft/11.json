@@ -9,6 +9,7 @@
     "#rpgskills:assassin_armor",
     "#rpgskills:warrior_armor",
     "minecraft:stonecutter",
-    "rogues:arms_workbench"
+    "rogues:arms_workbench",
+    "pipeorgans:roll_puncher"
   ]
 }

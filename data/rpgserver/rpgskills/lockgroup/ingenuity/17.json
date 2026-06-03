@@ -14,7 +14,11 @@
     "create:display_board",
     "create:display_link",
     "create:stock_link",
-    "create:stock_ticker"
+    "create:stock_ticker",
+    "create_mobile_packages:bee_port",
+    "create_mobile_packages:robo_bee",
+    "create_mobile_packages:portable_stock_ticker",
+    "create_mobile_packages:mobile_packager"
 ],
   "recipes": [
     "create:deployer",
@@ -27,6 +31,10 @@
     "create:display_link",
     "create:stock_link",
     "create:stock_ticker",
+    "create_mobile_packages:bee_port",
+    "create_mobile_packages:robo_bee",
+    "create_mobile_packages:portable_stock_ticker",
+    "create_mobile_packages:mobile_packager",
     "create:brass_hand"
   ]
 }

@@ -1,0 +1,10 @@
+{
+    "requirements": [
+        {
+            "rpgserver:affinity": 11
+        }
+    ],
+    "blocks": [
+        "pipeorgans:roll_puncher"
+    ]
+}

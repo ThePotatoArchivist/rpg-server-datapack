@@ -24,7 +24,10 @@
     "minecraft:copper_bars",
     "minecraft:copper_chain",
     "minecraft:copper_door",
-    "minecraft:copper_trapdoor"
+    "minecraft:copper_trapdoor",
+    "bellsandwhistles:copper_bogie_steps",
+    "bellsandwhistles:copper_grab_rails",
+    "bellsandwhistles:copper_door_step"
   ],
 
   "replace": false

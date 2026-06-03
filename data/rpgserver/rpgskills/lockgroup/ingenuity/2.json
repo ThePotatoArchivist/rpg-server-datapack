@@ -10,6 +10,7 @@
   ],
   "recipes": [
     "#minecraft:wooden_buttons",
-    "#minecraft:wooden_pressure_plates"
+    "#minecraft:wooden_pressure_plates",
+    "#aeronautics:shaftless_envelope"
   ]
 }

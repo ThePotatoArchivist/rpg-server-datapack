@@ -15,7 +15,9 @@
     "create:redstone_contact",
     "create:rope_pulley",
     "create:chute",
-    "create:sticker"
+    "create:sticker",
+    "simulated:auger_shaft",
+    "simulated:auger_cog"
   ],
   "recipes": [
     "create:schematicannon",
@@ -29,6 +31,8 @@
     "create:rope_pulley",
     "create:chute",
     "create:sticker",
+    "simulated:auger_shaft",
+    "simulated:auger_cog",
     "create:cuckoo_clock",
     "create:empty_schematic"
   ]

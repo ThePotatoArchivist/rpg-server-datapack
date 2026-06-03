@@ -5,9 +5,12 @@
     }
   ],
   "items": [
-    "create:sequenced_gearshift"
+    "create:sequenced_gearshift",
+    "create_power_loader:andesite_chunk_loader"
 ],
   "recipes": [
-    "create:sequenced_gearshift"
+    "create:sequenced_gearshift",
+    "create_power_loader:empty_andesite_chunk_loader",
+    "#rpgskills:train_pilots"
   ]
 }

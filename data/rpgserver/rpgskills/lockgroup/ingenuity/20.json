@@ -5,15 +5,27 @@
     }
   ],
   "items": [
+    "#rpgskills:end_pressure_plates",
+    "#rpgskills:end_buttons",
     "create:mechanical_arm",
     "create:rotation_speed_controller",
-    "#rpgskills:end_pressure_plates",
-    "#rpgskills:end_buttons"
+    "simulated:gimbal_sensor",
+    "simulated:navigation_table",
+    "aeronautics:gyroscopic_propeller_bearing",
+    "aeronautics:smart_propeller",
+    "pipeorgans:keyboard_relay",
+    "pipeorgans:tracker_bar"
 ],
   "recipes": [
+    "#rpgskills:end_pressure_plates",
+    "#rpgskills:end_buttons",
     "create:mechanical_arm",
     "create:rotation_speed_controller",
-    "#rpgskills:end_pressure_plates",
-    "#rpgskills:end_buttons"
+    "simulated:gimbal_sensor",
+    "simulated:navigation_table",
+    "aeronautics:gyroscopic_propeller_bearing",
+    "aeronautics:smart_propeller",
+    "pipeorgans:keyboard_relay",
+    "pipeorgans:tracker_bar"
   ]
 }

@@ -10,12 +10,15 @@
     "create:schedule",
     "minecraft:crafter",
     "create:mechanical_crafter",
+    "offroad:rockcutting_wheel",
     "create:track_station",
     "create:track_observer",
     "create:track_signal",
+    "simulated:docking_connector",
     "create:controls",
     "create:track",
-    "create:wand_of_symmetry"
+    "create:wand_of_symmetry",
+    "create_power_loader:brass_chunk_loader"
 ],
   "recipes": [
     "create:crafter_slot_cover",
@@ -23,6 +26,7 @@
     "create:crafting_blueprint",
     "minecraft:crafter",
     "create:mechanical_crafter",
+    "offroad:rockcutting_wheel",
     "create:track_station",
     "create:track_observer",
     "create:track_signal",
