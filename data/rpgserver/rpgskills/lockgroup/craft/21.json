@@ -6,6 +6,7 @@
   ],
   "recipes": [
     "#rpgskills:diamond_armor",
-    "#rpgskills:berserker_armor"
+    "#rpgskills:berserker_armor",
+    "endersdelight:endstone_stove"
   ]
 }

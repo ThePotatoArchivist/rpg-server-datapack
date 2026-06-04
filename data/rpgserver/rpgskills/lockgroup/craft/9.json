@@ -6,6 +6,7 @@
   ],
   "recipes": [
     "#rpgskills:copper_decorations",
-    "#rpgskills:tin_decorations"
+    "#rpgskills:tin_decorations",
+    "#rpgskills:stained_scrap_decorations"
   ]
 }

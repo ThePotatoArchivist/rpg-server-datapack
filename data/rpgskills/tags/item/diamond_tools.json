@@ -3,7 +3,9 @@
     "minecraft:diamond_shovel",
     "minecraft:diamond_pickaxe",
     "minecraft:diamond_axe",
-    "minecraft:diamond_hoe"
+    "minecraft:diamond_hoe",
+    "farmersdelight:diamond_knife",
+    "dungeonsdelight:diamond_cleaver"
   ],
 
   "replace": false

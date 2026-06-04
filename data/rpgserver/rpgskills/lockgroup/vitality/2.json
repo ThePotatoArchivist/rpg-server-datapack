@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 2
+    }
+  ],
+  "items": [
+    "crabbersdelight:coconut_helmet"
+  ]
+}

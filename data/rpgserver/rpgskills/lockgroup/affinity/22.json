@@ -9,7 +9,8 @@
     "create:tree_fertilizer"
   ],
   "recipes": [
-    "create:tree_fertilizer"
+    "create:tree_fertilizer",
+    "crabbersdelight:coral_crunch"
   ],
   "entities": [
     "minecraft:happy_ghast",

@@ -9,6 +9,12 @@
     "#rpgskills:paladin_armor",
     "#rpgskills:elemental_robes",
     "#rpgskills:prior_robe",
-    "paladins:monk_workbench"
+    "paladins:monk_workbench",
+    "mynethersdelight:nether_bricks_stove",
+    "mynethersdelight:nether_bricks_soul_stove",
+    "dungeonsdelight:dungeon_stove",
+    "dungeonsdelight:monster_pot",
+    "brewinandchewin:heating_cask",
+    "brewinandchewin:ice_crate"
   ]
 }

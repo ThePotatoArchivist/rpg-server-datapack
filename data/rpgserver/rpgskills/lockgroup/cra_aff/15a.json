@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 8
+    },
+    {
+      "rpgserver:affinity": 7
+    }
+  ],
+  "items": [
+    "mynethersdelight:blazier"
+  ]
+}

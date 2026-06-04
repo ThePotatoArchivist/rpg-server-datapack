@@ -6,6 +6,9 @@
   ],
   "items": [
     "minecraft:wooden_hoe",
+    "farmersdelight:flint_knife",
+    "dungeonsdelight:flint_cleaver",
+    "moredelight:wooden_knife",
     "minecraft:fishing_rod",
     "minecraft:wheat_seeds"
   ],
@@ -14,8 +17,12 @@
   ],
   "recipes": [
     "create:dough",
+    "veggiesdelight:sweet_potato_dough",
+    "farmersdelight:wheat_dough",
     "minecraft:bread",
-    "minecraft:lead",
-    "minecraft:campfire"
+    "veggiesdelight:garlic_bread",
+    "crabbersdelight:fish_stick",
+    "minecraft:campfire",
+    "minecraft:lead"
   ]
 }

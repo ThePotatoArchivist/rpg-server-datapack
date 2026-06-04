@@ -6,10 +6,18 @@
   ],
   "items": [
     "minecraft:netherite_hoe",
+    "farmersdelight:netherite_knife",
+    "dungeonsdelight:netherite_cleaver",
     "minecraft:chorus_flower",
-    "enderscape:flanger_berry_flower"
+    "enderscape:flanger_berry_flower",
+    "endersdelight:voidpepper"
   ],
   "recipes": [
-    "enderscape:chorus_cake_roll"
+    "enderscape:chorus_cake_roll",
+    "endersdelight:chorus_juice",
+    "endersdelight:chorus_pie",
+    "endersdelight:crawling_sandwich",
+    "endersdelight:crispy_skewer",
+    "endersdelight:twisted_cereal"
   ]
 }

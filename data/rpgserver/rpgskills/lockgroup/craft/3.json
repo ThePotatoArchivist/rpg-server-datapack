@@ -15,9 +15,14 @@
     "minecraft:packed_mud",
     "#rpgskills:packed_mud_decorations",
     "#rpgskills:wooden_decorations",
+    "#rpgskills:wooden_furniture",
     "#rpgskills:wood_blocks",
     "#rpgskills:crafted_banner_patterns",
     "#rpgskills:crafted_dyes",
-    "#rpgskills:wool_decorations"
+    "#rpgskills:wool_decorations",
+    "#rpgskills:straw_decorations",
+    "displaydelight:food_plate",
+    "displaydelight:small_food_plate",
+    "crabbersdelight:crab_trap"
   ]
 }

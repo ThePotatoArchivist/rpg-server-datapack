@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 2
+    }
+  ],
+  "blocks": [
+    "#choppersdelight:cutting_boards"
+  ],
+  "recipes": [
+    "moredelight:toast_with_sweet_berries",
+    "moredelight:toast_with_glow_berries",
+    "farmersdelight:sweet_berry_cookie",
+    "dungeonsdelight:wormroot_tendrils",
+    "minersdelight:bat_cookie",
+    "minersdelight:insect_sandwich",
+    "minersdelight:insect_wrap"
+  ]
+}

@@ -28,6 +28,8 @@
     "minecraft:projectile_protection",
     "minecraft:smite",
     "spell_power:critical_chance",
-    "minecraft:sweeping_edge"
+    "minecraft:sweeping_edge",
+    "farmersdelight:backstabbing",
+    "dungeonsdelight:serrated_strike"
   ]
 }

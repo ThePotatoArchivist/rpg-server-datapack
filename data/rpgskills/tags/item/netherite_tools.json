@@ -3,7 +3,9 @@
     "minecraft:netherite_shovel",
     "minecraft:netherite_pickaxe",
     "minecraft:netherite_axe",
-    "minecraft:netherite_hoe"
+    "minecraft:netherite_hoe",
+    "farmersdelight:netherite_knife",
+    "dungeonsdelight:netherite_cleaver"
   ],
 
   "replace": false

@@ -4,10 +4,42 @@
       "rpgserver:affinity": 15
     }
   ],
+  "items": [
+    "farmersdelight:rice",
+    "mynethersdelight:powder_cannon",
+    "mynethersdelight:letios_compost"
+  ],
   "blocks": [
     "minecraft:cartography_table"
   ],
   "recipes": [
-    "minecraft:map"
+    "mynethersdelight:blazier",
+    "mynethersdelight:powdery_torch",
+    "farmersdelight:rice",
+    "farmersdelight:salmon_roll",
+    "farmersdelight:cod_roll",
+    "veggiesdelight:vegetables_wrap",
+    "farmersdelight:roasted_mutton_chops",
+    "farmersdelight:steak_and_potatoes",
+    "veggiesdelight:steak_and_broccoli",
+    "farmersdelight:honey_glazed_ham_block",
+    "minersdelight:vegan_steak_and_potatoes",
+    "veggiesdelight:garlic_rice_with_cauliflower",
+    "dungeonsdelight:spider_pie",
+    "minersdelight:glazed_arachnid_limbs",
+    "endersdelight:strange_eclair",
+    "mynethersdelight:tear_popsicle",
+    "mynethersdelight:spicy_cotton",
+    "mynethersdelight:ghast_salad",
+    "mynethersdelight:dried_ghast_with_milk",
+    "mynethersdelight:sizzling_pudding",
+    "mynethersdelight:ghasta_with_cream",
+    "mynethersdelight:ghast_dough",
+    "mynethersdelight:ghast_sourdough",
+    "mynethersdelight:hot_cream_cone",
+    "mynethersdelight:golden_trophy",
+    "minecraft:map",
+    "dungeonsdelight:gunk_arrow",
+    "mynethersdelight:letios_compost"
   ]
 }

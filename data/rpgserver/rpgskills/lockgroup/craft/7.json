@@ -11,7 +11,9 @@
     "downtoearth:stone_anvil",
     "#rpgskills:clay_armor_molds",
     "#rpgskills:copper_tools",
-    "#rpgskills:copper_weapons"
+    "#rpgskills:copper_weapons",
+    "minersdelight:copper_pot",
+    "minersdelight:copper_cup"
   ],
   "items": [
     "bobsmobgear:empty_pot",

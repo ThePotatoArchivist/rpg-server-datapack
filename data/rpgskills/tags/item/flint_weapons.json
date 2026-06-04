@@ -1,5 +1,7 @@
 {
   "values": [
+    "farmersdelight:flint_knife",
+    "dungeonsdelight:flint_cleaver",
     "rogues:flint_dagger",
     "archers:flint_spear",
     "wizards:wand_novice"

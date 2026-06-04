@@ -5,7 +5,8 @@
     }
   ],
   "items": [
-    "downtoearth:bronze_hoe"
+    "downtoearth:bronze_hoe",
+    "veggiesdelight:zucchini_seeds"
   ],
   "entities": [
     "minecraft:llama",
@@ -14,5 +15,10 @@
     "minecraft:skeleton_horse",
     "minecraft:donkey",
     "minecraft:mule"
+  ],
+  "recipes": [
+    "moredelight:simple_hamburger",
+    "moredelight:hamburger_with_egg",
+    "veggiesdelight:coleslaw"
   ]
 }

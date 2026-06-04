@@ -6,8 +6,10 @@
   ],
   "items": [
     "minecraft:stone_hoe",
+    "moredelight:stone_knife",
     "minecraft:bone_meal",
-    "minecraft:sugar_cane"
+    "minecraft:sugar_cane",
+    "farmersdelight:organic_compost"
   ],
   "blocks": [
     "minecraft:composter"
@@ -18,7 +20,14 @@
     "minecraft:wolf"
   ],
   "recipes": [
+    "farmersdelight:organic_compost",
+    "minecraft:bone_meal",
     "minecraft:sugar",
-    "minecraft:bone_meal"
+    "moredelight:toast_with_egg",
+    "veggiesdelight:dandelion_and_eggs",
+    "farmersdelight:egg_sandwich",
+    "farmersdelight:roast_chicken_block",
+    "crabbersdelight:coconut_milk",
+    "dungeonsdelight:slicorice"
   ]
 }

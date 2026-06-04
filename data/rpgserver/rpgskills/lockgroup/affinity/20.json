@@ -6,6 +6,8 @@
   ],
   "items": [
     "minecraft:diamond_hoe",
+    "farmersdelight:diamond_knife",
+    "dungeonsdelight:diamond_cleaver",
     "minecraft:kelp"
   ],
   "entities": [
@@ -14,5 +16,20 @@
     "minecraft:panda",
     "minecraft:hoglin",
     "minecraft:zoglin"
+  ],
+  "recipes": [
+    "endersdelight:uncanny_cookies",
+    "farmersdelight:kelp_roll",
+    "farmersdelight:rice_roll_medley_block",
+    "culturaldelights:midori_roll",
+    "culturaldelights:egg_roll",
+    "culturaldelights:chicken_roll",
+    "culturaldelights:pufferfish_roll",
+    "culturaldelights:tropical_roll",
+    "culturaldelights:calamari_roll",
+    "culturaldelights:rice_ball",
+    "culturaldelights:exotic_roll_medley",
+    "dungeonsdelight:slime_bar",
+    "crabbersdelight:kelp_shake"
   ]
 }

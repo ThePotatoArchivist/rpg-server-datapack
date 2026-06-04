@@ -7,5 +7,15 @@
   "items": [
     "minecraft:copper_hoe",
     "minecraft:brush"
+  ],
+  "blocks": [
+    "minersdelight:copper_pot"
+  ],
+  "recipes": [
+    "dungeonsdelight:living_campfire",
+    "dungeonsdelight:living_torch",
+    "minersdelight:copper_carrot",
+    "moredelight:egg_with_bacon_sandwich",
+    "crabbersdelight:surf_and_turf"
   ]
 }

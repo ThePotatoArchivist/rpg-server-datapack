@@ -9,9 +9,15 @@
     "minecraft:fletching_table",
     "minecraft:loom",
     "minecraft:barrel",
+    "farmersdelight:wooden_basket",
+    "farmersdelight:bamboo_basket",
+    "minersdelight:sticky_basket",
     "minecraft:chest",
     "minecraft:ladder",
     "#minecraft:beds",
-    "#create:seats"
+    "#choppersdelight:cutting_boards",
+    "farmersdelight:canvas",
+    "farmersdelight:rope",
+    "farmersdelight:safety_net"
   ]
 }

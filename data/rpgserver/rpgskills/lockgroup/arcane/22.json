@@ -27,6 +27,7 @@
     "minecraft:riptide",
     "minecraft:silk_touch",
     "spell_engine:spell_infinity",
-    "minecraft:thorns"
+    "minecraft:thorns",
+    "dungeonsdelight:ricochet"
   ]
 }

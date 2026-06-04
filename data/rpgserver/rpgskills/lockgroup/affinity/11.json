@@ -4,7 +4,30 @@
             "rpgserver:affinity": 11
         }
     ],
+    "items": [
+        "farmersdelight:tomato_seeds",
+        "culturaldelights:cucumber_seeds"
+    ],
     "blocks": [
         "pipeorgans:roll_puncher"
+    ],
+    "recipes": [
+        "farmersdelight:tomato_seeds",
+        "veggiesdelight:broccoli_salad",
+        "farmersdelight:mixed_salad",
+        "moredelight:chicken_salad",
+        "culturaldelights:chicken_taco",
+        "culturaldelights:fish_taco",
+        "farmersdelight:barbecue_stick",
+        "crabbersdelight:shrimp_skewer",
+        "crabbersdelight:squid_kebab",
+        "farmersdelight:hamburger",
+        "moredelight:loaded_hamburger",
+        "minersdelight:vegan_hamburger",
+        "veggiesdelight:vegetarian_burger",
+        "veggiesdelight:zucchini_sandwich",
+        "moredelight:tomato_sandwich",
+        "farmersdelight:bacon_sandwich",
+        "moredelight:chicken_sandwich_with_egg_and_tomato"
     ]
 }

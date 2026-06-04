@@ -6,12 +6,20 @@
   ],
   "items": [
     "minecraft:melon_seeds",
+    "culturaldelights:eggplant_seeds",
+    "veggiesdelight:bellpepper_seeds",
     "minecraft:bamboo"
   ],
   "entities": [
     "minecraft:camel"
   ],
   "recipes": [
-    "minecraft:melon_seeds"
+    "minecraft:melon_seeds",
+    "farmersdelight:melon_juice",
+    "farmersdelight:melon_popsicle",
+    "veggiesdelight:vegan_pizza",
+    "culturaldelights:eggplant_burger",
+    "veggiesdelight:chicken_fajitas_wrap",
+    "veggiesdelight:uncooked_mhadjeb"
   ]
 }

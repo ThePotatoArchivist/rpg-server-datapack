@@ -1,0 +1,21 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 5
+    }
+  ],
+  "items": [
+    "farmersdelight:cabbage_seeds",
+    "veggiesdelight:turnip_seeds"
+  ],
+  "recipes": [
+    "veggiesdelight:turnip_salad",
+    "farmersdelight:chicken_sandwich",
+    "moredelight:steak_sandwich",
+    "moredelight:porkchop_sandwich",
+    "farmersdelight:mutton_wrap",
+    "culturaldelights:pork_wrap",
+    "farmersdelight:grilled_salmon",
+    "veggiesdelight:turnip_mutton_skewer"
+  ]
+}

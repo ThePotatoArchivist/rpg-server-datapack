@@ -1,7 +1,12 @@
 {
   "values": [
     "minecraft:bamboo_mosaic",
+    "dungeonsdelight:wormwood_mosaic",
+    "mynethersdelight:powdery_mosaic",
     "#minecraft:wooden_stairs",
+    "mynethersdelight:powdery_mosaic_stairs",
+    "mynethersdelight:powdery_mosaic_slab",
+    "mynethersdelight:powdery_fence_gate",
     "#minecraft:wooden_slabs",
     "#c:fences/wooden",
     "#minecraft:fence_gates",

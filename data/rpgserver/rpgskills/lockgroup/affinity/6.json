@@ -16,6 +16,7 @@
     "minecraft:rabbit"
   ],
   "recipes": [
+    "culturaldelights:mutton_sandwich",
     "minecraft:beetroot_soup",
     "minecraft:rabbit_stew"
   ]

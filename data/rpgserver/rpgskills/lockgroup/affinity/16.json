@@ -7,7 +7,8 @@
   "items": [
     "downtoearth:steel_hoe",
     "minecraft:cocoa_beans",
-    "minecraft:sniffer_egg"
+    "minecraft:sniffer_egg",
+    "dungeonsdelight:embedded_eggs"
   ],
   "entities": [
     "minecraft:fox",
@@ -17,6 +18,21 @@
     "minecraft:sniffer"
   ],
   "recipes": [
-    "minecraft:cookie"
+    "minecraft:cookie",
+    "moredelight:toast_with_chocolate",
+    "farmersdelight:chocolate_pie",
+    "moredelight:chocolate_popsicle",
+    "veggiesdelight:beetroot_brownie_tray",
+    "dungeonsdelight:monster_cake",
+    "dungeonsdelight:sculk_apple",
+    "dungeonsdelight:sculk_tart",
+    "minersdelight:weird_caviar",
+    "minersdelight:seasoned_arthropods",
+    "minersdelight:crunchy_bar",
+    "minersdelight:nutritional_bar",
+    "minersdelight:golden_nutritional_bar",
+    "dungeonsdelight:embedded_eggs",
+    "dungeonsdelight:sculk_mayo_block",
+    "dungeonsdelight:rot_and_steel"
   ]
 }

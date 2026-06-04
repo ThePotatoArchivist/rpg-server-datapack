@@ -4,6 +4,11 @@
       "rpgserver:affinity": 8
     }
   ],
+  "items": [
+    "veggiesdelight:broccoli_seeds",
+    "#c:mushrooms",
+    "dungeonsdelight:rotbulb_crop"
+  ],
   "entities": [
     "minecraft:sheep",
     "minecraft:pig",
@@ -13,6 +18,18 @@
   ],
     "recipes": [
     "minecraft:mushroom_stew",
-    "minecraft:suspicious_stew"
+    "minecraft:suspicious_stew",
+    "farmersdelight:pie_crust",
+    "farmersdelight:apple_pie",
+    "veggiesdelight:sweet_potato_pie",
+    "farmersdelight:sweet_berry_cheesecake",
+    "farmersdelight:stuffed_potato",
+    "farmersdelight:bacon_and_eggs",
+    "farmersdelight:shepherds_pie_block",
+    "minersdelight:cave_hamburger",
+    "minersdelight:improvised_barbecue_stick",
+    "crabbersdelight:frog_leg_kebab",
+    "dungeonsdelight:poi",
+    "dungeonsdelight:bubblegunk"
   ]
 }

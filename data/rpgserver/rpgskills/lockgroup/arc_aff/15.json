@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 7
+    },
+    {
+      "rpgserver:affinity": 8
+    }
+  ],
+  "blocks": [
+    "dungeonsdelight:dungeon_stove",
+    "dungeonsdelight:monster_pot"
+  ]
+}

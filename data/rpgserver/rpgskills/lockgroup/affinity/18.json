@@ -5,10 +5,21 @@
     }
   ],
   "items": [
-    "minecraft:torchflower_seeds"
+    "culturaldelights:avocado_pit",
+    "minecraft:torchflower_seeds",
+    "minecraft:sea_pickle"
   ],
   "entities": [
     "minecraft:armadillo",
     "minecraft:dolphin"
+  ],
+  "recipes": [
+    "culturaldelights:avocado_pit",
+    "culturaldelights:empanada",
+    "culturaldelights:beef_burrito",
+    "culturaldelights:avocado_toast",
+    "culturaldelights:hearty_salad",
+    "veggiesdelight:cesar_salad",
+    "crabbersdelight:sea_pickle_juice"
   ]
 }

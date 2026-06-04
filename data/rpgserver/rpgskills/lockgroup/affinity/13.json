@@ -5,13 +5,51 @@
     }
   ],
   "items": [
+    "minecraft:shears",
     "minecraft:iron_hoe",
-    "minecraft:shears"
+    "farmersdelight:iron_knife",
+    "farmersdelight:golden_knife",
+    "dungeonsdelight:iron_cleaver",
+    "dungeonsdelight:golden_cleaver"
+  ],
+  "blocks": [
+    "farmersdelight:stove",
+    "farmersdelight:cooking_pot",
+    "farmersdelight:skillet",
+    "brewinandchewin:keg"
   ],
   "recipes": [
     "minecraft:glistering_melon_slice",
     "minecraft:golden_apple",
+    "minecraft:golden_carrot",
     "minecraft:cake",
-    "minecraft:jack_o_lantern"
+    "veggiesdelight:carrot_cake",
+    "veggiesdelight:sweet_potato_cupcake",
+    "moredelight:toast_with_honey",
+    "farmersdelight:honey_cookie",
+    "farmersdelight:gleaming_salad_block",
+    "brewinandchewin:pizza",
+    "brewinandchewin:quiche",
+    "veggiesdelight:zucchini_quiche",
+    "veggiesdelight:stuffed_zucchini_boat",
+    "brewinandchewin:ham_and_cheese_sandwich",
+    "farmersdelight:horse_feed",
+    "mynethersdelight:golden_egg",
+    "mynethersdelight:bleeding_tartar",
+    "mynethersdelight:striderloaf",
+    "mynethersdelight:hotdog",
+    "mynethersdelight:hotdog_with_mixed_salad",
+    "mynethersdelight:breakfast_sampler",
+    "mynethersdelight:bacon-wrapped_sausage_on_a_stick",
+    "mynethersdelight:stuffed_pepper",
+    "mynethersdelight:spicy_skewer",
+    "mynethersdelight:rock_soup",
+    "mynethersdelight:burnt_roll",
+    "mynethersdelight:magma_cake_block",
+    "mynethersdelight:hoglin_trophy",
+    "crabbersdelight:bucket_of_crab_chum",
+    "crabbersdelight:bucket_of_clawster_chum",
+    "crabbersdelight:bucket_of_clam_chum",
+    "crabbersdelight:bucket_of_shrimp_chum"
   ]
 }

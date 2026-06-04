@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 3
+    }
+  ],
+  "recipes": [
+    "culturaldelights:corn_kernels",
+    "culturaldelights:corn_dough",
+    "culturaldelights:tortilla_chips",
+    "minersdelight:vegan_wrap",
+    "minersdelight:squid_sandwich",
+    "minersdelight:tentacles_on_a_stick",
+    "veggiesdelight:garlic_baked_cod"
+  ],
+  "blocks": [
+    "crabbersdelight:crab_trap"
+  ]
+}

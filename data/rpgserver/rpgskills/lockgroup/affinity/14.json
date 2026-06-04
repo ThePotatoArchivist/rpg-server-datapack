@@ -5,7 +5,8 @@
     }
   ],
   "items": [
-    "minecraft:nether_wart"
+    "minecraft:nether_wart",
+    "#rpgskills:fungus"
   ],
   "entities": [
     "minecraft:bee",
@@ -14,5 +15,15 @@
     "minecraft:allay",
     "minecraft:sulfur_cube",
     "minecraft:turtle"
+  ],
+  "recipes": [
+    "veggiesdelight:fermented_garlic_honey",
+    "farmersdelight:nether_salad",
+    "mynethersdelight:hotdog_with_nether_salad",
+    "mynethersdelight:nether_burger",
+    "mynethersdelight:blue_tenderloin_steak",
+    "mynethersdelight:red_loin_on_a_stick",
+    "mynethersdelight:raw_stuffed_hoglin",
+    "mynethersdelight:zoglin_trophy"
   ]
 }

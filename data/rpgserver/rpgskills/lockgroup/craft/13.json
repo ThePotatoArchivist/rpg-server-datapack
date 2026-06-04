@@ -10,11 +10,17 @@
   ],
   "recipes": [
     "minecraft:blast_furnace",
-    "minecraft:anvil",
+    "farmersdelight:stove",
     "minecraft:cauldron",
+    "minecraft:anvil",
+    "farmersdelight:cooking_pot",
+    "farmersdelight:skillet",
     "#rpgskills:iron_tools",
     "#rpgskills:iron_weapons",
+    "farmersdelight:golden_knife",
+    "dungeonsdelight:golden_cleaver",
     "archers:medium_quiver",
-    "runes:medium_rune_pouch"
+    "runes:medium_rune_pouch",
+    "brewinandchewin:tankard"
   ]
 }
