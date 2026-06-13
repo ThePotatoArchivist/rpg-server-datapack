@@ -2,13 +2,25 @@
     "name": "Strength",
     "icon": "rogues:netherite_double_axe",
     "levels": {
-        "1": {},
+        "1": {
+            "jobs": [
+                "rpgserver:strength/fight1"
+            ]
+        },
         "2": {},
         "3": {},
-        "4": {},
+        "4": {
+            "jobs": [
+                "rpgserver:strength/fight2"
+            ]
+        },
         "5": {},
         "6": {},
-        "7": {},
+        "7": {
+            "jobs": [
+                "rpgserver:strength/fight3"
+            ]
+        },
         "8": {},
         "9": {},
         "10": {},
