@@ -19,6 +19,9 @@
             }
           },
           {
+            "condition": "rpgskills:tool_suitable_for_block"
+          },
+          {
             "condition": "minecraft:inverted",
             "term": {
               "condition": "minecraft:match_tool",
