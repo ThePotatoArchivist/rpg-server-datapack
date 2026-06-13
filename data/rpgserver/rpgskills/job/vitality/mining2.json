@@ -1,0 +1,40 @@
+{
+  "name": "Mining 2",
+  "cooldown_ticks": 2400,
+  "reward_points": 8,
+  "tasks": [
+    {
+      "id": "mine_copper",
+      "description": "Mine Copper Ore (without Silk Touch)",
+      "count": 20,
+      "trigger": "rpgskills:break_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "#c:ores/copper"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "predicates": {
+                  "minecraft:enchantments": [
+                    {
+                      "enchantments": "minecraft:silk_touch"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Mining 1",
+  "cooldown_ticks": 1200,
+  "reward_points": 5,
+  "tasks": [
+    {
+      "id": "mine_stone",
+      "description": "Mine Stone (without Silk Touch)",
+      "count": 30,
+      "trigger": "rpgskills:break_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:stone"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "predicates": {
+                  "minecraft:enchantments": [
+                    {
+                      "enchantments": "minecraft:silk_touch"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
