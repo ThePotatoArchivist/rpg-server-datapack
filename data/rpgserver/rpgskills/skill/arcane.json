@@ -2,13 +2,25 @@
     "name": "Arcane",
     "icon": "wizards:staff_netherite_arcane",
     "levels": {
-        "1": {},
+        "1": {
+            "jobs": [
+                "rpgserver:arcane/runes1"
+            ]
+        },
         "2": {},
         "3": {},
-        "4": {},
+        "4": {
+            "jobs": [
+                "rpgserver:arcane/dispell1"
+            ]
+        },
         "5": {},
         "6": {},
-        "7": {},
+        "7": {
+            "jobs": [
+                "rpgserver:arcane/dispell2"
+            ]
+        },
         "8": {},
         "9": {},
         "10": {},
