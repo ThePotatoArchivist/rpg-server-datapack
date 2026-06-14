@@ -1,0 +1,18 @@
+{
+  "name": "Invention 1",
+  "cooldown_ticks": 1200,
+  "reward_points": 5,
+  "tasks": [
+    {
+      "id": "craft_torch",
+      "description": "Craft Torch",
+      "count": 20,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgskills:torches"
+        }
+      }
+    }
+  ]
+}
