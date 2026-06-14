@@ -1,0 +1,22 @@
+{
+  "name": "Hunting 3",
+  "cooldown_ticks": 4800,
+  "reward_points": 11,
+  "tasks": [
+    {
+      "id": "kill_spider",
+      "description": "Kill any spider",
+      "count": 10,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": [
+            "minecraft:spider",
+            "minecraft:cave_spider",
+            "crittersandcompanions:jumping_spider"
+          ]
+        }
+      }
+    }
+  ]
+}
