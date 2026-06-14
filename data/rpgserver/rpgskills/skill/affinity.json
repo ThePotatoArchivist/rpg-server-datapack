@@ -2,13 +2,25 @@
     "name": "Affinity",
     "icon": "farmersdelight:rice_panicle",
     "levels": {
-        "1": {},
+        "1": {
+            "jobs": [
+                "rpgserver:affinity/cook1"
+            ]
+        },
         "2": {},
         "3": {},
-        "4": {},
+        "4": {
+            "jobs": [
+                "rpgserver:affinity/ranch1"
+            ]
+        },
         "5": {},
         "6": {},
-        "7": {},
+        "7": {
+            "jobs": [
+                "rpgserver:affinity/cook2"
+            ]
+        },
         "8": {},
         "9": {},
         "10": {},

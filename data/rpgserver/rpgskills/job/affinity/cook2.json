@@ -1,0 +1,18 @@
+{
+  "name": "Cooking 2",
+  "cooldown_ticks": 4800,
+  "reward_points": 11,
+  "tasks": [
+    {
+      "id": "craft_sandwich",
+      "description": "Make basic sandwiches (lvl1-7)",
+      "count": 5,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgskills:basic_sandwiches"
+        }
+      }
+    }
+  ]
+}

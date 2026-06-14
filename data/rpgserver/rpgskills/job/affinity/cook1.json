@@ -1,0 +1,18 @@
+{
+  "name": "Cooking 1",
+  "cooldown_ticks": 1200,
+  "reward_points": 5,
+  "tasks": [
+    {
+      "id": "craft_meal",
+      "description": "Prepare basic meals (lvl1)",
+      "count": 5,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgskills:basic_meals"
+        }
+      }
+    }
+  ]
+}
