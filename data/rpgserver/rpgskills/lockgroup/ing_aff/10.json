@@ -1,0 +1,22 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 5
+    },
+    {
+      "rpgserver:affinity": 5
+    }
+  ],
+  "items": [
+    "#rpgskills:plows",
+    "#rpgskills:hand_carts",
+    "#rpgskills:supply_carts",
+    "#rpgskills:animal_carts"
+  ],
+  "recipes": [
+    "#rpgskills:plows",
+    "#rpgskills:hand_carts",
+    "#rpgskills:supply_carts",
+    "#rpgskills:animal_carts"
+  ]
+}

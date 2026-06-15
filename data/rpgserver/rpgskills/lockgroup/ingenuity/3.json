@@ -8,6 +8,7 @@
     "minecraft:scaffolding"
   ],
   "recipes": [
+    "astikorcartsredux:wheel",
     "minecraft:scaffolding",
     "#minecraft:boats",
     "ghosts:haunted_boat",

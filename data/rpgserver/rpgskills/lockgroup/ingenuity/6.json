@@ -19,6 +19,7 @@
     "minecraft:observer",
     "ghosts:calibrated_haunted_eye",
     "minecraft:redstone_lamp",
-    "minecraft:tnt"
+    "minecraft:tnt",
+    "benssharks:land_mine"
   ]
 }

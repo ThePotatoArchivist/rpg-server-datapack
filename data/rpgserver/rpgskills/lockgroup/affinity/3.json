@@ -8,6 +8,8 @@
     "minecraft:spruce_sapling"
   ],
   "recipes": [
+    "benssharks:starch",
+    "benssharks:cellophane_noodles",
     "culturaldelights:corn_kernels",
     "culturaldelights:corn_dough",
     "culturaldelights:tortilla_chips",

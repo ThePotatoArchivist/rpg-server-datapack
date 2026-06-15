@@ -11,6 +11,7 @@
     "vinery:dark_cherry_sapling"
   ],
   "recipes": [
+    "cnc:field_guide",
     "veggiesdelight:turnip_salad",
     "farmersdelight:chicken_sandwich",
     "moredelight:steak_sandwich",

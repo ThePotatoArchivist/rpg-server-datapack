@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 9
+    },
+    {
+      "rpgserver:affinity": 8
+    }
+  ],
+  "items": [
+    "#rpgskills:reapers",
+    "#rpgskills:seed_drills"
+  ],
+  "recipes": [
+    "#rpgskills:reapers",
+    "#rpgskills:seed_drills"
+  ]
+}

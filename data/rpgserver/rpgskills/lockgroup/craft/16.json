@@ -10,6 +10,8 @@
   "recipes": [
     "#rpgskills:steel_tools",
     "#rpgskills:steel_weapons",
+    "benssharks:dent",
+    "minecraft:trident",
     "travelersbackpack:gold_tier_upgrade"
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:bow"
+  },
+  "base": {
+    "item": "benssharks:maelstrom"
+  },
+  "addition": {
+    "item": "benssharks:megalodon_tooth"
+  },
+  "result": {
+    "id": "benssharks:maelstrom_bow"
+  }
+}

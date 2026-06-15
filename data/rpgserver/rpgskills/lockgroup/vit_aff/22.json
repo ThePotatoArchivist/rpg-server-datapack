@@ -1,0 +1,16 @@
+{
+    "requirements": [
+        {
+            "rpgserver:vitality": 17
+        },
+        {
+            "rpgserver:affinity": 5
+        }
+    ],
+    "items": [
+        "benssharks:jagged_helmet",
+        "benssharks:jagged_chestplate",
+        "benssharks:jagged_leggings",
+        "benssharks:jagged_boots"
+    ]
+}

@@ -13,8 +13,28 @@
     "culturaldelights:avocado_sapling"
   ],
   "entities": [
+    "minecraft:dolphin",
     "minecraft:armadillo",
-    "minecraft:dolphin"
+    "cnc:elk",
+    "cnc:coyote",
+    "cnc:timber_wolf",
+    "cnc:white_tailed_deer",
+    "cnc:cougar",
+    "cnc:wolverine",
+    "cnc:ringtail",
+    "cnc:giant_boar",
+    "cnc:goose",
+    "cnc:black_bear",
+    "cnc:beaver",
+    "cnc:mouse",
+    "cnc:snake",
+    "cnc:rattlesnake",
+    "cnc:pit_viper",
+    "cnc:turkey",
+    "cnc:caribou",
+    "cnc:skunk",
+    "cnc:marmot",
+    "cnc:mule_deer"
   ],
   "recipes": [
     "culturaldelights:avocado_pit",

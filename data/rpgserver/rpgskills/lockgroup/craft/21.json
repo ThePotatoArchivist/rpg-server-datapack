@@ -6,7 +6,9 @@
   ],
   "recipes": [
     "#rpgskills:diamond_armor",
+    "#rpgskills:jagged_armor",
     "#rpgskills:berserker_armor",
-    "endersdelight:endstone_stove"
+    "endersdelight:endstone_stove",
+    "benssharks:axoscute"
   ]
 }
