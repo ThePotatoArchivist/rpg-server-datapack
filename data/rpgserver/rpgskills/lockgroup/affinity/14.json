@@ -11,6 +11,8 @@
   ],
   "entities": [
     "minecraft:bee",
+    "crittersandcompanions:dragonfly",
+    "crittersandcompanions:jumping_spider",
     "minecraft:frog",
     "minecraft:axolotl",
     "minecraft:allay",

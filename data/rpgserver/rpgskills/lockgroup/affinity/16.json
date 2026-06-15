@@ -14,6 +14,8 @@
   ],
   "entities": [
     "minecraft:fox",
+    "crittersandcompanions:otter",
+    "crittersandcompanions:red_panda",
     "minecraft:parrot",
     "minecraft:villager",
     "minecraft:wandering_trader",

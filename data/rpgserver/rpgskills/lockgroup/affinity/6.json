@@ -14,7 +14,8 @@
     "minecraft:smoker"
   ],
   "entities": [
-    "minecraft:rabbit"
+    "minecraft:rabbit",
+    "crittersandcompanions:shima_enaga"
   ],
   "recipes": [
     "culturaldelights:mutton_sandwich",

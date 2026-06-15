@@ -11,6 +11,7 @@
     "vinery:apple_tree_sapling"
   ],
   "entities": [
+    "crittersandcompanions:ferret",
     "minecraft:sheep",
     "minecraft:pig",
     "minecraft:goat",

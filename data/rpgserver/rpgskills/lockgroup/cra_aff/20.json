@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 10
+    },
+    {
+      "rpgserver:affinity": 10
+    }
+  ],
+  "recipes": [
+    "crittersandcompanions:diamond_dragonfly_armor"
+  ]
+}
