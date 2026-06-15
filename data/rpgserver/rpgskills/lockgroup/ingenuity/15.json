@@ -39,6 +39,8 @@
     "#rpgskills:pipe_organs",
     "create:empty_blaze_burner",
     "aeronautics:steam_vent",
+    "cold_sweat:hearth",
+    "cold_sweat:smokestack",
     "create:linked_controller",
     "create:rose_quartz",
     "create:electron_tube",

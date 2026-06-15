@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 17,
+      "rpgserver:affinity": 17
+    }
+  ],
+  "recipes": [
+    "#rpgskills:hoglin_clothes"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 9,
+      "rpgserver:affinity": 9
+    }
+  ],
+  "recipes": [
+    "#rpgskills:goat_fur_clothes"
+  ]
+}

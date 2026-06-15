@@ -21,6 +21,7 @@
   ],
   "entities": [
     "minecraft:chicken",
+    "envelope:pigeon",
     "minecraft:cat",
     "minecraft:wolf"
   ],

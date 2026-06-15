@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 3,
+      "rpgserver:affinity": 3
+    }
+  ],
+  "blocks": [
+    "cold_sweat:sewing_table"
+  ]
+}

@@ -10,8 +10,7 @@
     "minecraft:light_weighted_pressure_plate",
     "minecraft:heavy_weighted_pressure_plate",
     "minecraft:powered_rail",
-    "create:goggles",
-    "create:wrench",
+    "sereneseasons:season_sensor",
     "create:basin",
     "create:mechanical_mixer",
     "create:millstone",
@@ -23,7 +22,9 @@
     "create_dragons_plus:levitite_fragile_fluid_tank",
     "simulated:directional_gearshift",
     "#rpgskills:portable_engines",
-    "aeronautics:aviators_goggles"
+    "aeronautics:aviators_goggles",
+    "create:goggles",
+    "create:wrench"
   ],
   "recipes": [
     "minecraft:polished_blackstone_pressure_plate",
@@ -31,6 +32,7 @@
     "minecraft:light_weighted_pressure_plate",
     "minecraft:heavy_weighted_pressure_plate",
     "minecraft:powered_rail",
+    "sereneseasons:season_sensor",
     "create:basin",
     "create:mechanical_mixer",
     "create:millstone",
@@ -45,10 +47,12 @@
     "aeronautics:aviators_goggles",
     "create:goggles",
     "create:wrench",
+    "cold_sweat:thermometer",
     "#create:toolboxes",
     "create:desk_bell",
     "create:transmitter",
     "create:whisk",
-    "minecraft:clock"
+    "minecraft:clock",
+    "sereneseasons:calendar"
   ]
 }

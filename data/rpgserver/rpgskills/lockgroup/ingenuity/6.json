@@ -6,12 +6,14 @@
   ],
   "items": [
     "minecraft:comparator",
+    "cold_sweat:thermolith",
     "minecraft:daylight_detector",
     "minecraft:observer",
     "minecraft:redstone_lamp"
   ],
   "recipes": [
     "minecraft:comparator",
+    "cold_sweat:thermolith",
     "minecraft:daylight_detector",
     "minecraft:observer",
     "minecraft:redstone_lamp",

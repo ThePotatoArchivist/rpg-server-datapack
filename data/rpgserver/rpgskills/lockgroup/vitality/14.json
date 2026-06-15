@@ -9,6 +9,10 @@
     "minecraft:iron_chestplate",
     "minecraft:iron_leggings",
     "minecraft:iron_boots",
+    "cold_sweat:chameleon_helmet",
+    "cold_sweat:chameleon_chestplate",
+    "cold_sweat:chameleon_leggings",
+    "cold_sweat:chameleon_boots",
     "create:copper_backtank"
   ]
 }

@@ -10,9 +10,9 @@
   ],
   "recipes": [
     "minecraft:blast_furnace",
+    "minecraft:anvil",
     "farmersdelight:stove",
     "minecraft:cauldron",
-    "minecraft:anvil",
     "farmersdelight:cooking_pot",
     "farmersdelight:skillet",
     "#rpgskills:iron_tools",
@@ -25,6 +25,7 @@
     "runes:medium_rune_pouch",
     "cataclysm:belt_of_beginner",
     "cataclysm:blazing_grips",
+    "envelope:paper_box",
     "cataclysm:azure_sea_shield",
     "herbalbrews:copper_tea_kettle",
     "herbalbrews:tea_kettle",

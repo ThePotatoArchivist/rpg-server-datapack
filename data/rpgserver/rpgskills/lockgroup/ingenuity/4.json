@@ -19,6 +19,7 @@
     "minecraft:lever",
     "minecraft:redstone_block",
     "minecraft:note_block",
-    "minecraft:target"
+    "minecraft:target",
+    "cold_sweat:icebox"
   ]
 }

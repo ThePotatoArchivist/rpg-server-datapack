@@ -8,6 +8,7 @@
     }
   ],
   "recipes": [
-    "minecraft:smoker"
+    "minecraft:smoker",
+    "envelope:oak_pigeonhole"
   ]
 }

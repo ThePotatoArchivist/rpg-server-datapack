@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 14,
+      "rpgserver:affinity": 14
+    }
+  ],
+  "recipes": [
+    "#rpgskills:chameleon_scale_clothes"
+  ]
+}
