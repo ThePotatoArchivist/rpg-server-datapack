@@ -25,7 +25,17 @@
         "vinery:bamboo_wine_rack_small",
         "vinery:bamboo_wine_rack_big",
         "vinery:cherry_wine_rack_small",
-        "vinery:cherry_wine_rack_big"
+        "vinery:cherry_wine_rack_big",
+        "supplementaries:hat_stand",
+        "#supplementaries:item_shelves",
+        "#another_furniture:chairs",
+        "#another_furniture:shelves",
+        "#another_furniture:tables",
+        "#another_furniture:stools",
+        "#another_furniture:benches",
+        "#another_furniture:drawers",
+        "#another_furniture:sofas",
+        "#another_furniture:tall_stools"
     ],
     "remove": [
         "mynethersdelight:nether_bricks_cabinet",

@@ -4,7 +4,9 @@
     "#minecraft:wool_carpets",
     "#minecraft:banners",
     "#supplementaries:flags",
-    "#supplementaries:buntings"
+    "#supplementaries:buntings",
+    "#another_furniture:curtains",
+    "#another_furniture:lamps"
   ],
 
   "replace": false

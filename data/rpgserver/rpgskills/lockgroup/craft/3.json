@@ -4,10 +4,14 @@
       "rpgserver:craft": 3
     }
   ],
+  "items": [
+    "another_furniture:furniture_hammer"
+  ],
   "blocks": [
     "minecraft:loom"
   ],
   "recipes": [
+    "another_furniture:furniture_hammer",
     "minecraft:painting",
     "vinery:storage_pot",
     "#rpgskills:moss_carpets",

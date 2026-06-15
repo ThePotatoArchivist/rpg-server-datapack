@@ -27,7 +27,8 @@
     "supplementaries:sconce",
     "supplementaries:sconce_soul",
     "#supplementaries:candle_holders",
-    "supplementaries:iron_gate"
+    "supplementaries:iron_gate",
+    "another_furniture:service_bell"
   ],
   "replace": false
 }
