@@ -14,7 +14,8 @@
     "dungeonsdelight:golden_cleaver",
     "cataclysm:chitin_claw",
     "herbalbrews:green_tea_leaf_block",
-    "minecraft:jungle_sapling"
+    "minecraft:jungle_sapling",
+    "minecraft:carved_pumpkin"
   ],
   "blocks": [
     "farmersdelight:stove",
@@ -23,7 +24,8 @@
     "brewinandchewin:keg",
     "vinery:apple_press",
     "herbalbrews:copper_tea_kettle",
-    "herbalbrews:tea_kettle"
+    "herbalbrews:tea_kettle",
+    "golemoverhaul:candle_golem_block"
   ],
   "recipes": [
     "minecraft:glistering_melon_slice",
@@ -59,6 +61,11 @@
     "crabbersdelight:bucket_of_clawster_chum",
     "crabbersdelight:bucket_of_clam_chum",
     "crabbersdelight:bucket_of_shrimp_chum",
-    "herbalbrews:green_tea_leaf_block"
+    "herbalbrews:green_tea_leaf_block",
+    "minecraft:jack_o_lantern",
+    "dungeonsdelight:living_jack_o_lantern",
+    "golemoverhaul:candle_golem_block",
+    "golemoverhaul:clay_golem_statue",
+    "golemoverhaul:coal_golem"
   ]
 }
