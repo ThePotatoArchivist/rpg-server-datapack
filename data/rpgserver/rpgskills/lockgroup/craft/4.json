@@ -20,7 +20,8 @@
     "#minecraft:bundles",
     "cold_sweat:waterskin",
     "archers:small_quiver",
-    "runes:small_rune_pouch"
+    "runes:small_rune_pouch",
+    "#rpgskills:instruments"
   ],
   "blocks": [
     "minecraft:furnace",
