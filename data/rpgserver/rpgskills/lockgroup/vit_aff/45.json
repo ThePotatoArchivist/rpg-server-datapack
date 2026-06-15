@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 30
+    },
+    {
+      "rpgserver:affinity": 15
+    }
+  ],
+  "items": [
+    "cataclysm:brontes"
+  ]
+}

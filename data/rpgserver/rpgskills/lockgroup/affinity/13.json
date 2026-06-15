@@ -7,16 +7,23 @@
   "items": [
     "minecraft:shears",
     "minecraft:iron_hoe",
+    "cataclysm:black_steel_hoe",
     "farmersdelight:iron_knife",
     "farmersdelight:golden_knife",
     "dungeonsdelight:iron_cleaver",
-    "dungeonsdelight:golden_cleaver"
+    "dungeonsdelight:golden_cleaver",
+    "cataclysm:chitin_claw",
+    "herbalbrews:green_tea_leaf_block",
+    "minecraft:jungle_sapling"
   ],
   "blocks": [
     "farmersdelight:stove",
     "farmersdelight:cooking_pot",
     "farmersdelight:skillet",
-    "brewinandchewin:keg"
+    "brewinandchewin:keg",
+    "vinery:apple_press",
+    "herbalbrews:copper_tea_kettle",
+    "herbalbrews:tea_kettle"
   ],
   "recipes": [
     "minecraft:glistering_melon_slice",
@@ -50,6 +57,7 @@
     "crabbersdelight:bucket_of_crab_chum",
     "crabbersdelight:bucket_of_clawster_chum",
     "crabbersdelight:bucket_of_clam_chum",
-    "crabbersdelight:bucket_of_shrimp_chum"
+    "crabbersdelight:bucket_of_shrimp_chum",
+    "herbalbrews:green_tea_leaf_block"
   ]
 }

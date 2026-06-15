@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 30
+    },
+    {
+      "rpgserver:dexterity": 15
+    }
+  ],
+  "items": [
+    "cataclysm:laser_gatling",
+    "cataclysm:wither_assault_shoulder_weapon"
+  ]
+}

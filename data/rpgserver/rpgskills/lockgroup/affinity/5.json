@@ -6,7 +6,9 @@
   ],
   "items": [
     "farmersdelight:cabbage_seeds",
-    "veggiesdelight:turnip_seeds"
+    "veggiesdelight:turnip_seeds",
+    "minecraft:cherry_sapling",
+    "vinery:dark_cherry_sapling"
   ],
   "recipes": [
     "veggiesdelight:turnip_salad",

@@ -8,6 +8,7 @@
     "minecraft:stonecutter"
   ],
   "recipes": [
+    "vinery:apple_press",
     "#rpgskills:cut_andesite_decorations",
     "#rpgskills:cut_diorite_decorations",
     "#rpgskills:cut_granite_decorations",
@@ -25,6 +26,7 @@
     "#rpgskills:framed_glass_panes",
     "#rpgskills:iron_decorations",
     "#rpgskills:zinc_decorations",
+    "#rpgskills:black_steel_decorations",
     "#rpgskills:industrial_iron_decorations",
     "#rpgskills:andesite_alloy_decorations",
     "#rpgskills:copper_sheet_decorations"

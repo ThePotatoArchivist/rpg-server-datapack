@@ -3,6 +3,10 @@
     "minecraft:bamboo_mosaic",
     "dungeonsdelight:wormwood_mosaic",
     "mynethersdelight:powdery_mosaic",
+    "vinery:dark_cherry_beam",
+    "vinery:dark_cherry_floorboard",
+    "vinery:dark_cherry_fence_gate",
+    "vinery:dark_cherry_hanging_sign",
     "#minecraft:wooden_stairs",
     "mynethersdelight:powdery_mosaic_stairs",
     "mynethersdelight:powdery_mosaic_slab",
@@ -12,6 +16,7 @@
     "#minecraft:fence_gates",
     "#minecraft:wooden_doors",
     "#minecraft:wooden_trapdoors",
+    "cataclysm:chorus_trapdoor",
     "#rpgskills:wooden_shelves",
     "#minecraft:signs",
     "#minecraft:hanging_signs"

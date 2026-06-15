@@ -4,6 +4,9 @@
       "rpgserver:affinity": 3
     }
   ],
+  "items": [
+    "minecraft:spruce_sapling"
+  ],
   "recipes": [
     "culturaldelights:corn_kernels",
     "culturaldelights:corn_dough",

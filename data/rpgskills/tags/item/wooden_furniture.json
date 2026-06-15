@@ -1,7 +1,31 @@
 {
     "values": [
         "#create:seats",
-        "#farmersdelight:cabinets"
+        "#farmersdelight:cabinets",
+        "vinery:dark_cherry_drawer",
+        "vinery:dark_cherry_cabinet",
+        "vinery:dark_cherry_table",
+        "vinery:dark_cherry_chair",
+        "vinery:dark_cherry_wine_rack_small",
+        "vinery:dark_cherry_wine_rack_big",
+        "vinery:oak_wine_rack_small",
+        "vinery:oak_wine_rack_big",
+        "vinery:spruce_wine_rack_small",
+        "vinery:spruce_wine_rack_big",
+        "vinery:birch_wine_rack_small",
+        "vinery:birch_wine_rack_big",
+        "vinery:jungle_wine_rack_small",
+        "vinery:jungle_wine_rack_big",
+        "vinery:acacia_wine_rack_small",
+        "vinery:acacia_wine_rack_big",
+        "vinery:dark_oak_wine_rack_small",
+        "vinery:dark_oak_wine_rack_big",
+        "vinery:mangrove_wine_rack_small",
+        "vinery:mangrove_wine_rack_big",
+        "vinery:bamboo_wine_rack_small",
+        "vinery:bamboo_wine_rack_big",
+        "vinery:cherry_wine_rack_small",
+        "vinery:cherry_wine_rack_big"
     ],
     "remove": [
         "mynethersdelight:nether_bricks_cabinet",

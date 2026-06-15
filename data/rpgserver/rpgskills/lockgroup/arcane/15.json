@@ -4,16 +4,16 @@
       "rpgserver:arcane": 15
     }
   ],
+  "items": [
+    "cataclysm:void_core"
+  ],
   "blocks": [
     "minecraft:brewing_stand",
     "runes:crafting_altar"
   ],
-  "items": [
-    "minecraft:ender_eye"
-  ],
   "recipes": [
-    "minecraft:ender_eye",
     "minecraft:spectral_arrow",
-    "minecraft:tipped_arrow"
+    "minecraft:tipped_arrow",
+    "cataclysm:void_scatter_arrow"
   ]
 }

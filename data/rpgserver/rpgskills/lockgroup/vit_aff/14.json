@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 5
+    },
+    {
+      "rpgserver:affinity": 9
+    }
+  ],
+  "items": [
+    "#rpgskills:winemaker_clothes"
+  ]
+}

@@ -9,10 +9,15 @@
     "moredelight:stone_knife",
     "minecraft:bone_meal",
     "minecraft:sugar_cane",
-    "farmersdelight:organic_compost"
+    "farmersdelight:organic_compost",
+    "minecraft:oak_sapling",
+    "minecraft:dark_oak_sapling",
+    "minecraft:pale_oak_sapling"
   ],
   "blocks": [
-    "minecraft:composter"
+    "minecraft:composter",
+    "vinery:grapevine_pot",
+    "vinery:fermentation_barrel"
   ],
   "entities": [
     "minecraft:chicken",

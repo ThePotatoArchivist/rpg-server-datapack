@@ -5,7 +5,8 @@
     }
   ],
   "items": [
-    "minecraft:lightning_rod"
+    "minecraft:lightning_rod",
+    "herbalbrews:top_hat"
   ],
   "recipes": [
     "minecraft:lightning_rod",

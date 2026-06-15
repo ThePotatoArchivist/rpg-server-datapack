@@ -17,10 +17,18 @@
     "farmersdelight:skillet",
     "#rpgskills:iron_tools",
     "#rpgskills:iron_weapons",
+    "#rpgskills:black_steel_tools",
+    "#rpgskills:black_steel_weapons",
     "farmersdelight:golden_knife",
     "dungeonsdelight:golden_cleaver",
     "archers:medium_quiver",
     "runes:medium_rune_pouch",
+    "cataclysm:belt_of_beginner",
+    "cataclysm:blazing_grips",
+    "cataclysm:azure_sea_shield",
+    "herbalbrews:copper_tea_kettle",
+    "herbalbrews:tea_kettle",
+    "herbalbrews:jug",
     "brewinandchewin:tankard"
   ]
 }

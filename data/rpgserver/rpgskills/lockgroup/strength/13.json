@@ -5,6 +5,8 @@
     }
   ],
   "items": [
-    "minecraft:iron_axe"
+    "minecraft:iron_axe",
+    "cataclysm:black_steel_axe",
+    "cataclysm:berserker_soul_amulet"
   ]
 }

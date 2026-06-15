@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 30
+    }
+  ],
+  "items": [
+    "cataclysm:monstrous_helm",
+    "cataclysm:bone_reptile_helmet",
+    "cataclysm:bone_reptile_chestplate",
+    "cataclysm:bloom_stone_pauldrons",
+    "cataclysm:ignitium_chestplate",
+    "cataclysm:bulwark_of_the_flame",
+    "cataclysm:infernal_forge"
+  ]
+}

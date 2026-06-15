@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 30
+    },
+    {
+      "rpgserver:arcane": 15
+    }
+  ],
+  "items": [
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:the_incinerator"
+  ]
+}

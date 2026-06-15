@@ -10,6 +10,8 @@
   "recipes": [
     "minecraft:netherite_upgrade_smithing_template",
     "#rpgskills:netherite_tools",
-    "#rpgskills:netherite_weapons"
+    "#rpgskills:netherite_weapons",
+    "herbalbrews:herbalbrews_banner",
+    "vinery:vinery_standard"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:strength": 30
+    },
+    {
+      "rpgserver:vitality": 15
+    }
+  ],
+  "items": [
+    "cataclysm:gauntlet_of_bulwark"
+  ]
+}

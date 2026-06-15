@@ -7,7 +7,7 @@
       "rpgserver:affinity": 7
     }
   ],
-  "items": [
-    "mynethersdelight:blazier"
+  "blocks": [
+    "mynethersdelight:blazier_block"
   ]
 }

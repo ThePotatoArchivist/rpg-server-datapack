@@ -10,7 +10,9 @@
     "minecraft:prismarine_brick_slab",
     "minecraft:dark_prismarine",
     "minecraft:dark_prismarine_stairs",
-    "minecraft:dark_prismarine_slab"
+    "minecraft:dark_prismarine_slab",
+    "cataclysm:prismarine_brick_fence",
+    "cataclysm:prismarine_brick_wall"
   ],
 
   "replace": false

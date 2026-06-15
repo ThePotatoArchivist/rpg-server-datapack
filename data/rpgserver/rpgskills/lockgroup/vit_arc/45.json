@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 30
+    },
+    {
+      "rpgserver:arcane": 15
+    }
+  ],
+  "items": [
+    "cataclysm:void_forge",
+    "cataclysm:ignitium_helmet",
+    "cataclysm:ignitium_leggings",
+    "cataclysm:ignitium_boots",
+    "cataclysm:cursium_helmet",
+    "cataclysm:cursium_chestplate"
+  ]
+}

@@ -5,6 +5,7 @@
     }
   ],
   "recipes": [
+    "vinery:wine_box",
     "minecraft:flower_pot",
     "minecraft:decorated_pot",
     "minecraft:andesite",
@@ -29,6 +30,7 @@
     "#rpgskills:resin_brick_decorations",
     "#rpgskills:dyed_terracotta",
     "#c:concrete_powder",
+    "#rpgskills:wine_racks",
     "#rpgskills:wooden_windows",
     "#rpgskills:stained_glass",
     "#rpgskills:glass_panes"

@@ -10,7 +10,10 @@
     "dungeonsdelight:netherite_cleaver",
     "minecraft:chorus_flower",
     "enderscape:flanger_berry_flower",
-    "endersdelight:voidpepper"
+    "endersdelight:voidpepper",
+    "enderscape:veiled_sapling",
+    "herbalbrews:herbalbrews_banner",
+    "vinery:vinery_standard"
   ],
   "recipes": [
     "enderscape:chorus_cake_roll",

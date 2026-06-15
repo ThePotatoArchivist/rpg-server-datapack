@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:dexterity": 30
+    }
+  ],
+  "items": [
+    "cataclysm:cursed_bow",
+    "cataclysm:the_annihilator"
+  ]
+}

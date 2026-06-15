@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:arcane": 30
+    },
+    {
+      "rpgserver:dexterity": 15
+    }
+  ],
+  "items": [
+    "cataclysm:tidal_claws"
+  ]
+}

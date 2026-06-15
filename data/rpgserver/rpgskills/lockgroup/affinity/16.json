@@ -7,6 +7,8 @@
   "items": [
     "downtoearth:steel_hoe",
     "minecraft:cocoa_beans",
+    "vinery:savanna_grape_seeds_red",
+    "vinery:savanna_grape_seeds_white",
     "minecraft:sniffer_egg",
     "dungeonsdelight:embedded_eggs"
   ],
@@ -15,6 +17,7 @@
     "minecraft:parrot",
     "minecraft:villager",
     "minecraft:wandering_trader",
+    "vinery:wandering_winemaker",
     "minecraft:sniffer"
   ],
   "recipes": [

@@ -11,7 +11,9 @@
     "minecraft:end_stone_bricks",
     "minecraft:end_stone_brick_stairs",
     "minecraft:end_stone_brick_slab",
-    "minecraft:end_stone_brick_wall"
+    "minecraft:end_stone_brick_wall",
+    "cataclysm:chiseled_end_stone_bricks",
+    "cataclysm:end_stone_pillar"
   ],
 
   "replace": false

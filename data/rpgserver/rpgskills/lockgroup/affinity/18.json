@@ -5,9 +5,12 @@
     }
   ],
   "items": [
+    "vinery:jungle_grape_seeds_red",
+    "vinery:jungle_grape_seeds_white",
     "culturaldelights:avocado_pit",
     "minecraft:torchflower_seeds",
-    "minecraft:sea_pickle"
+    "minecraft:sea_pickle",
+    "culturaldelights:avocado_sapling"
   ],
   "entities": [
     "minecraft:armadillo",

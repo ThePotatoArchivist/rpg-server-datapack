@@ -4,6 +4,9 @@
       "rpgserver:arcane": 17
     }
   ],
+  "blocks": [
+    "herbalbrews:cauldron"
+  ],
   "recipes": [
     "minecraft:recovery_compass"
   ]

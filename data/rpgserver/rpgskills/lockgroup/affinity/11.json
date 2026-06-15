@@ -6,7 +6,8 @@
     ],
     "items": [
         "farmersdelight:tomato_seeds",
-        "culturaldelights:cucumber_seeds"
+        "culturaldelights:cucumber_seeds",
+        "crabbersdelight:palm_sapling"
     ],
     "blocks": [
         "pipeorgans:roll_puncher"

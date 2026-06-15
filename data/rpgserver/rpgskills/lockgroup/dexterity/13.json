@@ -7,6 +7,9 @@
   "items": [
     "archers:mechanic_shortbow",
     "minecraft:iron_sword",
-    "archers:medium_quiver"
+    "cataclysm:black_steel_sword",
+    "archers:medium_quiver",
+    "cataclysm:ring_of_grudged",
+    "cataclysm:sturdy_boots"
   ]
 }

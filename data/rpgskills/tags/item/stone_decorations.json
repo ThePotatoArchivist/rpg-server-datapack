@@ -19,7 +19,14 @@
     "minecraft:mossy_stone_bricks",
     "minecraft:mossy_stone_brick_stairs",
     "minecraft:mossy_stone_brick_slab",
-    "minecraft:mossy_stone_brick_wall"
+    "minecraft:mossy_stone_brick_wall",
+    "cataclysm:stone_pillar",
+    "cataclysm:chiseled_stone_brick_pillar",
+    "cataclysm:stone_tiles",
+    "cataclysm:frosted_stone_bricks",
+    "cataclysm:frosted_stone_brick_slab",
+    "cataclysm:frosted_stone_brick_stairs",
+    "cataclysm:frosted_stone_brick_wall"
   ],
 
   "replace": false

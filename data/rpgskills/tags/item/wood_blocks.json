@@ -20,6 +20,8 @@
     "minecraft:stripped_pale_oak_wood",
     "crabbersdelight:palm_wood",
     "crabbersdelight:stripped_palm_wood",
+    "vinery:dark_cherry_wood",
+    "vinery:stripped_dark_cherry_wood",
     "culturaldelights:avocado_wood",
     "minecraft:crimson_hyphae",
     "minecraft:stripped_crimson_hyphae",
@@ -32,7 +34,8 @@
     "enderscape:murublight_hyphae",
     "enderscape:stripped_murublight_hyphae",
     "minecraft:bamboo_block",
-    "mynethersdelight:powdery_block"
+    "mynethersdelight:powdery_block",
+    "cataclysm:chorus_stem"
   ],
 
   "replace": false

@@ -1,6 +1,7 @@
 {
   "values": [
-    "#c:glass_panes"
+    "#c:glass_panes",
+    "vinery:window"
   ],
   "remove": [
     "create:tiled_glass_pane",

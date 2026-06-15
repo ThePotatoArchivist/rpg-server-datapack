@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:dexterity": 30
+    },
+    {
+      "rpgserver:strength": 15
+    }
+  ],
+  "items": [
+    "fdbosses:malkuth_fist"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "requirements": [
+    {
+      "rpgserver:dexterity": 30
+    },
+    {
+      "rpgserver:affinity": 15
+    }
+  ],
+  "items": [
+    "cataclysm:wrath_of_the_desert",
+    "cataclysm:ancient_spear",
+    "cataclysm:astrape"
+  ]
+}

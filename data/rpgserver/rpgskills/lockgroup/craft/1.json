@@ -12,6 +12,8 @@
     "#rpgskills:wooden_tools",
     "#rpgskills:wooden_weapons",
     "#rpgskills:flint_weapons",
+    "vinery:stackable_log",
+    "vinery:grapevine_stem",
     "minecraft:bowl",
     "minecraft:stick",
     "minecraft:arrow",

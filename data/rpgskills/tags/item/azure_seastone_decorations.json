@@ -1,0 +1,23 @@
+{
+    "values": [
+        "cataclysm:azure_seastone",
+        "cataclysm:azure_seastone_slab",
+        "cataclysm:azure_seastone_stairs",
+        "cataclysm:azure_seastone_wall",
+        "cataclysm:azure_seastone_tiles",
+        "cataclysm:chiseled_azure_seastone",
+        "cataclysm:azure_seastone_bricks",
+        "cataclysm:azure_seastone_brick_slab",
+        "cataclysm:azure_seastone_brick_stairs",
+        "cataclysm:azure_seastone_brick_wall",
+        "cataclysm:azure_seastone_mural_empty",
+        "cataclysm:polished_azure_seastone",
+        "cataclysm:polished_azure_seastone_slab",
+        "cataclysm:polished_azure_seastone_stairs",
+        "cataclysm:polished_azure_seastone_wall",
+        "cataclysm:azure_seastone_pillar",
+        "cataclysm:azure_seastone_pillar_wall",
+        "cataclysm:chiseled_azure_seastone_pillar",
+        "cataclysm:chiseled_azure_seastone_pillar_wall"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 30
+    }
+  ],
+  "items": [
+    "cataclysm:mechanical_fusion_anvil"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 30
+    }
+  ],
+  "items": [
+    "cataclysm:remnant_skull",
+    "cataclysm:netherite_effigy",
+    "cataclysm:lava_power_cell",
+    "cataclysm:abyssal_egg"
+  ],
+  "entities": [
+    "cataclysm:modern_remnant",
+    "cataclysm:netherite_ministrosity",
+    "cataclysm:the_baby_leviathan"
+  ]
+}

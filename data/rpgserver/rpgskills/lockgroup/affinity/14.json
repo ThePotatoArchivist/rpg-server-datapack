@@ -5,6 +5,7 @@
     }
   ],
   "items": [
+    "herbalbrews:dried_green_tea_leaf_block",
     "minecraft:nether_wart",
     "#rpgskills:fungus"
   ],
@@ -17,6 +18,7 @@
     "minecraft:turtle"
   ],
   "recipes": [
+    "herbalbrews:dried_green_tea_leaf_block",
     "veggiesdelight:fermented_garlic_honey",
     "farmersdelight:nether_salad",
     "mynethersdelight:hotdog_with_nether_salad",

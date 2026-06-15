@@ -9,8 +9,12 @@
   ],
   "recipes": [
     "minecraft:painting",
+    "vinery:storage_pot",
     "#rpgskills:moss_carpets",
     "minecraft:coarse_dirt",
+    "vinery:grass_slab",
+    "vinery:dirt_slab",
+    "vinery:coarse_dirt_slab",
     "minecraft:muddy_mangrove_roots",
     "minecraft:packed_mud",
     "#rpgskills:packed_mud_decorations",
@@ -23,6 +27,7 @@
     "#rpgskills:straw_decorations",
     "displaydelight:food_plate",
     "displaydelight:small_food_plate",
-    "crabbersdelight:crab_trap"
+    "crabbersdelight:crab_trap",
+    "vinery:grapevine_pot"
   ]
 }

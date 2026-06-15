@@ -7,7 +7,8 @@
   "items": [
     "minecraft:goat_horn",
     "minecraft:beetroot_seeds",
-    "minecraft:cactus"
+    "minecraft:cactus",
+    "minecraft:acacia_sapling"
   ],
   "blocks": [
     "minecraft:smoker"

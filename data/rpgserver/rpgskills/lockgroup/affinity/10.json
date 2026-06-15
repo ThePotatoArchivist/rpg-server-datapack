@@ -14,7 +14,8 @@
     "minecraft:horse",
     "minecraft:skeleton_horse",
     "minecraft:donkey",
-    "minecraft:mule"
+    "minecraft:mule",
+    "vinery:mule"
   ],
   "recipes": [
     "moredelight:simple_hamburger",

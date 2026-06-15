@@ -6,6 +6,11 @@
   ],
   "items": [
     "minecraft:iron_pickaxe",
-    "minecraft:iron_shovel"
+    "minecraft:iron_shovel",
+    "cataclysm:black_steel_pickaxe",
+    "cataclysm:black_steel_shovel",
+    "cataclysm:black_steel_targe",
+    "cataclysm:belt_of_beginner",
+    "cataclysm:unbreakable_skull"
   ]
 }

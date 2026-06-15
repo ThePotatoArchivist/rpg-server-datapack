@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:wither",
+    "cataclysm:ender_golem",
+    "cataclysm:ignited_revenant"
+  ],
+
+  "replace": true
+}

@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:affinity": 17
+    }
+  ],
+  "items": [
+    "vinery:taiga_grape_seeds_red",
+    "vinery:taiga_grape_seeds_white"
+  ],
+  "recipes": [
+    "herbalbrews:herbal_infusion"
+  ]
+}

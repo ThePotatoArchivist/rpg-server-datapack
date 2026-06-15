@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 30
+    },
+    {
+      "rpgserver:arcane": 15
+    }
+  ],
+  "items": [
+    "fdbosses:divine_gear",
+    "cataclysm:void_assault_shoulder_weapon"
+  ]
+}

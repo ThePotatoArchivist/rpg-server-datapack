@@ -5,6 +5,10 @@
     }
   ],
   "items": [
+    "cataclysm:sandstorm_in_a_bottle",
+    "herbalbrews:mixed_tea_leaf_block",
+    "vinery:red_grape_seeds",
+    "vinery:white_grape_seeds",
     "farmersdelight:rice",
     "mynethersdelight:powder_cannon",
     "mynethersdelight:letios_compost"
@@ -13,6 +17,7 @@
     "minecraft:cartography_table"
   ],
   "recipes": [
+    "herbalbrews:mixed_tea_leaf_block",
     "mynethersdelight:blazier",
     "mynethersdelight:powdery_torch",
     "farmersdelight:rice",

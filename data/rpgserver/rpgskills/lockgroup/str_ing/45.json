@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:ingenuity": 30
+    },
+    {
+      "rpgserver:strength": 15
+    }
+  ],
+  "items": [
+    "cataclysm:meat_shredder"
+  ]
+}

@@ -6,8 +6,9 @@
   ],
   "items": [
     "veggiesdelight:broccoli_seeds",
+    "dungeonsdelight:rotbulb_crop",
     "#c:mushrooms",
-    "dungeonsdelight:rotbulb_crop"
+    "vinery:apple_tree_sapling"
   ],
   "entities": [
     "minecraft:sheep",

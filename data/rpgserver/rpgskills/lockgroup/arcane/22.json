@@ -9,7 +9,10 @@
   ],
   "recipes": [
     "minecraft:beacon",
-    "minecraft:end_crystal"
+    "minecraft:end_crystal",
+    "cataclysm:purpur_void_rune_trap_block",
+    "cataclysm:end_stone_teleport_trap_bricks",
+    "cataclysm:obsidian_explosion_trap_bricks"
   ],
   "enchantments": [
     "create:capacity",

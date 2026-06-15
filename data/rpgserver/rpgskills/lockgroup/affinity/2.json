@@ -4,6 +4,9 @@
       "rpgserver:affinity": 2
     }
   ],
+  "items": [
+    "minecraft:birch_sapling"
+  ],
   "blocks": [
     "#choppersdelight:cutting_boards"
   ],

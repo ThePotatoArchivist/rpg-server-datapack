@@ -15,8 +15,11 @@
     "#rpgskills:nether_brick_decorations",
     "#rpgskills:quartz_decorations",
     "#rpgskills:prismarine_decorations",
+    "#rpgskills:azure_seastone_decorations",
     "#rpgskills:rose_quartz_decorations",
     "crabbersdelight:fish_plaque",
-    "crabbersdelight:pearl_necklace"
+    "crabbersdelight:pearl_necklace",
+    "vinery:dark_cherry_big_table",
+    "vinery:dark_cherry_shelf"
   ]
 }
