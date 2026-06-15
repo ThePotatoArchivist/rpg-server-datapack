@@ -5,7 +5,7 @@
     }
   ],
   "items": [
-    "minecraft:ender_pearl"
+    "#c:ender_pearls"
   ],
   "item_components": {
     "spell_engine:spell_scroll": {

@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:dexterity": 13
+    },
+    {
+      "rpgserver:arcane": 7
+    }
+  ],
+  "items": [
+    "endermanoverhaul:corrupted_blade"
+  ]
+}

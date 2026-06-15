@@ -31,5 +31,8 @@
     "minecraft:sweeping_edge",
     "farmersdelight:backstabbing",
     "dungeonsdelight:serrated_strike"
+  ],
+  "recipes": [
+    "minecraft:respawn_anchor"
   ]
 }

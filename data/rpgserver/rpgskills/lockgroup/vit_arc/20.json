@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 15
+    },
+    {
+      "rpgserver:arcane": 5
+    }
+  ],
+  "items": [
+    "endermanoverhaul:corrupted_shield"
+  ]
+}
