@@ -6,7 +6,9 @@
   ],
   "items": [
     "minecraft:trident",
-    "downtoearth:steel_sword"
+    "downtoearth:steel_sword",
+    "netherarchives:basalt_skis",
+    "netherarchives:basalt_oar"
   ],
   "item_components": {
     "spell_engine:spell_scroll": {

@@ -6,6 +6,9 @@
   ],
   "recipes": [
     "supplementaries:cannonball",
+    "netherarchives:basalt_rod",
+    "netherarchives:basalt_skis",
+    "netherarchives:basalt_oar",
     "minecraft:soul_lantern",
     "#minecraft:candles",
     "minecraft:honeycomb_block",

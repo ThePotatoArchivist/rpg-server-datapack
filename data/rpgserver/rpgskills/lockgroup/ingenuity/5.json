@@ -21,6 +21,7 @@
     "supplementaries:crank",
     "create:powered_latch",
     "create:powered_toggle_latch",
+    "xom:duct_tape_roll",
     "travelersbackpack:refill_upgrade"
   ]
 }

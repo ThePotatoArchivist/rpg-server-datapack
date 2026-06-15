@@ -12,6 +12,7 @@
     "minecraft:conduit",
     "minecraft:wind_charge",
     "minecraft:soul_campfire",
-    "minecraft:soul_torch"
+    "minecraft:soul_torch",
+    "netherarchives:blaze_torch"
   ]
 }

@@ -21,7 +21,9 @@
     "create:bamboo_window_pane",
     "create:ornate_iron_window_pane",
     "create:industrial_iron_window_pane",
-    "create:weathered_iron_window_pane"
+    "create:weathered_iron_window_pane",
+    "netherarchives:spectreglass_pane",
+    "netherarchives:shattered_spectreglass_pane"
   ],
   "replace": false
 }

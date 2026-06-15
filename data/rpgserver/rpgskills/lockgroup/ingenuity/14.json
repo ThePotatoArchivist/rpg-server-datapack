@@ -35,6 +35,7 @@
     "create:sticker",
     "simulated:auger_shaft",
     "simulated:auger_cog",
+    "netherarchives:adjustable_basalt_geyser",
     "exposure:lightroom",
     "exposure:camera",
     "supplementaries:cannon",
@@ -42,6 +43,7 @@
     "supplementaries:clock_block",
     "create:cuckoo_clock",
     "create:empty_schematic",
+    "netherarchives:blaze_lantern",
     "travelersbackpack:magnet_upgrade"
   ]
 }
