@@ -1,0 +1,20 @@
+{
+  "values": [
+    "minecraft:stone_button",
+    "minecraft:stone_pressure_plate",
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "create:powered_latch",
+    "create:powered_toggle_latch",
+    "minecraft:comparator",
+    "minecraft:daylight_detector",
+    "minecraft:observer",
+    "minecraft:redstone_lamp",
+    "minecraft:tnt",
+    "minecraft:tripwire_hook",
+    "create:sand_paper",
+    "create:red_sand_paper",
+    "minecraft:copper_torch",
+    "minecraft:trapped_chest"
+  ]
+}

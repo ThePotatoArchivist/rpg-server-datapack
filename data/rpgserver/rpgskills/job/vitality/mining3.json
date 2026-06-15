@@ -1,0 +1,46 @@
+{
+  "name": "Mining 3",
+  "cooldown_ticks": 3600,
+  "reward_points": 11,
+  "tasks": [
+    {
+      "id": "mine_tin",
+      "description": "Mine Tin Ore (without Silk Touch)",
+      "count": 20,
+      "trigger": "rpgskills:break_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": [
+                  "downtoearth:tin_ore",
+                  "downtoearth:deepslate_tin_ore"
+                ]
+              }
+            }
+          },
+          {
+            "condition": "rpgskills:tool_suitable_for_block"
+          },
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "predicates": {
+                  "minecraft:enchantments": [
+                    {
+                      "enchantments": "minecraft:silk_touch"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

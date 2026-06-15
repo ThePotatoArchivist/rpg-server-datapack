@@ -2,13 +2,25 @@
     "name": "Dexterity",
     "icon": "archers:netherite_longbow",
     "levels": {
-        "1": {},
+        "1": {
+            "jobs": [
+                "rpgserver:dexterity/hunt1"
+            ]
+        },
         "2": {},
         "3": {},
-        "4": {},
+        "4": {
+            "jobs": [
+                "rpgserver:dexterity/hunt2"
+            ]
+        },
         "5": {},
         "6": {},
-        "7": {},
+        "7": {
+            "jobs": [
+                "rpgserver:dexterity/hunt3"
+            ]
+        },
         "8": {},
         "9": {},
         "10": {},

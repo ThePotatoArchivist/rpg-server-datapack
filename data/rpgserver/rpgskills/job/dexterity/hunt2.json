@@ -1,0 +1,21 @@
+{
+  "name": "Hunting 2",
+  "cooldown_ticks": 3600,
+  "reward_points": 8,
+  "tasks": [
+    {
+      "id": "kill_squid",
+      "description": "Kill any Squid",
+      "count": 5,
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": [
+            "minecraft:squid",
+            "minecraft:glow_squid"
+          ]
+        }
+      }
+    }
+  ]
+}

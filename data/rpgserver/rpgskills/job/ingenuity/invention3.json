@@ -1,0 +1,18 @@
+{
+  "name": "Invention 3",
+  "cooldown_ticks": 3600,
+  "reward_points": 11,
+  "tasks": [
+    {
+      "id": "craft_invention",
+      "description": "Craft lvl5-7 redstone inventions",
+      "count": 5,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgskills:redstone_inventions"
+        }
+      }
+    }
+  ]
+}

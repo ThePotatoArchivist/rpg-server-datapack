@@ -1,0 +1,18 @@
+{
+  "name": "Smithing 2",
+  "cooldown_ticks": 2400,
+  "reward_points": 8,
+  "tasks": [
+    {
+      "id": "craft_stone_tools",
+      "description": "Craft stone tools",
+      "count": 5,
+      "trigger": "rpgskills:craft_item",
+      "conditions": {
+        "item": {
+          "items": "#rpgskills:stone_tools"
+        }
+      }
+    }
+  ]
+}
