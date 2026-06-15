@@ -7,11 +7,13 @@
   "items": [
     "wizards:staff_fire",
     "wizards:staff_frost",
-    "wizards:staff_arcane"
+    "wizards:staff_arcane",
+    "chipped:alchemy_book"
   ],
   "blocks": [
-  "minecraft:enchanting_table",
-    "spell_engine:spell_binding"
+    "minecraft:enchanting_table",
+    "spell_engine:spell_binding",
+    "chipped:alchemy_bench"
   ],
   "enchantments": [
     "minecraft:efficiency",
@@ -28,7 +30,12 @@
     "spell_power:haste",
     "spell_power:spell_power",
     "spell_power:sunfire",
-    "minecraft:unbreaking"
+    "minecraft:unbreaking",
+    "cnc:headhunter"
+  ],
+  "recipes": [
+    "chipped:alchemy_bench",
+    "chipped:alchemy_book"
   ],
   "item_components": {
     "spell_engine:spell_scroll": {

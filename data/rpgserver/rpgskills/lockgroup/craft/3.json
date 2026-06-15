@@ -5,13 +5,17 @@
     }
   ],
   "items": [
-    "another_furniture:furniture_hammer"
+    "another_furniture:furniture_hammer",
+    "chipped:needles"
   ],
   "blocks": [
-    "minecraft:loom"
+    "minecraft:loom",
+    "chipped:loom_table"
   ],
   "recipes": [
     "another_furniture:furniture_hammer",
+    "chipped:needles",
+    "chipped:loom_table",
     "minecraft:painting",
     "vinery:storage_pot",
     "#rpgskills:moss_carpets",

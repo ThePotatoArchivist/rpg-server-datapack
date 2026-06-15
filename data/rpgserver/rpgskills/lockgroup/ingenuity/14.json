@@ -35,6 +35,8 @@
     "create:sticker",
     "simulated:auger_shaft",
     "simulated:auger_cog",
+    "exposure:lightroom",
+    "exposure:camera",
     "supplementaries:cannon",
     "supplementaries:speaker_block",
     "supplementaries:clock_block",

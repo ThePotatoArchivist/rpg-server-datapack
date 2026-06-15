@@ -5,13 +5,21 @@
     }
   ],
   "items": [
-    "supplementaries:wrench"
+    "supplementaries:wrench",
+    "chipped:saw",
+    "chipped:chisel"
   ],
   "blocks": [
+    "chipped:glassblower",
+    "chipped:carpenters_table",
+    "chipped:mason_table",
     "minecraft:blast_furnace",
     "#rpgskills:anvil"
   ],
   "recipes": [
+    "chipped:glassblower",
+    "chipped:carpenters_table",
+    "chipped:mason_table",
     "minecraft:blast_furnace",
     "minecraft:anvil",
     "farmersdelight:stove",
@@ -32,6 +40,8 @@
     "envelope:paper_box",
     "supplementaries:bubble_blower",
     "supplementaries:wrench",
+    "chipped:saw",
+    "chipped:chisel",
     "supplementaries:key",
     "supplementaries:faucet",
     "supplementaries:hourglass",

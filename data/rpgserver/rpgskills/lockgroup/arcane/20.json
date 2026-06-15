@@ -30,7 +30,8 @@
     "spell_power:critical_chance",
     "minecraft:sweeping_edge",
     "farmersdelight:backstabbing",
-    "dungeonsdelight:serrated_strike"
+    "dungeonsdelight:serrated_strike",
+    "benssharks:serrated"
   ],
   "recipes": [
     "minecraft:respawn_anchor"

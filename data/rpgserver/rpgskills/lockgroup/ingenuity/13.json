@@ -4,6 +4,9 @@
       "rpgserver:ingenuity": 13
     }
   ],
+  "blocks": [
+    "chipped:tinkering_table"
+  ],
   "items": [
     "minecraft:polished_blackstone_pressure_plate",
     "minecraft:polished_blackstone_button",
@@ -22,11 +25,14 @@
     "create_dragons_plus:levitite_fragile_fluid_tank",
     "simulated:directional_gearshift",
     "#rpgskills:portable_engines",
+    "chipped:multimeter",
     "aeronautics:aviators_goggles",
     "create:goggles",
     "create:wrench"
   ],
   "recipes": [
+    "chipped:tinkering_table",
+    "chipped:multimeter",
     "minecraft:polished_blackstone_pressure_plate",
     "minecraft:polished_blackstone_button",
     "minecraft:light_weighted_pressure_plate",

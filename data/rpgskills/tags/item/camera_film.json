@@ -1,0 +1,10 @@
+{
+    "values": [
+        "exposure:black_and_white_film",
+        "exposure:color_film",
+        "exposure:high_sensitivity_black_and_white_film",
+        "exposure:high_sensitivity_color_film",
+        "exposure:developed_black_and_white_film",
+        "exposure:developed_color_film"
+    ]
+}

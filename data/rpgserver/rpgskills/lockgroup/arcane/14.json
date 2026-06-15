@@ -8,6 +8,7 @@
     "minecraft:wind_charge"
   ],
   "recipes": [
+    "exposure:interplanar_projector",
     "minecraft:conduit",
     "minecraft:wind_charge",
     "minecraft:soul_campfire",
