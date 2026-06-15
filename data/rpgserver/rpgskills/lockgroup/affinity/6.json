@@ -19,6 +19,7 @@
   "recipes": [
     "culturaldelights:mutton_sandwich",
     "minecraft:beetroot_soup",
-    "minecraft:rabbit_stew"
+    "minecraft:rabbit_stew",
+    "travelersbackpack:smoker_upgrade"
   ]
 }

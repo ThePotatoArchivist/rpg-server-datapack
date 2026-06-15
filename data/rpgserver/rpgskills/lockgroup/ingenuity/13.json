@@ -47,12 +47,16 @@
     "aeronautics:aviators_goggles",
     "create:goggles",
     "create:wrench",
-    "cold_sweat:thermometer",
     "#create:toolboxes",
     "create:desk_bell",
     "create:transmitter",
     "create:whisk",
     "minecraft:clock",
-    "sereneseasons:calendar"
+    "cold_sweat:thermometer",
+    "sereneseasons:calendar",
+    "travelersbackpack:tanks_upgrade",
+    "travelersbackpack:backpack_tank",
+    "travelersbackpack:hose_nozzle",
+    "travelersbackpack:hose"
   ]
 }

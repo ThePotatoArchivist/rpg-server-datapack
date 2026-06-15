@@ -34,6 +34,7 @@
     "simulated:auger_shaft",
     "simulated:auger_cog",
     "create:cuckoo_clock",
-    "create:empty_schematic"
+    "create:empty_schematic",
+    "travelersbackpack:magnet_upgrade"
   ]
 }

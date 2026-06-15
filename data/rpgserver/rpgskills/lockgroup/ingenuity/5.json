@@ -18,6 +18,7 @@
     "minecraft:dispenser",
     "minecraft:dropper",
     "create:powered_latch",
-    "create:powered_toggle_latch"
+    "create:powered_toggle_latch",
+    "travelersbackpack:refill_upgrade"
   ]
 }

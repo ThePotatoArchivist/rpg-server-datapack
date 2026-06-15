@@ -59,6 +59,7 @@
     "create:propeller",
     "#rpgskills:metro_decorations",
     "create:item_vault",
-    "#rpgskills:shipping_containers"
+    "#rpgskills:shipping_containers",
+    "travelersbackpack:pickup_upgrade"
   ]
 }

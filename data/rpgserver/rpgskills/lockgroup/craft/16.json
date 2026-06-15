@@ -9,6 +9,7 @@
   ],
   "recipes": [
     "#rpgskills:steel_tools",
-    "#rpgskills:steel_weapons"
+    "#rpgskills:steel_weapons",
+    "travelersbackpack:gold_tier_upgrade"
   ]
 }

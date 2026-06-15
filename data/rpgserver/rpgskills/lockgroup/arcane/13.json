@@ -14,6 +14,7 @@
   ],
   "recipes": [
     "minecraft:ender_eye",
-    "#rpgskills:boss_eyes"
+    "#rpgskills:boss_eyes",
+    "travelersbackpack:void_upgrade"
   ]
 }
