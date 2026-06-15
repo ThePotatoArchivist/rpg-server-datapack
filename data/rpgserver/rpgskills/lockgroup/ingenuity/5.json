@@ -9,6 +9,7 @@
     "minecraft:stone_pressure_plate",
     "minecraft:dispenser",
     "minecraft:dropper",
+    "supplementaries:crank",
     "create:powered_latch",
     "create:powered_toggle_latch"
   ],
@@ -17,6 +18,7 @@
     "minecraft:stone_pressure_plate",
     "minecraft:dispenser",
     "minecraft:dropper",
+    "supplementaries:crank",
     "create:powered_latch",
     "create:powered_toggle_latch",
     "travelersbackpack:refill_upgrade"

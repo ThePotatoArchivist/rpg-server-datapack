@@ -13,7 +13,8 @@
     "minecraft:end_stone_brick_slab",
     "minecraft:end_stone_brick_wall",
     "cataclysm:chiseled_end_stone_bricks",
-    "cataclysm:end_stone_pillar"
+    "cataclysm:end_stone_pillar",
+    "supplementaries:end_stone_lamp"
   ],
 
   "replace": false

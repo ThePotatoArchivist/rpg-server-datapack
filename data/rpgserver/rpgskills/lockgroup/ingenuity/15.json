@@ -39,6 +39,7 @@
     "#rpgskills:pipe_organs",
     "create:empty_blaze_burner",
     "aeronautics:steam_vent",
+    "supplementaries:redstone_illuminator",
     "cold_sweat:hearth",
     "cold_sweat:smokestack",
     "create:linked_controller",

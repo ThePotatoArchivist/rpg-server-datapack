@@ -7,6 +7,8 @@
   "items": [
     "minecraft:piston",
     "minecraft:sticky_piston",
+    "supplementaries:spring_launcher",
+    "supplementaries:relayer",
     "create:shaft",
     "create:cogwheel",
     "create:large_cogwheel",
@@ -38,6 +40,8 @@
   "recipes": [
     "minecraft:piston",
     "minecraft:sticky_piston",
+    "supplementaries:spring_launcher",
+    "supplementaries:relayer",
     "create:shaft",
     "create:cogwheel",
     "create:large_cogwheel",

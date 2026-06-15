@@ -12,12 +12,14 @@
     "vinery:storage_pot",
     "#rpgskills:moss_carpets",
     "minecraft:coarse_dirt",
+    "supplementaries:gravel_bricks",
     "vinery:grass_slab",
     "vinery:dirt_slab",
     "vinery:coarse_dirt_slab",
     "minecraft:muddy_mangrove_roots",
     "minecraft:packed_mud",
     "#rpgskills:packed_mud_decorations",
+    "#rpgskills:ash_decorations",
     "#rpgskills:wooden_decorations",
     "#rpgskills:wooden_furniture",
     "#rpgskills:wood_blocks",
@@ -25,9 +27,13 @@
     "#rpgskills:crafted_dyes",
     "#rpgskills:wool_decorations",
     "#rpgskills:straw_decorations",
+    "#supplementaries:awnings",
+    "#supplementaries:bamboo_spikes",
     "displaydelight:food_plate",
     "displaydelight:small_food_plate",
     "crabbersdelight:crab_trap",
-    "vinery:grapevine_pot"
+    "vinery:grapevine_pot",
+    "supplementaries:lunch_basket",
+    "supplementaries:flower_box"
   ]
 }

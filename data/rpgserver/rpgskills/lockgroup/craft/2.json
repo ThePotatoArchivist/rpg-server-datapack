@@ -5,6 +5,7 @@
     }
   ],
   "recipes": [
+    "supplementaries:rope_arrow",
     "herbalbrews:top_hat",
     "minecraft:chiseled_bookshelf",
     "minecraft:fletching_table",
@@ -12,6 +13,8 @@
     "minecraft:loom",
     "minecraft:barrel",
     "vinery:dark_cherry_barrel",
+    "supplementaries:daub",
+    "#supplementaries:wattle_and_daubs",
     "farmersdelight:wooden_basket",
     "farmersdelight:bamboo_basket",
     "minersdelight:sticky_basket",
@@ -22,8 +25,11 @@
     "#travelersbackpack:sleeping_bags",
     "#vinery:lattice",
     "#choppersdelight:cutting_boards",
+    "supplementaries:sack",
+    "supplementaries:doormat",
     "farmersdelight:canvas",
     "farmersdelight:rope",
+    "supplementaries:rope",
     "farmersdelight:safety_net"
   ]
 }

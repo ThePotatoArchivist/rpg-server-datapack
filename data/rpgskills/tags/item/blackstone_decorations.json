@@ -12,7 +12,14 @@
     "minecraft:polished_blackstone_brick_stairs",
     "minecraft:polished_blackstone_brick_slab",
     "minecraft:polished_blackstone_brick_wall",
-    "cataclysm:blackstone_pillar"
+    "cataclysm:blackstone_pillar",
+    "supplementaries:blackstone_lamp",
+    "supplementaries:checker_block",
+    "supplementaries:checker_slab",
+    "supplementaries:blackstone_tile",
+    "supplementaries:blackstone_tile_stairs",
+    "supplementaries:blackstone_tile_slab",
+    "supplementaries:blackstone_tile_wall"
   ],
 
   "replace": false

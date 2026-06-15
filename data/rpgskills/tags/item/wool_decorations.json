@@ -2,7 +2,9 @@
   "values": [
     "#minecraft:wool",
     "#minecraft:wool_carpets",
-    "#minecraft:banners"
+    "#minecraft:banners",
+    "#supplementaries:flags",
+    "#supplementaries:buntings"
   ],
 
   "replace": false

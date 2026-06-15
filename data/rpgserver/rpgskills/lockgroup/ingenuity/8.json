@@ -13,6 +13,8 @@
     "#rpgskills:copper_bulbs",
     "downtoearth:tin_bulb",
     "#rpgskills:copper_buttons",
-    "create:copper_diving_helmet"
+    "create:copper_diving_helmet",
+    "supplementaries:altimeter",
+    "supplementaries:slice_map"
   ]
 }

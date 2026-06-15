@@ -5,6 +5,7 @@
     }
   ],
   "items": [
+    "supplementaries:pulley_block",
     "create:schematicannon",
     "create:schematic_table",
     "create:schematic_and_quill",
@@ -20,6 +21,7 @@
     "simulated:auger_cog"
   ],
   "recipes": [
+    "supplementaries:pulley_block",
     "create:schematicannon",
     "create:schematic_table",
     "create:schematic_and_quill",
@@ -33,6 +35,9 @@
     "create:sticker",
     "simulated:auger_shaft",
     "simulated:auger_cog",
+    "supplementaries:cannon",
+    "supplementaries:speaker_block",
+    "supplementaries:clock_block",
     "create:cuckoo_clock",
     "create:empty_schematic",
     "travelersbackpack:magnet_upgrade"

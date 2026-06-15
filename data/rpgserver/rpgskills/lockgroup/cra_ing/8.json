@@ -8,6 +8,7 @@
     }
   ],
   "recipes": [
-    "minecraft:firework_rocket"
+    "minecraft:firework_rocket",
+    "supplementaries:confetti_popper"
   ]
 }

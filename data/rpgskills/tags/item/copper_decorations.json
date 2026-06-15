@@ -31,7 +31,8 @@
     "createdeco:copper_window",
     "createdeco:copper_window_pane",
     "createdeco:copper_support",
-    "createdeco:locked_copper_door"
+    "createdeco:locked_copper_door",
+    "supplementaries:fire_pit"
   ],
 
   "replace": false

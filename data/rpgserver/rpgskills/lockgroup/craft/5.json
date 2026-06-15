@@ -26,10 +26,12 @@
     "travelersbackpack:blank_upgrade",
     "travelersbackpack:furnace_upgrade",
     "minecraft:cartography_table",
+    "#supplementaries:presents",
     "envelope:mailbox",
-    "minecraft:bookshelf",
+    "supplementaries:notice_board",
     "archers:archers_workbench",
     "minecraft:lectern",
+    "minecraft:bookshelf",
     "minecraft:armor_stand",
     "dummmmmmy:target_dummy",
     "#rpgskills:item_frames"

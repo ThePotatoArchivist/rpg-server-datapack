@@ -5,6 +5,7 @@
     }
   ],
   "recipes": [
+    "supplementaries:cannonball",
     "minecraft:soul_lantern",
     "#minecraft:candles",
     "minecraft:honeycomb_block",
@@ -17,6 +18,8 @@
     "#rpgskills:prismarine_decorations",
     "#rpgskills:azure_seastone_decorations",
     "#rpgskills:rose_quartz_decorations",
+    "#rpgskills:gold_decorations",
+    "supplementaries:blackboard",
     "crabbersdelight:fish_plaque",
     "crabbersdelight:pearl_necklace",
     "vinery:dark_cherry_big_table",

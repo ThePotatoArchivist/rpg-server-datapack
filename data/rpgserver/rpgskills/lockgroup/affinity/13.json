@@ -28,9 +28,12 @@
     "golemoverhaul:candle_golem_block"
   ],
   "recipes": [
+    "supplementaries:lumisene_bucket",
     "minecraft:glistering_melon_slice",
     "minecraft:golden_apple",
     "minecraft:golden_carrot",
+    "supplementaries:candy",
+    "supplementaries:pancake",
     "minecraft:cake",
     "veggiesdelight:carrot_cake",
     "veggiesdelight:sweet_potato_cupcake",

@@ -5,15 +5,20 @@
     }
   ],
   "items": [
+    "supplementaries:cog_block",
+    "supplementaries:turn_table",
+    "minecraft:tripwire_hook",
     "create:sand_paper",
-    "create:red_sand_paper",
-    "minecraft:tripwire_hook"
+    "create:red_sand_paper"
   ],
   "recipes": [
+    "supplementaries:cog_block",
+    "supplementaries:turn_table",
     "minecraft:tripwire_hook",
     "create:sand_paper",
     "create:red_sand_paper",
     "minecraft:copper_torch",
-    "minecraft:trapped_chest"
+    "minecraft:trapped_chest",
+    "#supplementaries:trapped_presents"
   ]
 }

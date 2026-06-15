@@ -7,9 +7,11 @@
   "items": [
     "minecraft:stone_hoe",
     "moredelight:stone_knife",
+    "supplementaries:flute",
     "minecraft:bone_meal",
     "minecraft:sugar_cane",
     "farmersdelight:organic_compost",
+    "supplementaries:cage",
     "minecraft:oak_sapling",
     "minecraft:dark_oak_sapling",
     "minecraft:pale_oak_sapling",
@@ -27,7 +29,9 @@
     "minecraft:wolf"
   ],
   "recipes": [
+    "supplementaries:flute",
     "farmersdelight:organic_compost",
+    "supplementaries:fodder",
     "minecraft:bone_meal",
     "minecraft:sugar",
     "moredelight:toast_with_egg",
@@ -36,6 +40,7 @@
     "cnc:pemmican",
     "farmersdelight:roast_chicken_block",
     "crabbersdelight:coconut_milk",
+    "supplementaries:lumisene_bottle",
     "dungeonsdelight:slicorice"
   ]
 }

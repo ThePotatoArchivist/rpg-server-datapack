@@ -20,6 +20,7 @@
     "minecraft:villager",
     "minecraft:wandering_trader",
     "vinery:wandering_winemaker",
+    "ribbits:ribbit",
     "minecraft:sniffer"
   ],
   "recipes": [

@@ -4,6 +4,9 @@
       "rpgserver:craft": 13
     }
   ],
+  "items": [
+    "supplementaries:wrench"
+  ],
   "blocks": [
     "minecraft:blast_furnace",
     "#rpgskills:anvil"
@@ -27,12 +30,19 @@
     "cataclysm:blazing_grips",
     "crittersandcompanions:grappling_hook",
     "envelope:paper_box",
+    "supplementaries:bubble_blower",
+    "supplementaries:wrench",
+    "supplementaries:key",
+    "supplementaries:faucet",
+    "supplementaries:hourglass",
+    "supplementaries:goblet",
     "travelersbackpack:iron_tier_upgrade",
     "travelersbackpack:blast_furnace_upgrade",
     "cataclysm:azure_sea_shield",
     "herbalbrews:copper_tea_kettle",
     "herbalbrews:tea_kettle",
     "herbalbrews:jug",
-    "brewinandchewin:tankard"
+    "brewinandchewin:tankard",
+    "supplementaries:cage"
   ]
 }

@@ -24,7 +24,14 @@
     "ghosts:haunted_sign",
     "#minecraft:hanging_signs",
     "ghosts:haunted_hanging_sign",
-    "vinery:dark_cherry_hanging_sign"
+    "vinery:dark_cherry_hanging_sign",
+    "#supplementaries:way_signs",
+    "#supplementaries:item_shelves",
+    "#supplementaries:timber_frames",
+    "supplementaries:hat_stand",
+    "supplementaries:fine_wood",
+    "supplementaries:fine_wood_stairs",
+    "supplementaries:fine_wood_slab"
   ],
 
   "replace": false

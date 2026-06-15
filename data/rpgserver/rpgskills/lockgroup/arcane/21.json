@@ -5,6 +5,7 @@
     }
   ],
   "recipes": [
+    "amendments:dragon_charge",
     "minecraft:ender_chest",
     "#c:shulker_boxes"
   ]

@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 4
+    },
+    {
+      "rpgserver:dexterity": 1
+    }
+  ],
+  "items": [
+    "supplementaries:slingshot"
+  ]
+}

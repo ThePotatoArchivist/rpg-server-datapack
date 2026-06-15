@@ -1,6 +1,7 @@
 {
   "values": [
-    "#c:loom_patterns"
+    "#c:loom_patterns",
+    "supplementaries:dragon_banner_pattern"
   ],
   "remove": [
     "minecraft:globe_banner_pattern",

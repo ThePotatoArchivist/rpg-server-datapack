@@ -14,6 +14,9 @@
     "#rpgskills:netherite_prior_robe",
     "create:netherite_diving_helmet",
     "create:netherite_backtank",
-    "create:netherite_diving_boots"
+    "create:netherite_diving_boots",
+    "supplementaries:safe",
+    "supplementaries:netherite_door",
+    "supplementaries:netherite_trapdoor"
   ]
 }

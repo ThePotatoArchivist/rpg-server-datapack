@@ -47,6 +47,7 @@
     "aeronautics:aviators_goggles",
     "create:goggles",
     "create:wrench",
+    "supplementaries:lock_block",
     "#create:toolboxes",
     "create:desk_bell",
     "create:transmitter",
@@ -54,9 +55,12 @@
     "minecraft:clock",
     "cold_sweat:thermometer",
     "sereneseasons:calendar",
+    "supplementaries:wind_vane",
     "travelersbackpack:tanks_upgrade",
     "travelersbackpack:backpack_tank",
     "travelersbackpack:hose_nozzle",
-    "travelersbackpack:hose"
+    "travelersbackpack:hose",
+    "supplementaries:bomb",
+    "supplementaries:soap"
   ]
 }
