@@ -6,11 +6,15 @@
   ],
   "items": [
     "#minecraft:wooden_buttons",
-    "#minecraft:wooden_pressure_plates"
+    "ghosts:haunted_button",
+    "#minecraft:wooden_pressure_plates",
+    "ghosts:haunted_pressure_plate"
   ],
   "recipes": [
     "#minecraft:wooden_buttons",
+    "ghosts:haunted_button",
     "#minecraft:wooden_pressure_plates",
+    "ghosts:haunted_pressure_plate",
     "#aeronautics:shaftless_envelope"
   ]
 }

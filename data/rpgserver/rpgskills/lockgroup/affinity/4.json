@@ -12,7 +12,8 @@
     "farmersdelight:organic_compost",
     "minecraft:oak_sapling",
     "minecraft:dark_oak_sapling",
-    "minecraft:pale_oak_sapling"
+    "minecraft:pale_oak_sapling",
+    "ghosts:haunted_sapling"
   ],
   "blocks": [
     "minecraft:composter",

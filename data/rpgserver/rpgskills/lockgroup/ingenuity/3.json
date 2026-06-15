@@ -9,6 +9,8 @@
   ],
   "recipes": [
     "minecraft:scaffolding",
-    "#minecraft:boats"
+    "#minecraft:boats",
+    "ghosts:haunted_boat",
+    "ghosts:haunted_chest_boat"
   ]
 }
