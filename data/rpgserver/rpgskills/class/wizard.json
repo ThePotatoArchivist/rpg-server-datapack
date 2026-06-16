@@ -1,0 +1,10 @@
+{
+  "name": "Wizard",
+  "icon": "wizards:wizard_robe_head",
+  "description": "A passionate scholar who learned the mystic arts!",
+  "starting_levels": {
+    "rpgserver:arcane": 5,
+    "rpgserver:vitality": 2,
+    "rpgserver:affinity": 1
+  }
+}

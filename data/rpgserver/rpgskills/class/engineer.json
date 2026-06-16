@@ -1,0 +1,10 @@
+{
+  "name": "Engineer",
+  "icon": "create:brass_hand",
+  "description": "A curious inventor that always tests their mind!",
+  "starting_levels": {
+    "rpgserver:ingenuity": 5,
+    "rpgserver:craft": 2,
+    "rpgserver:vitality": 1
+  }
+}

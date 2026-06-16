@@ -1,0 +1,10 @@
+{
+  "name": "Smith",
+  "icon": "downtoearth:stone_smithing_hammer",
+  "description": "A patient craftsman that specializes in metal!",
+  "starting_levels": {
+    "rpgserver:craft": 5,
+    "rpgserver:vitality": 2,
+    "rpgserver:strength": 1
+  }
+}

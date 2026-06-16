@@ -1,0 +1,10 @@
+{
+  "name": "Nomad",
+  "icon": "cold_sweat:goat_fur_helmet",
+  "description": "A free spirit that strongly traverses nature!",
+  "starting_levels": {
+    "rpgserver:affinity": 4,
+    "rpgserver:vitality": 2,
+    "rpgserver:craft": 2
+  }
+}

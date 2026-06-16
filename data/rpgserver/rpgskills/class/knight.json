@@ -1,0 +1,10 @@
+{
+  "name": "Knight",
+  "icon": "rogues:warrior_armor_chest",
+  "description": "A valiant combatant that takes conflict head on!",
+  "starting_levels": {
+    "rpgserver:vitality": 4,
+    "rpgserver:strength": 3,
+    "rpgserver:dexterity": 1
+  }
+}

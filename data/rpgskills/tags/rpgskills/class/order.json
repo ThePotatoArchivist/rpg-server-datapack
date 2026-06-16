@@ -1,6 +1,14 @@
 {
   "values": [
-
+    "rpgserver:knight",
+    "rpgserver:paladin",
+    "rpgserver:mercenary",
+    "rpgserver:wizard",
+    "rpgserver:priest",
+    "rpgserver:smith",
+    "rpgserver:engineer",
+    "rpgserver:nomad",
+    "rpgserver:nitwit"
   ],
   "replace": true
 }

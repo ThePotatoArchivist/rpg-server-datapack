@@ -1,0 +1,10 @@
+{
+  "name": "Mercenary",
+  "icon": "archers:ranger_armor_chest",
+  "description": "A clever fighter that trains in various weaponry!",
+  "starting_levels": {
+    "rpgserver:dexterity": 3,
+    "rpgserver:vitality": 3,
+    "rpgserver:strength": 2
+  }
+}
