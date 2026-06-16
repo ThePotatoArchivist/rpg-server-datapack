@@ -3,46 +3,461 @@
     "icon": "archers:netherite_longbow",
     "levels": {
         "1": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            },
             "jobs": [
                 "rpgserver:dexterity/hunt1"
             ]
         },
-        "2": {},
-        "3": {},
+        "2": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "3": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
         "4": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                }
+            },
             "jobs": [
                 "rpgserver:dexterity/hunt2"
             ]
         },
-        "5": {},
-        "6": {},
+        "5": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.005,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "6": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 2,
+                    "operation": "add_value"
+                }
+            }
+        },
         "7": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            },
             "jobs": [
                 "rpgserver:dexterity/hunt3"
             ]
         },
-        "8": {},
-        "9": {},
-        "10": {},
-        "11": {},
-        "12": {},
-        "13": {},
-        "14": {},
-        "15": {},
-        "16": {},
-        "17": {},
-        "18": {},
-        "19": {},
-        "20": {},
-        "21": {},
-        "22": {},
-        "23": {},
-        "24": {},
-        "25": {},
-        "26": {},
-        "27": {},
-        "28": {},
-        "29": {},
-        "30": {}
+        "8": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "9": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0086,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "10": {
+            "attributes": {
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                },
+                "ranged_weapon:velocity": {
+                    "amount": 0.075,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "11": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "12": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "13": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "14": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "15": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:velocity": {
+                    "amount": 0.075,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "16": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                }
+            }
+        },
+        "17": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "18": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "19": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "20": {
+            "attributes": {
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.25,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "21": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "22": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "23": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "24": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "25": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "neoforge:swim_speed": {
+                    "amount": 0.25,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                },
+                "ranged_weapon:velocity": {
+                    "amount": 0.075,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "26": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "27": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "28": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "29": {
+            "attributes": {
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        },
+        "30": {
+            "attributes": {
+                "minecraft:generic.luck": {
+                    "amount": 0.1,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.movement_speed": {
+                    "amount": 0.0125,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.attack_speed": {
+                    "amount": 0.0095,
+                    "operation": "add_multiplied_base"
+                },
+                "minecraft:generic.fall_damage_multiplier": {
+                    "amount": -0.05,
+                    "operation": "add_multiplied_base"
+                },
+                "ranged_weapon:damage": {
+                    "amount": 0.025,
+                    "operation": "add_multiplied_total"
+                }
+            }
+        }
     }
 }
