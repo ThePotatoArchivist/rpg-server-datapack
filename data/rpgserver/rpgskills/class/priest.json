@@ -1,7 +1,7 @@
 {
   "name": "Priest",
   "icon": "paladins:holy_wand",
-  "description": "A soft soul blessed with powers to heal!",
+  "description": "A soft soul blessed with the power of healing!",
   "starting_levels": {
     "rpgserver:arcane": 3,
     "rpgserver:affinity": 3,

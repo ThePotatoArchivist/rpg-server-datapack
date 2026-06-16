@@ -1,7 +1,7 @@
 {
   "name": "Paladin",
   "icon": "paladins:crusader_armor_chest",
-  "description": "A Holy Knight who took an oath to protect!",
+  "description": "A Holy Knight who took an oath to protect others!",
   "starting_levels": {
     "rpgserver:vitality": 4,
     "rpgserver:strength": 2,
