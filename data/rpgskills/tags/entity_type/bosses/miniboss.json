@@ -2,7 +2,8 @@
   "values": [
     "minecraft:wither",
     "cataclysm:ender_golem",
-    "cataclysm:ignited_revenant"
+    "cataclysm:ignited_revenant",
+    "cataclysm:aptrgangr"
   ],
 
   "replace": true
