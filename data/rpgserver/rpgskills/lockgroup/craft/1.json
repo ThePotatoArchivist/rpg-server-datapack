@@ -4,9 +4,6 @@
       "rpgserver:craft": 1
     }
   ],
-  "blocks": [
-    "minecraft:crafting_table"
-  ],
   "recipes": [
     "minecraft:crafting_table",
     "#rpgskills:wooden_tools",

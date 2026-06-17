@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 1,
+      "rpgserver:arcane": 13
+    }
+  ],
+
+  "blocks": [
+    "minecraft:crafting_table"
+  ]
+}
