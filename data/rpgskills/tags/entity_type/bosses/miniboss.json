@@ -3,7 +3,13 @@
     "minecraft:wither",
     "cataclysm:ender_golem",
     "cataclysm:ignited_revenant",
-    "cataclysm:aptrgangr"
+    "cataclysm:aptrgangr",
+    "cataclysm:the_prowler",
+    "cataclysm:coralssus",
+    "cataclysm:coral_golem",
+    "cataclysm:amethyst_crab",
+    "cataclysm:kobolediator",
+    "cataclysm:clawdian"
   ],
 
   "replace": true

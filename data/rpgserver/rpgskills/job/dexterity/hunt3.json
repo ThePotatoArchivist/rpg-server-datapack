@@ -1,11 +1,11 @@
 {
-  "name": "Hunting 3",
+  "name": "Sticky Situation",
   "cooldown_ticks": 4800,
   "reward_points": 11,
   "tasks": [
     {
       "id": "kill_spider",
-      "description": "Kill any spider",
+      "description": "Kill Spiders",
       "count": 10,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {

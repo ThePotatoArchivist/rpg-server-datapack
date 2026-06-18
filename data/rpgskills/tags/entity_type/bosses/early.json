@@ -2,15 +2,7 @@
   "values": [
     "cataclysm:netherite_monstrosity",
     "cataclysm:ender_guardian",
-    "cataclysm:the_leviathan",
-    "cataclysm:ancient_remnant",
-    "cataclysm:the_harbinger",
-    "cataclysm:maledictus",
-    "cataclysm:scylla",
-    "fdbosses:chesed",
-    "fdbosses:malkuth",
-    "fdbosses:geburah",
-    "cataclysm:ignis"
+    "fdbosses:malkuth"
   ],
 
   "replace": true

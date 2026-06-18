@@ -1,11 +1,11 @@
 {
-  "name": "Mining 1",
+  "name": "Stone Smasher",
   "cooldown_ticks": 1200,
   "reward_points": 5,
   "tasks": [
     {
       "id": "mine_stone",
-      "description": "Mine Stone (without Silk Touch)",
+      "description": "Mine Stone (Without Silk Touch)",
       "count": 30,
       "trigger": "rpgskills:break_block",
       "conditions": {

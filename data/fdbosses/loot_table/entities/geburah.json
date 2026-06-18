@@ -38,6 +38,17 @@
         }
       ],
       "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [],
+          "name": "rpgskills:rebirth_elixir"
+        }
+      ],
+      "rolls": 1.0
     }
   ],
   "random_sequence": "fdbosses:entities/geburah"

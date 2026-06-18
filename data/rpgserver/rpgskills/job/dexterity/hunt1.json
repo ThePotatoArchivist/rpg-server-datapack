@@ -1,16 +1,16 @@
 {
-  "name": "Hunting 1",
+  "name": "Fishy Business",
   "cooldown_ticks": 2400,
   "reward_points": 5,
   "tasks": [
     {
       "id": "kill_fish",
-      "description": "Kill any fish",
+      "description": "Kill Fishes",
       "count": 15,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {
-          "type": "#c:fishes"
+          "type": "#rpgskills:huntable_fish"
         }
       }
     }

@@ -1,16 +1,16 @@
 {
-  "name": "Smithing 1",
+  "name": "Careful Carving",
   "cooldown_ticks": 1200,
   "reward_points": 5,
   "tasks": [
     {
       "id": "craft_wooden_tools",
-      "description": "Craft wooden tools",
+      "description": "Craft Wooden Tools or Weapons",
       "count": 5,
       "trigger": "rpgskills:craft_item",
       "conditions": {
         "item": {
-          "items": "#rpgskills:wooden_tools"
+          "items": "#rpgskills:wooden_gear"
         }
       }
     }

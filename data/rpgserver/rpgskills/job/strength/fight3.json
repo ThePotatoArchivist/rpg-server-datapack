@@ -1,11 +1,11 @@
 {
-  "name": "Fighting 3",
+  "name": "Boom Brawler",
   "cooldown_ticks": 4800,
   "reward_points": 11,
   "tasks": [
     {
       "id": "kill_creeper",
-      "description": "Kill Creeper",
+      "description": "Kill Creepers",
       "count": 5,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {

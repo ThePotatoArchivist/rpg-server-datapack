@@ -1,11 +1,11 @@
 {
-  "name": "Cooking 2",
+  "name": "Sub Ways",
   "cooldown_ticks": 4800,
   "reward_points": 11,
   "tasks": [
     {
       "id": "craft_sandwich",
-      "description": "Make basic sandwiches (lvl1-7)",
+      "description": "Make sandwiches from Affinity levels 3-7",
       "count": 5,
       "trigger": "rpgskills:craft_item",
       "conditions": {

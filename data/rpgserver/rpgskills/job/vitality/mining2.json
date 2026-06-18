@@ -1,11 +1,11 @@
 {
-  "name": "Mining 2",
+  "name": "Copper Collector",
   "cooldown_ticks": 2400,
   "reward_points": 8,
   "tasks": [
     {
       "id": "mine_copper",
-      "description": "Mine Copper Ore (without Silk Touch)",
+      "description": "Mine Copper Ore (Without Silk Touch)",
       "count": 20,
       "trigger": "rpgskills:break_block",
       "conditions": {

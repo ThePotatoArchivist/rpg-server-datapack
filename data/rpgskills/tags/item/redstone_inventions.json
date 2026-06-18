@@ -1,7 +1,10 @@
 {
   "values": [
-    "minecraft:stone_button",
-    "minecraft:stone_pressure_plate",
+    "minecraft:repeater",
+    "minecraft:redstone_block",
+    "minecraft:redstone_torch",
+    "minecraft:note_block",
+    "minecraft:target",
     "minecraft:dispenser",
     "minecraft:dropper",
     "create:powered_latch",
@@ -10,11 +13,7 @@
     "minecraft:daylight_detector",
     "minecraft:observer",
     "minecraft:redstone_lamp",
-    "minecraft:tnt",
-    "minecraft:tripwire_hook",
-    "create:sand_paper",
-    "create:red_sand_paper",
-    "minecraft:copper_torch",
-    "minecraft:trapped_chest"
+    "supplementaries:cog_block",
+    "ghosts:calibrated_haunted_eye"
   ]
 }

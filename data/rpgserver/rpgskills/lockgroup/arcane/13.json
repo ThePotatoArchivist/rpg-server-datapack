@@ -8,16 +8,9 @@
     "wizards:staff_wizard",
     "runes:medium_rune_pouch",
     "cataclysm:blazing_grips",
-    "cataclysm:vitality_ankh",
-    "#rpgskills:end_eyes",
-    "#rpgskills:boss_eyes"
+    "cataclysm:vitality_ankh"
   ],
   "recipes": [
-    "minecraft:ender_eye",
-    "endrem:exotic_eye",
-    "endrem:undead_eye",
-    "endrem:witch_eye",
-    "#rpgskills:boss_eyes",
     "travelersbackpack:void_upgrade"
   ]
 }

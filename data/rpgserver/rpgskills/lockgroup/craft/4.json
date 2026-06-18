@@ -5,6 +5,7 @@
     }
   ],
   "recipes": [
+    "minecraft:stone_slab",
     "minecraft:furnace",
     "minecraft:grindstone",
     "supplementaries:bellows",

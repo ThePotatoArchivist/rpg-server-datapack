@@ -1,5 +1,10 @@
 {
   "values": [
+    "cataclysm:ancient_remnant",
+    "cataclysm:maledictus",
+    "cataclysm:scylla",
+    "cataclysm:the_harbinger",
+    "fdbosses:chesed"
   ],
 
   "replace": true

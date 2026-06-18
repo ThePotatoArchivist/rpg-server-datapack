@@ -1,5 +1,8 @@
 {
   "values": [
+    "cataclysm:the_leviathan",
+    "fdbosses:geburah",
+    "cataclysm:ignis"
   ],
   "replace": true
 }

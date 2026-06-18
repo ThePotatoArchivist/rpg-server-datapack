@@ -1,11 +1,11 @@
 {
-  "name": "Fighting 2",
+  "name": "Bare Bones",
   "cooldown_ticks": 3600,
   "reward_points": 8,
   "tasks": [
     {
       "id": "kill_skeleton",
-      "description": "Kill Skeleton",
+      "description": "Kill Skeletons",
       "count": 5,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {

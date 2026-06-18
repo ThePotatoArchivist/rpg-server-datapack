@@ -1,0 +1,26 @@
+{
+  "pools": [
+    {
+      "name": "ender_golem",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:void_core",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [],
+          "name": "rpgskills:rebirth_elixir"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -5,7 +5,16 @@
     }
   ],
   "items": [
-    "#c:ender_pearls"
+    "#c:ender_pearls",
+    "#rpgskills:end_eyes",
+    "#rpgskills:boss_eyes"
+  ],
+  "recipes": [
+    "minecraft:ender_eye",
+    "endrem:exotic_eye",
+    "endrem:undead_eye",
+    "endrem:witch_eye",
+    "#rpgskills:boss_eyes"
   ],
   "item_components": {
     "spell_engine:spell_scroll": {

@@ -1,11 +1,11 @@
 {
-  "name": "Runes 1",
+  "name": "Magic and Gathering",
   "cooldown_ticks": 1200,
   "reward_points": 5,
   "tasks": [
     {
       "id": "craft_rune",
-      "description": "Craft fire rune",
+      "description": "Craft Fire Runes",
       "count": 20,
       "trigger": "rpgskills:craft_item",
       "conditions": {

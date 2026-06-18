@@ -1,16 +1,16 @@
 {
-  "name": "Invention 2",
+  "name": "Tinkering Trials",
   "cooldown_ticks": 2400,
   "reward_points": 8,
   "tasks": [
     {
       "id": "craft_invention",
-      "description": "Craft lvl4 redstone inventions",
-      "count": 5,
+      "description": "Craft Hot Air Envelopes or Scaffolding",
+      "count": 10,
       "trigger": "rpgskills:craft_item",
       "conditions": {
         "item": {
-          "items": "#rpgskills:simple_redstone_inventions"
+          "items": "#rpgskills:simple_inventions"
         }
       }
     }

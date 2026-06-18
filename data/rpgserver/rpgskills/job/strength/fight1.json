@@ -1,11 +1,11 @@
 {
-  "name": "Fighting 1",
+  "name": "Grave Digger",
   "cooldown_ticks": 2400,
   "reward_points": 5,
   "tasks": [
     {
       "id": "kill_zombie",
-      "description": "Kill Zombie",
+      "description": "Kill Zombies",
       "count": 10,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {

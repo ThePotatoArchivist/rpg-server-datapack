@@ -1,7 +1,16 @@
 {
   "values": [
+    "create:dough",
+    "farmersdelight:wheat_dough",
+    "veggiesdelight:sweet_potato_dough",
     "minecraft:bread",
     "veggiesdelight:garlic_bread",
-    "crabbersdelight:fish_stick"
+    "crabbersdelight:fish_stick",
+    "moredelight:toast_with_sweet_berries",
+    "moredelight:toast_with_glow_berries",
+    "farmersdelight:sweet_berry_cookie",
+    "minersdelight:bat_cookie",
+    "minersdelight:insect_sandwich",
+    "minersdelight:insect_wrap"
   ]
 }

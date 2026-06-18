@@ -1,12 +1,12 @@
 {
-  "name": "Dispell 2",
+  "name": "Grade 3 Sorcery",
   "cooldown_ticks": 4800,
   "reward_points": 11,
   "tasks": [
     {
       "id": "kill_monsters",
-      "description": "Kill monsters with frost or arcane magic",
-      "count": 20,
+      "description": "Kill Monsters with Frost or Arcane Magic",
+      "count": 15,
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [

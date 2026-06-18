@@ -1,11 +1,11 @@
 {
-  "name": "Cooking 1",
+  "name": "How to Basic",
   "cooldown_ticks": 1200,
   "reward_points": 5,
   "tasks": [
     {
       "id": "craft_meal",
-      "description": "Prepare basic meals (lvl1)",
+      "description": "Make food from Affinity levels 1-2",
       "count": 5,
       "trigger": "rpgskills:craft_item",
       "conditions": {
