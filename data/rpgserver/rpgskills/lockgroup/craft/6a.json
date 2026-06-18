@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:craft": 6,
+      "rpgserver:ingenuity": 6
+    }
+  ],
+  "recipes": [
+    "minecraft:andesite"
+  ]
+}

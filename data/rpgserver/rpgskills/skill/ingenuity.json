@@ -4,6 +4,7 @@
     "levels": {
         "1": {
             "jobs": [
+                "rpgserver:ingenuity/invention0",
                 "rpgserver:ingenuity/invention1"
             ]
         },
