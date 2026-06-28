@@ -9,6 +9,7 @@
   ],
   "recipes": [
     "exposure:interplanar_projector",
+    "cold_sweat:soulspring_lamp",
     "minecraft:conduit",
     "minecraft:wind_charge",
     "minecraft:soul_campfire",
