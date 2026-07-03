@@ -6,6 +6,7 @@
   ],
   "items": [
     "create:deployer",
+    "create:mechanical_plough",
     "create:elevator_pulley",
     "create:packager",
     "create:repackager",
@@ -23,6 +24,7 @@
 ],
   "recipes": [
     "create:deployer",
+    "create:mechanical_plough",
     "create:elevator_pulley",
     "create:packager",
     "create:repackager",

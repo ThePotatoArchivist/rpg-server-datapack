@@ -1,0 +1,11 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 14,
+      "rpgserver:ingenuity": 24
+    }
+  ],
+  "items": [
+    "create:copper_backtank"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 8,
+      "rpgserver:ingenuity": 24
+    }
+  ],
+  "items": [
+    "create:copper_diving_helmet",
+    "minecraft:copper_leggings",
+    "create:copper_diving_boots"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "requirements": [
+    {
+      "rpgserver:vitality": 25,
+      "rpgserver:ingenuity": 30
+    }
+  ],
+  "items": [
+    "create:netherite_diving_helmet",
+    "create:netherite_backtank",
+    "minecraft:netherite_leggings",
+    "create:netherite_diving_boots"
+  ]
+}

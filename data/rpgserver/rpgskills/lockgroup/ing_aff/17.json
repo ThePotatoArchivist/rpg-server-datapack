@@ -1,18 +1,16 @@
 {
   "requirements": [
     {
-      "rpgserver:ingenuity": 11
+      "rpgserver:ingenuity": 17
     },
     {
       "rpgserver:affinity": 6
     }
   ],
   "items": [
-    "create:mechanical_harvester",
-    "create:mechanical_plough"
+    "create:mechanical_harvester"
   ],
   "recipes": [
-    "create:mechanical_harvester",
-    "create:mechanical_plough"
+    "create:mechanical_harvester"
   ]
 }
