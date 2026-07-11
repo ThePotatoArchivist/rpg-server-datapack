@@ -113,10 +113,6 @@
                     "amount": 0.1,
                     "operation": "add_multiplied_base"
                 },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 1,
-                    "operation": "add_value"
-                },
                 "minecraft:player.block_break_speed": {
                     "amount": 0.01,
                     "operation": "add_multiplied_base"
@@ -161,10 +157,6 @@
                     "amount": 0.015,
                     "operation": "add_multiplied_base"
                 },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 0.15,
-                    "operation": "add_multiplied_base"
-                },
                 "minecraft:player.block_break_speed": {
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
@@ -185,10 +177,6 @@
                     "amount": 0.015,
                     "operation": "add_multiplied_base"
                 },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 0.15,
-                    "operation": "add_multiplied_base"
-                },
                 "minecraft:player.block_break_speed": {
                     "amount": 0.05,
                     "operation": "add_multiplied_base"
@@ -207,10 +195,6 @@
             "attributes": {
                 "minecraft:generic.attack_damage": {
                     "amount": 0.01,
-                    "operation": "add_multiplied_base"
-                },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 0.25,
                     "operation": "add_multiplied_base"
                 },
                 "minecraft:player.block_break_speed": {
@@ -240,10 +224,6 @@
                 "minecraft:generic.attack_damage": {
                     "amount": 0.007,
                     "operation": "add_multiplied_base"
-                },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 0.15,
-                    "operation": "add_multiplied_base"
                 }
             }
         },
@@ -260,10 +240,6 @@
                 "minecraft:generic.attack_damage": {
                     "amount": 0.007,
                     "operation": "add_multiplied_base"
-                },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 0.15,
-                    "operation": "add_multiplied_base"
                 }
             }
         },
@@ -279,10 +255,6 @@
             "attributes": {
                 "minecraft:generic.attack_damage": {
                     "amount": 0.025,
-                    "operation": "add_multiplied_base"
-                },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 0.15,
                     "operation": "add_multiplied_base"
                 },
                 "minecraft:player.block_break_speed": {
@@ -309,10 +281,6 @@
                     "amount": 0.007,
                     "operation": "add_multiplied_base"
                 },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 0.15,
-                    "operation": "add_multiplied_base"
-                },
                 "minecraft:player.block_break_speed": {
                     "amount": 0.10,
                     "operation": "add_multiplied_base"
@@ -337,10 +305,6 @@
                     "amount": 0.007,
                     "operation": "add_multiplied_base"
                 },
-                "minecraft:generic.attack_knockback": {
-                    "amount": 0.15,
-                    "operation": "add_multiplied_base"
-                },
                 "minecraft:player.block_break_speed": {
                     "amount": 0.10,
                     "operation": "add_multiplied_base"
@@ -350,10 +314,6 @@
         "30": {
             "attributes": {
                 "minecraft:generic.attack_damage": {
-                    "amount": 0.25,
-                    "operation": "add_multiplied_base"
-                },
-                "minecraft:generic.attack_knockback": {
                     "amount": 0.25,
                     "operation": "add_multiplied_base"
                 },
